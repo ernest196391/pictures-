@@ -2,13 +2,15 @@
 
 ## Siguiente lote
 
-- [ ] Recibir las dos nuevas fotos; todavía no recibidas al registrar esta actualización.
-- [ ] Identificar productos, variantes y etiquetas CUP.
-- [ ] Comparar con los 32 productos existentes; proponer reutilización solo si coincide envase, variante y tamaño.
-- [ ] Crear o reutilizar imágenes revisadas, actualizar datos y publicar.
-- [ ] Registrar nuevos aprendizajes y dudas.
+- [x] Recibir nuevo lote: llegaron 20 fotos adicionales, inspeccionadas y registradas en batch-002.
+- [x] Identificar segundo lote: 29 productos listos para imagen y 15 dudas de precio/presentación.
+- [x] Comparar con los 32 existentes: sin coincidencias exactas aprobadas en este lote.
+- [x] Crear 29 imágenes revisadas y actualizar catálogo; commit tienda 0cb84c39d29aad736da1bcde58a213920c399906. Verificar despliegue en SESSION_STATE.
+- [x] Registrar aprendizajes y dudas; 3 correcciones documentadas.
 
 ## Datos comerciales
+
+- [ ] Confirmar los 15 candidatos de `data/coloshop/batch-002/pending.json` (31 pendientes acumulados).
 
 - [ ] Confirmar los 16 candidatos detallados en `data/coloshop/batch-001/pending.json`.
 - [ ] Gain pequeño: distinguir etiquetas de 5.000 / 7.000 CUP.

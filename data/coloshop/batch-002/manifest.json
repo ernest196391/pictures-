@@ -1,0 +1,252 @@
+{
+  "batch": "002",
+  "sources": [
+    {
+      "file": "IMG_20261009_165036.jpg",
+      "originalSha256": "80a6b00f667498c22491e28d31e6824f61b8a026f3de8e6b85665dcdd9dfd0c3",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165036.jpg",
+      "optimizedSha256": "ac4e60c62bcedf9c25b85807fff5476519d742083edb1add056ba45d85ad4b3e"
+    },
+    {
+      "file": "IMG_20261009_165039_1.jpg",
+      "originalSha256": "90129665325441c054f07b29690506180489bda8d68d6eb4353867f9fed2ec74",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165039_1.jpg",
+      "optimizedSha256": "a5ed19c87861391570d8013ae42c4bdc0cf8203fe208e3602fa04e0f3633a5f7"
+    },
+    {
+      "file": "IMG_20261009_165045.jpg",
+      "originalSha256": "9ac11a2007d7c238ce66a426b3d974d62619ed042487f11c1fbc7fa47ac70973",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165045.jpg",
+      "optimizedSha256": "d89b2a0f3a8037839d47189ec3ca9138310a8e760624880c0edf7cb4c07673ae"
+    },
+    {
+      "file": "IMG_20261009_165050_1.jpg",
+      "originalSha256": "19e7fcc14b33b865bbafd0e99828f47b57e1a7a1d09b14eb207514226eec0c08",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165050_1.jpg",
+      "optimizedSha256": "801620bda8d214446050f84f3c33aa209dda43a545a18414641334e05f1d32f4"
+    },
+    {
+      "file": "IMG_20261009_165055_1.jpg",
+      "originalSha256": "d055fa85968baa508cf03920b6ce7c37a6cd88c954d85ce4a52e2b586d13ee6a",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165055_1.jpg",
+      "optimizedSha256": "eaffcbcea4dc98ffde476fc0ac07943dec1d529ad2bd42535a43fe903baf0f97"
+    },
+    {
+      "file": "IMG_20261009_165059_1.jpg",
+      "originalSha256": "fb7433266a361cb4e448366a33b636e7acb02255f225e489a4ec002821c8ef12",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165059_1.jpg",
+      "optimizedSha256": "52bbfa6daf5b34fefc261e9b064f959303f22a306d88af7b0f188b62de2a3577"
+    },
+    {
+      "file": "IMG_20261009_165106_1.jpg",
+      "originalSha256": "35d4ab115c15255223da1a66fc50871fb38ee7bab24425aa86207bc9ed5b40b2",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165106_1.jpg",
+      "optimizedSha256": "3092937bff7dc111f4ee2f52fb3e0a8d563bd777768c2b163a111d38e8615419"
+    },
+    {
+      "file": "IMG_20261009_165110_1.jpg",
+      "originalSha256": "d227f39e5ce1b723bc5ec9bd4570600966698e94679e79f98e150305cd4d9488",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165110_1.jpg",
+      "optimizedSha256": "aa18984eaa99268a01456926205579b038d5499f5dd22e1e857096148cc0eb89"
+    },
+    {
+      "file": "IMG_20261009_165114.jpg",
+      "originalSha256": "04b4bb87b6456e519ba2bf8ab8cd17a7d36b15508ec0e06ec418c61f518b1a38",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165114.jpg",
+      "optimizedSha256": "a1c084fdfdb088ed43f5c141a4320d17e6321e7e0901f3c537ee0971f344ac7f"
+    },
+    {
+      "file": "IMG_20261009_165120.jpg",
+      "originalSha256": "6292d790b2369ba00b4f38949d5cba20434999a688373174093793d8a06a6ba7",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165120.jpg",
+      "optimizedSha256": "81551565954a3a8ed6c4b9a631b3f1653053daea14566041ef247f708f664c00"
+    },
+    {
+      "file": "IMG_20261009_165123_1.jpg",
+      "originalSha256": "a08fd00e0aa0fea6dc50aa8bd967b0863990fab69e5747684edfacb66cbf3e0e",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165123_1.jpg",
+      "optimizedSha256": "8fdaa364b9f4c7456830ddddb6fbfece746c708afe8ff89f3ccaadc4cf79ba2a"
+    },
+    {
+      "file": "IMG_20261009_165128.jpg",
+      "originalSha256": "c8a07ef76b379415956dc9c6e82ed1ceee938073262c3ac1c3d69c3374c65c50",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165128.jpg",
+      "optimizedSha256": "0301bfc4148af48c1f9bd885d3c87d544f09839142cd387a86e0de726830644e"
+    },
+    {
+      "file": "IMG_20261009_165138.jpg",
+      "originalSha256": "a623b079aa49661e1ddff50bb13c6209ffd8140076f94511503eb9a1e3754885",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165138.jpg",
+      "optimizedSha256": "469bef3dc152e7ebe01ae2da5e64a0dc9ea8dfce7b04c04dfd06f9ae8283da29"
+    },
+    {
+      "file": "IMG_20261009_165144.jpg",
+      "originalSha256": "5212f302369ebc8c71c98d910b9ac6e7dc3ca5b270fc00b6e4231f73ac812b99",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165144.jpg",
+      "optimizedSha256": "cf5aad77318b229a1f8c89ed665ad9dd8954e545815b8d966e0620610460f239"
+    },
+    {
+      "file": "IMG_20261009_165148.jpg",
+      "originalSha256": "207747c388df1a81c11386bd1915a35b61cc56ed3c67558d57857ba3fc31fc45",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165148.jpg",
+      "optimizedSha256": "89d9fb7849c5e6730162c351a1144ddf7797332ed0f8251580f72f119a85b5c5"
+    },
+    {
+      "file": "IMG_20261009_165150.jpg",
+      "originalSha256": "fac4f113a0cb4eb265bad964c4a300e0c6e9cd0531fe7e91cfe05bdfb92029f8",
+      "dimensions": [
+        1536,
+        2048
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165150.jpg",
+      "optimizedSha256": "e78d4bac77aa1b2a096f9711c7e07641c9eaf53c3a2c8fa36f1c7516decd7a93"
+    },
+    {
+      "file": "IMG_20261009_165157.jpg",
+      "originalSha256": "69acbc548fc986ab75ca595e2b741321fa75e7475a1a976ed8f000b81f3e4196",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165157.jpg",
+      "optimizedSha256": "d78a25a5fd473ffdb3aaddc31949c32b911c2414511c2b8d0c46a3ad685354fc"
+    },
+    {
+      "file": "IMG_20261009_165200.jpg",
+      "originalSha256": "afea27e1407fc6fa333680e621624d7e0162123a975be017205dc7f5b90289a8",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165200.jpg",
+      "optimizedSha256": "0c6edda97ea560c890c71df9caa821d618ec01b9f292d45d743514427584e033"
+    },
+    {
+      "file": "IMG_20261009_165203.jpg",
+      "originalSha256": "0c8d201951e905f4a55625fc67ae9d24a2a7e0cdbc73c11763fb776a28907ba1",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165203.jpg",
+      "optimizedSha256": "d05e5745058e2f2b19873371008264c252e58f7796d3a7a38547c31a4b45bd32"
+    },
+    {
+      "file": "IMG_20261009_165207.jpg",
+      "originalSha256": "e217fd07cd25a16b89f0d337a9c37d006976198511d642d6c2564069b88c1ed6",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165207.jpg",
+      "optimizedSha256": "5e01b24c91fc731b3cea7996a32ebee5556e6d3edf3b49f3399a3ed4ea8e0079"
+    }
+  ],
+  "sourceCount": 20,
+  "currency": "CUP",
+  "published": true,
+  "readyForImage": 0,
+  "pending": 15,
+  "generationCalls": 32,
+  "correctionCalls": 3,
+  "existingCatalogComparison": "Compared candidate identities against batch-001; no exact product+variant+size asset match among ready products. Repeated appearances within this batch consolidated.",
+  "approvedImages": 29,
+  "initialGenerationCalls": 29,
+  "reviewed": true,
+  "corrections": {
+    "salud-multiusos": "Replaced invented spray trigger with actual white screw cap",
+    "parex-s": "Removed product assortment; one pink S roll only",
+    "parex-m": "Removed product assortment; one yellow M roll only"
+  },
+  "storeCommit": "0cb84c39d29aad736da1bcde58a213920c399906",
+  "productionVerified": true,
+  "deploymentId": "dpl_9LEqMC1kd8ywpJkhSNCxAeJPpDDh",
+  "deploymentState": "READY",
+  "verification": {
+    "tests": "19 passed",
+    "build": "passed",
+    "browser": "61 products visible; Parex S/M images loaded; Parex S cart subtotal 1750 CUP",
+    "authenticatedAdmin": "Not checked beyond existing login redirect",
+    "orderCreated": false
+  }
+}
