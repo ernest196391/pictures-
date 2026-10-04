@@ -28,3 +28,5 @@ Registrar origen, observaciones, decisión, imagen utilizada, precio confirmado,
 29 imágenes aceptadas, 32 llamadas: 29 iniciales y 3 correcciones (tapón multiusos y dos Parex que salieron como surtido). No conocemos el coste real en créditos. Especificar una sola unidad y describir el cierre exacto reduce errores; comprobar contra el original antes de publicar. Las imágenes son recreaciones, no prueba del texto pequeño del envase. Mantener precios y ofertas por tienda separados del activo global.
 
 Para la próxima sesión: cargar los originales en una sola carpeta persistente, leer SESSION_STATE, procesar solo archivos nuevos por hash, revisar identidad/precio antes de generar y reutilizar activos aprobados únicamente si coinciden variante, tamaño y envase. Una fotografía frontal por producto y otra del precio evita ambigüedades.
+
+Al cerrar se recuperó un registro de 13 generaciones anteriores sustituidas, adicionales a las 32 del pase aprobado: 45 llamadas registradas en total. Evitar iniciar otro pase mientras haya trabajos abiertos; guardar cada resultado y el estado del lote antes de continuar. No eliminar esta evidencia de gasto.

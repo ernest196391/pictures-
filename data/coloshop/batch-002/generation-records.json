@@ -1,0 +1,106 @@
+[
+  {
+    "sharedProductId": "salud-salfuman",
+    "sourcePhoto": "IMG_20261009_165036.jpg",
+    "prompt": "Extract single retail unit faithfully from source onto white square background; preserve packaging.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "1b09d15effe3c0d9f04fa0616695b847983e19253275d70ccdadd68e8f63ba70",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "salud-multiusos",
+    "sourcePhoto": "IMG_20261009_165039_1.jpg",
+    "prompt": "Extract single retail unit faithfully from source onto white square background; preserve packaging.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "d6f0ae3dfd5ad696df309918fa8fdbee288cb768ba6cf3df99db6abc953a13de",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "salud-antical-spray",
+    "sourcePhoto": "IMG_20261009_165039_1.jpg",
+    "prompt": "Extract single retail unit faithfully from source onto white square background; preserve packaging.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "3c3744410f5dbc56a03b7e42e6d04f22ce061d49ed08c613e397ddcdf7ee683d",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "khawla-lavavajillas",
+    "sourcePhoto": "IMG_20261009_165045.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one white KHAWLA dishwashing liquid bottle with green flip top and red green label. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "5e17d741400b0cb9a160e9a6b82cd89c3b4b07429f22598429985202c106111e",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "dawn-crisp-lilac",
+    "sourcePhoto": "IMG_20261009_165050_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one navy Dawn Powerwash Crisp Lilac REFILL bottle with white cap and purple label, no spray trigger. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "3de5f07c6dbdf62f8db987e4ff37a7d4688bb0398b0f4e4ad4b3bac611fe1c96",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "lex-wc-limp",
+    "sourcePhoto": "IMG_20261009_165055_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one white Lex Clean WC LIMP 1 litro bottle with angled white dispensing spout and magenta label. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "9aae379a8642a89c3d71245499433d69bc47eb71e1b07a7655e1436352fa045b",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "pano-blanco",
+    "sourcePhoto": "IMG_20261009_165059_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one single folded white/off-white textured cleaning cloth from left pile, keep red woven stripe, not the pile. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "3da9792237628377a913295abef59f9f2caf07d4b788ea771776573cd881e315",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "pano-amarillo",
+    "sourcePhoto": "IMG_20261009_165059_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one single folded yellow cleaning cloth from right pile, retain texture and stitched border, not pile. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "3ae1827416d1ee7d8dd40dac7b22b49986abade031c26000ebf992c28c930178",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "nature-cinnamon",
+    "sourcePhoto": "IMG_20261009_165106_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one red liquid Nature Fresh Natural Cinnamon mouthwash 532mL bottle. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "21a18347f7fb0c4f28d95ac9c28951d8154ffd40adac92042109e62aaa53e232",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "nature-spearmint",
+    "sourcePhoto": "IMG_20261009_165106_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one green Nature Fresh Natural Spearmint mouthwash 710mL bottle. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "4a1d62bff29d40b325d33c2d068e49f908f2a62065b342572f030dde954e325c",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "mister-pack-congelacion",
+    "sourcePhoto": "IMG_20261009_165110_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one Mister Pack box of 15 freezer bags, blue pale box with chef, 28x42 cm 6 lt. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "9286ae01350e1997db495b9330885232168673201c4f93f2876604022da8cb42",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "mical-film",
+    "sourcePhoto": "IMG_20261009_165106_1.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY one long yellow MICAL Film Transparente 30m box, do not include freezer bag boxes. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "9bc2c34dadce3560bbdfb11ac0d4cdd357270b53d3a79ff7118562e5601d14c7",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  },
+  {
+    "sharedProductId": "alfa-molinillos",
+    "sourcePhoto": "IMG_20261009_165114.jpg",
+    "prompt": "Use case: background-extraction. Edit target: supplied shelf photograph. Extract ONLY the TWO actual empty clear cylindrical salt pepper grinders with GREEN lids, as one retail set, without cardboard box. Keep actual green color, do not use grey grinders printed on box. Faithful commercial photograph, pure white square canvas, entire product centered with generous 10% margins, soft studio light and subtle contact shadow. Preserve original shape, closures, colors, label design and readable brand text; do not invent text or packaging. Remove other products, shelves and price tags. No price overlay, no decorations.",
+    "reviewStatus": "superseded_not_published",
+    "generatedSha256": "95c53bb80552d1cf9d91deb2498e1dbbf4d7335f6c22e64bfdb3c840312e0e61",
+    "note": "Earlier generation pass recovered at session close. Not part of approved asset set; do not regenerate or publish automatically."
+  }
+]

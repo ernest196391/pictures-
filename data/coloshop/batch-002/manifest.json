@@ -227,7 +227,7 @@
   "published": true,
   "readyForImage": 0,
   "pending": 15,
-  "generationCalls": 32,
+  "generationCalls": 45,
   "correctionCalls": 3,
   "existingCatalogComparison": "Compared candidate identities against batch-001; no exact product+variant+size asset match among ready products. Repeated appearances within this batch consolidated.",
   "approvedImages": 29,
@@ -248,5 +248,7 @@
     "browser": "61 products visible; Parex S/M images loaded; Parex S cart subtotal 1750 CUP",
     "authenticatedAdmin": "Not checked beyond existing login redirect",
     "orderCreated": false
-  }
+  },
+  "approvedPassGenerationCalls": 32,
+  "earlierSupersededGenerationCalls": 13
 }
