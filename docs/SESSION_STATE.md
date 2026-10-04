@@ -5,7 +5,8 @@ Fecha: 2026-10-04. Tienda piloto: Colo Shop. App: ernest196391/pictures-; tienda
 - Lote 001: 20 fotos, 32 productos publicados, 16 pendientes.
 - Lote 002: 20 fotos, 29 productos publicados, 15 pendientes; 29 imágenes aceptadas, 45 llamadas registradas (32 en el pase aprobado y 13 anteriores sustituidas), con 3 correcciones en el pase aprobado.
 - Lote 003: 20 fotos, 23 productos publicados, 24 pendientes; 23 imágenes aceptadas, 25 llamadas (2 correcciones).
-- Total: 60 fotos inspeccionadas, 84 productos publicados y 55 candidatos pendientes excluidos de ventas.
+- Lote 004: 20 archivos: 14 duplicados exactos reutilizados y 6 fotos nuevas; 20 productos nuevos y 11 pendientes; 21 llamadas de imagen, incluida una corrección de peso no legible.
+- Total: 80 archivos recibidos, 66 fotos únicas inspeccionadas, 104 productos publicados y 66 candidatos pendientes excluidos de ventas.
 - Commit tienda lote 003: 33aea696faff4d14e9c695e433b1317a356389a7. Producción https://frutos-secos-drab.vercel.app/. Despliegue dpl_F1BEEGjff8H6Sx3zPdDg4EmFwC4r READY.
 - Verificación lote 003: 19 tests, compilación, catálogo 84 en navegador, imagen Macro Food Piña y carrito 1280 CUP. No se creó pedido real ni se verificó panel autenticado.
 - Datos por lote: productos, pendientes, manifiesto, tabla CSV; lote 002 añade prompts. Hashes y rutas conservados para recuperar activos sin regenerar.
@@ -15,3 +16,5 @@ Fecha: 2026-10-04. Tienda piloto: Colo Shop. App: ernest196391/pictures-; tienda
 Siguiente trabajo: confirmar pendientes, crear cargador móvil con almacenamiento persistente y catálogo global de imágenes revisadas. Panel actual consulta/exporta; no edita precios persistentes. App todavía es prototipo documentado, no flujo automático completo.
 
 Para ahorrar: leer este archivo, procesar solo nuevos hashes, resolver precios antes de generar y solicitar una foto frontal y un precio inequívoco por producto. Priorizar quitar fondo preservando envase cuando sea viable; recreaciones necesitan revisión de cierres y etiquetas. No conocemos coste exacto de créditos.
+
+Lote 004 publicado: bd0c33ae7570ccdb696c42fedb0aab428bc2b3b8; despliegue dpl_8MTasJUohXMTZ3iA3u5JrGJcAV43 READY. Verificado catálogo 104, imagen Wellsley 900 px y subtotal 19500 CUP; carrito de prueba retirado. No regenerar este lote.

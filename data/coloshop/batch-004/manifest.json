@@ -167,7 +167,8 @@
       ],
       "readStatus": "inspected",
       "duplicateOf": null,
-      "sourceImage": "/catalog-sources/IMG_20261009_165353.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165353.jpg",
+      "optimizedSha256": "f0a213f32a5d08a428e1dbf42ec96742a58a3db88e95b32e0bc1e69373486aa6"
     },
     {
       "file": "IMG_20261009_165401.jpg",
@@ -178,7 +179,8 @@
       ],
       "readStatus": "inspected",
       "duplicateOf": null,
-      "sourceImage": "/catalog-sources/IMG_20261009_165401.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165401.jpg",
+      "optimizedSha256": "358cb093eb7418d4e427c672310cef1a9aba8842a9f0c4f0b903e8eeb958b481"
     },
     {
       "file": "IMG_20261009_165407.jpg",
@@ -189,7 +191,8 @@
       ],
       "readStatus": "inspected",
       "duplicateOf": null,
-      "sourceImage": "/catalog-sources/IMG_20261009_165407.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165407.jpg",
+      "optimizedSha256": "8961621f6af5789a6ccb7d0529ff75787666491918d1105b83f367eb3e3b9006"
     },
     {
       "file": "IMG_20261009_165412.jpg",
@@ -200,7 +203,8 @@
       ],
       "readStatus": "inspected",
       "duplicateOf": null,
-      "sourceImage": "/catalog-sources/IMG_20261009_165412.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165412.jpg",
+      "optimizedSha256": "1ead74a1cc69af81a54d4b59d902a8c28832c30bb1dbf33e464498c3af8f94be"
     },
     {
       "file": "IMG_20261009_165423.jpg",
@@ -211,7 +215,8 @@
       ],
       "readStatus": "inspected",
       "duplicateOf": null,
-      "sourceImage": "/catalog-sources/IMG_20261009_165423.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165423.jpg",
+      "optimizedSha256": "5285ca20c669b3832d31ca51889739892fe428d5f018a891eb4fffd4959de614"
     },
     {
       "file": "IMG_20261009_165430.jpg",
@@ -222,14 +227,28 @@
       ],
       "readStatus": "inspected",
       "duplicateOf": null,
-      "sourceImage": "/catalog-sources/IMG_20261009_165430.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165430.jpg",
+      "optimizedSha256": "35f65ed35e12989785ec237b876b715c3e0bce5b5695ff427bd3be64087e3a4f"
     }
   ],
   "currency": "CUP",
-  "published": false,
-  "stage": "ready-for-images",
-  "activeWorker": "Codex root; do not process concurrently",
-  "generationCalls": 0,
+  "published": true,
+  "stage": "published",
+  "activeWorker": null,
+  "generationCalls": 21,
   "productCount": 20,
-  "pendingCount": 11
+  "pendingCount": 11,
+  "initialGenerationCalls": 20,
+  "correctionCalls": 1,
+  "approvedImages": 20,
+  "reviewed": true,
+  "existingCatalogComparison": "Compared against 84 products; 14 exact source duplicates reused and 6 new photos inspected.",
+  "verification": {
+    "tests": "19 passed",
+    "build": "passed",
+    "production": "READY; 104 products, Wellsley image loaded at 900px and cart subtotal 19500 CUP; test cart cleared"
+  },
+  "shopCommit": "bd0c33ae7570ccdb696c42fedb0aab428bc2b3b8",
+  "productionVerified": true,
+  "deploymentId": "dpl_8MTasJUohXMTZ3iA3u5JrGJcAV43"
 }

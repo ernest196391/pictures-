@@ -1,0 +1,164 @@
+[
+  {
+    "sharedProductId": "oli-pina",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one yellow-white BALDOM Oli Gelatina Piña 85 g box in the central lower row with smiling pineapple; exact pineapple flavor only. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-9c231638-11b7-46da-92cb-a403cc2a8659.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/oli-pina.webp",
+    "approvedSha256": "34ee36aea84059c9c50d5bfde3326f39b085b0e1733326aaffb277c57ea44880"
+  },
+  {
+    "sharedProductId": "quaker-granola",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one cream-burgundy QUAKER Simply Granola Oats Honey Raisins & Almonds large retail outer bag at left; label indicates TWO resealable bags, 2 x 977g totaling 1.95kg, keep this single retail outer bag. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-9a175f2c-b4fa-49a0-b982-4db5d3d0df30.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/quaker-granola.webp",
+    "approvedSha256": "200b7b799a68885396ef883d749dc98571f1bdeceab546850d122ae10518622a"
+  },
+  {
+    "sharedProductId": "kirkland-cashew-clusters",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one orange-gold and green KIRKLAND Signature CASHEW CLUSTERS WITH ALMONDS AND PUMPKIN SEEDS pouch, NET WT 32 OZ (2 LB) 907g. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-360f5669-9e7d-48be-ac08-af94b418a655.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/kirkland-cashew-clusters.webp",
+    "approvedSha256": "ebbd63dffa820dcb3e54e64519862fc19c932baf35a1f04b1aae0321ff3f4c93"
+  },
+  {
+    "sharedProductId": "nutrail-cinnamon",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one white and ochre NuTrail nut granola CINNAMON PECAN pouch, NET WT 22 OZ (1 LB 6 OZ) 624g; preserve exact front claims only as original packaging. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-71eeddf3-e2ef-498c-97c7-0b51aa4defb2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/nutrail-cinnamon.webp",
+    "approvedSha256": "c212519ff4ab29e8003c6f03bb09deb566a30f361f939d4f24d986f4bc4cfe8f"
+  },
+  {
+    "sharedProductId": "purely-cookie-granola",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one white-blue purely elizabeth CHOCOLATE CHIP cookie granola pouch with original clear bottom window. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-b47546d8-68b2-4f46-b562-584b91beb200.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/purely-cookie-granola.webp",
+    "approvedSha256": "8b6e57f9e8f3db60f7cefb0e3e6a5db81460977be1a980412c5058310fc6b561"
+  },
+  {
+    "sharedProductId": "jif-creamy",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one Jif CREAMY PEANUT BUTTER clear jar with red screw lid and red-blue-green label, NET WT 48 OZ (3 LB) 1.36kg. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-115ef962-596a-4629-a07e-bf6eb60692a2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/jif-creamy.webp",
+    "approvedSha256": "04a9224e3157dbc00ca4824cf0d3811f6afe89592e6082d4bd3f011cddefa5dd"
+  },
+  {
+    "sharedProductId": "kirkland-peanuts",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one round KIRKLAND Signature SUPER EXTRA-LARGE PEANUTS metal can with black lid and cream-gold label, Roasted & Salted Virginia Variety Extra Crunchy, NET WT 2.5 LB (40 OZ) 1.13kg; one can, not stack. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-484dd783-2bf1-4606-b25e-e6bf6acf442c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/kirkland-peanuts.webp",
+    "approvedSha256": "3221068548ef677eb5a8bf82d3af3d762b3027293bcc9bba0d9d2067349c532c"
+  },
+  {
+    "sharedProductId": "southern-cocktail",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one short red-orange SOUTHERN GROVE Cocktail PEANUTS with Sea Salt round can, 16 OZ (1 LB) 454g; select red lid blue label can, not plastic jar. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-c2c735f2-4059-45cc-b4f6-f4690979000b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/southern-cocktail.webp",
+    "approvedSha256": "5b6dfb272a68277f0e6184a19934b0c6ee63b37f64b7689d0bbdb8f76d79f4d8"
+  },
+  {
+    "sharedProductId": "southern-honey",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one SOUTHERN GROVE Honey Roasted PEANUTS transparent jar with yellow lid and yellow-blue label; not blue-lid Dry Roasted or red-lid Original. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-bc6c5cff-99fc-41ff-bd75-a23d16bd9256.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/southern-honey.webp",
+    "approvedSha256": "6785843d7ecdb00bdebefdd77f2a16d5ae6ed4096d2ae23a661f9d610f44aec7"
+  },
+  {
+    "sharedProductId": "wellsley-peanut-mix",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one orange and green WELLSLEY FARMS PEANUT BUTTER LOVERS TRAIL MIX resealable pouch, 2.5 LBS / 40 OZ / 1.13kg, preserve original window and printed contents. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-7be151ed-2539-441a-9ad6-0912a483e29b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/wellsley-peanut-mix.webp",
+    "approvedSha256": "3569df66eeb36718d080297c5f537b541b47c1aec252de111e9c75169b60324b"
+  },
+  {
+    "sharedProductId": "southern-tropical",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one yellow SOUTHERN GROVE TROPICAL TRAIL MIX pouch, actual clear lower window, preserve original fruit and nut label; do not infer specifications. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-4c21b928-6756-4382-af08-6ca52d9ac996.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "previous_output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-e34403f3-716e-4dba-8b6f-040af5094306.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "correction": "Removed unverified weight",
+    "approvedImage": "/products/real/southern-tropical.webp",
+    "approvedSha256": "35f6d32f792f9681b9e68f2ee1245ca95634ede9a65a15cce7014c1f50d9f132"
+  },
+  {
+    "sharedProductId": "southern-cajun",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one orange SOUTHERN GROVE SWEET & SPICY CAJUN TRAIL MIX pouch, preserve original clear window and actual printed label. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-30146a89-6a10-416f-b967-f95fc1249156.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/southern-cajun.webp",
+    "approvedSha256": "0a77d68272d9a316ab9ab141e0919ed187ee0bd1928d3a98da26f0f7c8c019c8"
+  },
+  {
+    "sharedProductId": "southern-indulgent",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one smaller gold SOUTHERN GROVE INDULGENT TRAIL MIX resealable pouch at right with clear lower window, original shape and chocolate nuts mix. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-dc01c801-1127-4225-be50-44ed8c0eaa0e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/southern-indulgent.webp",
+    "approvedSha256": "a309311cb7ec85fa6425f2de16aaa10581a8bd24673d64fac0c4a3914ebd5e45"
+  },
+  {
+    "sharedProductId": "gv-cranberry-mix",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one brown Great Value Cranberry, Cashew & Almond Trail Mix resealable bag, NET WT 24 OZ (1 LB 8 OZ) 680g, preserve specific variant and vertical nuts-berries illustration. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-d242b837-c631-4396-994a-c071b375074a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/gv-cranberry-mix.webp",
+    "approvedSha256": "743d5713e3ad02ede21576c918e0da298aedfb82827addc93e5273736e5473df"
+  },
+  {
+    "sharedProductId": "gv-chocolate-peanut-mix",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one brown Great Value Chocolate Peanut Butter Trail Mix bag second from right, NET WT 22 OZ (1 LB 6 OZ) 624g, preserve original candy and peanut illustration. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-8aed3706-6459-4a58-99a2-5a65030fe392.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/gv-chocolate-peanut-mix.webp",
+    "approvedSha256": "c52f408cad6d5a9acbb249eeb76dbb724479b5c6576a20e97bca108fd9a44366"
+  },
+  {
+    "sharedProductId": "gv-probiotic-mix",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one far-right brown Great Value Probiotic Trail Mix bag with pale green circle and purple ring, BC30 badge and NET WT 24 OZ (1 LB 8 OZ) 680g; not neighboring blue bag. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-c736f860-4b82-4062-a04c-26ff912a71c2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/gv-probiotic-mix.webp",
+    "approvedSha256": "f4070a11e9b742c9e13aec18a7615d3792c9d1347181f7fece5d27ba8d85f9e2"
+  },
+  {
+    "sharedProductId": "members-pistachios",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one large dark-green Member’s Mark Roasted CALIFORNIA PISTACHIOS WITH SEA SALT resealable bag at left, pistachios IN SHELL, 3 LB / 1.36kg; keep shells. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-47796d91-f5e3-4895-aff0-f846f5e70a8c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/members-pistachios.webp",
+    "approvedSha256": "613b4f3c8c3049c7badd7ce8b8f6eb005dcf9db3449a7cc45ec8aeb4b8d17791"
+  },
+  {
+    "sharedProductId": "wonderful-pistachios-454",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one FRONT-LEFT medium-size bright green Wonderful Roasted & Salted NO SHELLS PISTACHIOS pouch directly above 25500 sticker; NET WT 16 OZ (1 LB) 454g. Do not select taller 24 OZ 680g bag behind. Keep no-shell window contents and actual medium package. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-30d23bed-9509-424f-8fd9-8f54dbdea6df.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/wonderful-pistachios-454.webp",
+    "approvedSha256": "d814c3c77e09267714c08599b78d6fdf4030fc7b3ddf5de0142fb6379a798c34"
+  },
+  {
+    "sharedProductId": "wonderful-pistachios-340",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one FRONT-RIGHT smaller bright green Wonderful Roasted & Salted NO SHELLS PISTACHIOS pouch directly above left 18000 sticker; NET WT 12 OZ 340g; not larger bags. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-718e04d3-f146-47de-906e-baa88492358e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/wonderful-pistachios-340.webp",
+    "approvedSha256": "415b09003c3518e0bb0f7342cd22b0c28facb8f7129aaff63099d5d87f23e837"
+  },
+  {
+    "sharedProductId": "wonderful-pepper",
+    "status": "approved",
+    "prompt": "Use case: background-extraction. Asset type: ecommerce product photo. Attached original store shelf photograph is the authoritative edit target. Isolate one FRONT-RIGHT white Wonderful Sea Salt & Pepper NO SHELLS PISTACHIOS pouch directly above right 18000 sticker, NET WT 11 OZ (311g); preserve exact pepper variant. Show only ONE complete sale unit, centered on pure white square background with all edges visible, generous margins and subtle contact shadow. Preserve actual packaging, proportions, colors, branding, exact visible label wording, flavor, unit count and size. Remove shelf, neighbors and handwritten price stickers. Improve lighting and clarity only. Do not redesign packaging or add props, prices, watermark, claims or specifications. Never copy a specification from a neighboring product. If text is hidden or unreadable, do not invent it.",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-2df8b20b-2406-4e05-9d23-c46072526566.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/wonderful-pepper.webp",
+    "approvedSha256": "5f0ebcb3fdaaf4c7159c7126074a8e1a3ae33238187b14c9a7e83d9abb8f75e9"
+  }
+]
