@@ -1,0 +1,155 @@
+[
+  {
+    "sharedProductId": "barilla-pesto",
+    "sourcePhoto": "IMG_20261009_165913.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: short glass jar in CENTER-LEFT with wide blue screw lid, dark blue upper label, lime green lower label, red Barilla oval, PESTO alla GENOVESE. No weight legible; omit all weights.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-96edfee6-c307-4ab3-8328-044a7e04e4cb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/barilla-pesto.webp",
+    "approvedSha256": "b8a665076bc851bba2204a4e27cb3a8d63da9a4af44d7f3fcd299e7ae0a20db4"
+  },
+  {
+    "sharedProductId": "trader-olive-pesto",
+    "sourcePhoto": "IMG_20261009_165913.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: short broad glass jar FRONT RIGHT with black metal lid and cream tan label OLIVE and BASIL PESTO SAUCE, TRADER JOE’S small red brand, green olive illustration, NET WT 6.35 OZ (180g). NOT the other taller Basil Pesto jar.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-2d84672b-8e0b-48a6-a57a-f5152f73c617.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/trader-olive-pesto.webp",
+    "approvedSha256": "7fd36a9134fc6795594f3a2ea98a9dffcd2ce5f76bc6d799f2aaf04ea07938ef"
+  },
+  {
+    "sharedProductId": "trader-basil-pesto",
+    "sourcePhoto": "IMG_20261009_165916.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: glass jar FRONT LEFT, black metal lid, pale green label TRADER JOE’S BASIL PESTO Sauce, Product of Italy, green basil drawing, NET WT 6.7 OZ (190g). Preserve this plain BASIL variant, NOT olive basil.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-029d4806-c0bb-4aad-9407-fa07d9decb3f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/trader-basil-pesto.webp",
+    "approvedSha256": "015b1387eb2d3a1aa2fba496981be1815c76ffa6609b665c2b62946a05ae00e5"
+  },
+  {
+    "sharedProductId": "huerta-pepinos",
+    "sourcePhoto": "IMG_20261009_165916.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one jar FRONT RIGHT, black screw lid, large whole pickled cucumbers visible in brine, cream label with line drawing ship logo, LA HUERTA de al LADO and Pepinos grandes en vinagre. Weight not legible, omit.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-70966d72-7bf0-464f-9ba7-362a26b32d0f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/huerta-pepinos.webp",
+    "approvedSha256": "f2781aadde3a8686f1ca0c644740a620c6735910256ecc18753afd57118f16e2"
+  },
+  {
+    "sharedProductId": "huerta-cocktail",
+    "sourcePhoto": "IMG_20261009_165920.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: jar FRONT CENTER-LEFT, black screw lid, cream label ship logo and LA HUERTA de al LADO Cocktail de encurtidos; mixed cucumber/onion/peppers in brine. Visible net 345g, drained 180g. NOT skewers jar.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-fd431539-3aea-4f97-8f45-ed260cbcfaee.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/huerta-cocktail.webp",
+    "approvedSha256": "7d10247b4e3834cbf70126afd492135b39a4bd7631bce9326199334e65638aa1"
+  },
+  {
+    "sharedProductId": "huerta-banderillas",
+    "sourcePhoto": "IMG_20261009_165920.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: jar FRONT RIGHT black lid cream ship logo label LA HUERTA de al LADO Banderillas; wooden toothpick skewers with pickled vegetables visible in brine. No readable weight, omit.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-f13ff8f6-2330-4893-a93b-b1391c4af1cb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/huerta-banderillas.webp",
+    "approvedSha256": "4ae9991b47221b78eec2d604c3064be15ab32f7f9b53cf2cfb0d303d14ee8f86"
+  },
+  {
+    "sharedProductId": "vima-negras",
+    "sourcePhoto": "IMG_20261009_165924.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: large tall glass jar FRONT LEFT with green plastic lid, BLACK pitted olives in brine, white vertical line patterned label dark green Vima FOODS oval and ACEITUNAS NEGRAS SIN HUESO, green bottom band. Actual label says 1966ml, net1820g drained930g. No cord or phone, no green olives.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-331307fd-bcb4-46ee-9e96-3490017cfc1e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/vima-negras.webp",
+    "approvedSha256": "be4668e2621df0503c143c77e33ffc3ee7a0e493f13ed0b27a883da1c5d4aee7"
+  },
+  {
+    "sharedProductId": "vima-alinadas",
+    "sourcePhoto": "IMG_20261009_165928.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: large tall glass jar FRONT CENTER green lid with GREEN WHOLE marinated olives, some garlic and orange pepper at bottom, dark green rectangular label Vima FOODS, ACEITUNAS VERDES ALIÑADAS Marinated olives Spanish TAPAS. NOT pimiento stuffed. Weight is not legible on target variant so omit all weights.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-5770a17f-64e4-46e2-8d6a-6d16aab1f786.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/vima-alinadas.webp",
+    "approvedSha256": "73c67050eb9252e471b87827534e7b319a1a3c6c7b6ccdd7f63bcfe3ec839d50"
+  },
+  {
+    "sharedProductId": "qbanito-cebollitas",
+    "sourcePhoto": "IMG_20261009_165932.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: slender tall glass jar FRONT LEFT white lid, small white onions in brine. Label green top horizontal stripe, brown to red gradient, white cursive Qbanito and CEBOLLITAS. Net230g drained120g as visible in companion view, not olives.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-7561f9d6-b71a-4e21-9590-33febf6887a0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/qbanito-cebollitas.webp",
+    "approvedSha256": "12d7d47033bfc0d59f20f8b2eb6cf0ccd6dfd9e13d2964c9a90c1afdd3432c35"
+  },
+  {
+    "sharedProductId": "didi-peras",
+    "sourcePhoto": "IMG_20261009_165932.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one SHORT squat can FRONT CENTER/RIGHT, cream label red cursive Didi Tradición familiar, green PERAS and MITADES EN ALMÍBAR LIGERO text, yellow pear halves illustration, green bottom stripe. Weight not legible, omit. Exactly one can not two stacked.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-a1b53039-ed15-4783-91b8-e2efbc12a63f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/didi-peras.webp",
+    "approvedSha256": "9fa53a085dbe7095db8b4b6921b4e5e49817188cfa5a9a672e19690a7325e98b"
+  },
+  {
+    "sharedProductId": "tom-frijol-cocido",
+    "sourcePhoto": "IMG_20261009_165935.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: tall can FRONT LEFT bright green upper label and white lower, large brown white TOM FOOD logo, FEIJÃO ENCARNADO cozido, illustration cooked red kidney beans lowerhalf. Weight not legible omit. Portuguese original label retained.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-f158ee8e-d5c0-4172-9449-e61dda3cc41e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/tom-frijol-cocido.webp",
+    "approvedSha256": "289ca436ddfc21f0882535c47c1a588322b6e1caca214e7f63b3957fc568130d"
+  },
+  {
+    "sharedProductId": "fairhill-maiz",
+    "sourcePhoto": "IMG_20261009_165935.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: can CENTER Whole Kernel golden sweet corn. White background label with golden maize cobs, tan Fairhill FARMS scripted brand, rectangular dark green WHOLE KERNEL, yellow corn kernels image bottom, NET WT15.25OZ(432g). NOT vegetables mix.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-3e34977d-fd61-40ff-9556-b82cd9574185.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/fairhill-maiz.webp",
+    "approvedSha256": "8ad8414bb58433ca7a0220bc967e8ef3514e6047e5bac9d1022e7a350dc7d42f"
+  },
+  {
+    "sharedProductId": "fairhill-vegetales",
+    "sourcePhoto": "IMG_20261009_165940.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: can LEFT CENTER white label tan Fairhill FARMS script, dark BLUE rectangle MIXED VEGETABLES, colorful mix carrot/corn/peas/potato illustrations lower area, NET WT15OZ(425g). NOT corn or fruit.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-ea99392a-2231-41b9-8688-6ff9c874ae36.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/fairhill-vegetales.webp",
+    "approvedSha256": "8ec6c537cb895c959487d599ce0f1f9767c058deb2f0b2ad029b8d245c366bf2"
+  },
+  {
+    "sharedProductId": "fairhill-frutas",
+    "sourcePhoto": "IMG_20261009_165940.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: can CENTER RIGHT Fairhill FARMS white tan label magenta rectangle FRUIT COCKTAIL, yellow band IN100%FRUIT JUICE, peaches/pineapple/grape/pear illustrations, NETWT15OZ(425g). Exactly this Fairhill brand, NOT neighboring Vima.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-71b0921d-227c-4a03-b2d6-3d031f717698.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/fairhill-frutas.webp",
+    "approvedSha256": "c77ab08310059c18bd3ca25c634468614fe9b8497d1976636ee570639f032617"
+  },
+  {
+    "sharedProductId": "delcampo-colorados",
+    "sourcePhoto": "IMG_20261009_165956.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one flexible plastic packet shown CENTER, royal blue perimeter yellow outlined transparent oval showing RED kidney beans, blue white DEL CAMPO logo, FRIJOLES COLORADOS RED KIDNEY BEANS, Peso Neto Net Weight1Lb. Not black beans or lentils. Preserve pillow pouch shape, not upright gusset fancy bag.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-de450b31-ca58-4148-93ec-309f5801d85e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/delcampo-colorados.webp",
+    "approvedSha256": "2951022ab08a6c79e437a4a050bf10378efe639d25f5b37ec7b63287c7fe7e65"
+  },
+  {
+    "sharedProductId": "energy-negros",
+    "sourcePhoto": "IMG_20261009_165953.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one FRONT RIGHT transparent flexible pillow packet containing black beans. Red orange top rectangle golden cursive Energy logo, BLACK BEANS FRIJOLES NEGROS TYPE1-TIPO1, picture blackbeans bowl with orange oval below,1kg2.2lb, white Energy logo bottom. NOT blue DelCampo bag.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-ae3b1079-fec5-433e-848b-1f401b634bf6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/energy-negros.webp",
+    "approvedSha256": "57f24992e6895d1f434218ec33d3a6385921a44b1a3d4950f5ca87c30adf4d3a"
+  },
+  {
+    "sharedProductId": "happyone-adulto",
+    "sourcePhoto": "IMG_20261009_171633.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one brown and blue handled standup retail dogfood bag FRONT RIGHT with Bernese mountain dog photo centered, vertical white happyOne logo right, blue Adulto badge upperright, multicolor BIO COMPLEX lowerleft, com Frango with chicken con Pollo lowerblueband, net4kg. Preserve package handle and dogphoto. Remove ONLY handwritten 18700 price sticker. No extra bag or live dog.",
+    "status": "approved",
+    "output_hint": "Generated images are saved to /workspace/scratch/f5c7d932b6ef/generated_images as /workspace/scratch/f5c7d932b6ef/generated_images/exec-6dd3a970-a319-48a5-8f05-bd236b1955fd.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "approvedImage": "/products/real/happyone-adulto.webp",
+    "approvedSha256": "123b42729b6888c1971dbeb8f8b57a90cf5492249597f5045be530c763924fb3"
+  }
+]
