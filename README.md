@@ -4,9 +4,9 @@ Herramienta en construcción: de fotos de tienda a productos revisados, imágene
 
 ## Estado actual
 
-Piloto Colo Shop: 94 archivos recibidos (80 fotos únicas), 121 productos incorporados con precios CUP y 75 candidatos pendientes. El primer catálogo se publicó en `ernest196391/frutos-secos`, commit `96d944767743ce647ac20e4d5deeec678be3b837`.
+Piloto Colo Shop: 114 archivos recibidos (100 fotos únicas), 150 productos incorporados con precios CUP y 81 candidatos pendientes. El primer catálogo se publicó en `ernest196391/frutos-secos`, commit `96d944767743ce647ac20e4d5deeec678be3b837`.
 
-- Datos y evidencia: `data/coloshop/batch-001/`  , `batch-002/` `batch-003/` `batch-004/` y `batch-005/`.
+- Datos y evidencia: `data/coloshop/batch-001/`  , `batch-002/` `batch-003/` `batch-004/` `batch-005/` y `batch-006/`.
 - Continuidad: [SESSION_STATE](docs/SESSION_STATE.md).
 - Proceso: [WORKFLOW](docs/WORKFLOW.md).
 - Aprendizajes: [LEARNINGS](docs/LEARNINGS.md).

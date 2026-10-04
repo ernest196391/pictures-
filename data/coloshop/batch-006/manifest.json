@@ -12,7 +12,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165625.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165625.jpg",
+      "optimizedSha256": "646b4003981b0d0e414c3fdaf57b818a9ea107c5e21ded84748c6c287b145396"
     },
     {
       "file": "IMG_20261009_165627_1.jpg",
@@ -22,7 +23,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165627_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165627_1.jpg",
+      "optimizedSha256": "c8435285003dfcb7cd6b95146138b7897a550989cc4204ef23a7da683673f6ad"
     },
     {
       "file": "IMG_20261009_165638_1.jpg",
@@ -32,7 +34,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165638_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165638_1.jpg",
+      "optimizedSha256": "a8bff396c1a9ab2f6ab85ab5b712f18b42323dc77ba39358587f3c866d21f145"
     },
     {
       "file": "IMG_20261009_165642_1.jpg",
@@ -42,7 +45,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165642_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165642_1.jpg",
+      "optimizedSha256": "8f94d85be0faf87d9b0d4a0669ad06582967978ee4b09134a51b6630bc588b58"
     },
     {
       "file": "IMG_20261009_165656.jpg",
@@ -52,7 +56,8 @@
         2048
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165656.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165656.jpg",
+      "optimizedSha256": "8375a163d05d17da9ee9896e945ac49f02bd5e896e4d299cff5211c08f328dc4"
     },
     {
       "file": "IMG_20261009_165703.jpg",
@@ -62,7 +67,8 @@
         2048
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165703.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165703.jpg",
+      "optimizedSha256": "0b0b19f30b3722a0225123623f2ac02741cc40ce5f9060b793f3c1c7e5c70645"
     },
     {
       "file": "IMG_20261009_165705_1.jpg",
@@ -72,7 +78,8 @@
         2048
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165705_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165705_1.jpg",
+      "optimizedSha256": "6276a945eea9123199bd606c7576af9c3226cc6c80f6194c363685f38ae3bca1"
     },
     {
       "file": "IMG_20261009_165714.jpg",
@@ -82,7 +89,8 @@
         2048
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165714.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165714.jpg",
+      "optimizedSha256": "647f61c10b37ff606786158b9017c5d6ebd8a32ab06313e9a289c135dcf62b6b"
     },
     {
       "file": "IMG_20261009_165741.jpg",
@@ -92,7 +100,8 @@
         2048
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165741.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165741.jpg",
+      "optimizedSha256": "a29020a3e63a032694cb112aeea2e23fef7a70f0163efe869fb0ffeca87f5dc0"
     },
     {
       "file": "IMG_20261009_165743_1.jpg",
@@ -102,7 +111,8 @@
         2048
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165743_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165743_1.jpg",
+      "optimizedSha256": "0b320cfa58619f817de2827f7344f5284bcd74cdbeec8b1f63e08b0ce5cb4e2a"
     },
     {
       "file": "IMG_20261009_165824_1.jpg",
@@ -112,7 +122,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165824_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165824_1.jpg",
+      "optimizedSha256": "456c92bf321254b94ae3486e861189d4b1d845636e9133fb08bddf73a7a3cee9"
     },
     {
       "file": "IMG_20261009_165830.jpg",
@@ -122,7 +133,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165830.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165830.jpg",
+      "optimizedSha256": "5a1944493de61626e7da1460b7a0eca508faf7c9fd14c451de8d8db0dfdbd7da"
     },
     {
       "file": "IMG_20261009_165834.jpg",
@@ -132,7 +144,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg",
+      "optimizedSha256": "ee3a82d9e220c048b2a50b5b7193520f66cd76251f194ea8e4facbd6a6bda418"
     },
     {
       "file": "IMG_20261009_165840.jpg",
@@ -142,7 +155,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165840.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165840.jpg",
+      "optimizedSha256": "8067ed21de88b6b92446a5e5c968b02a272f85b0f225041f675331196ae8b7cc"
     },
     {
       "file": "IMG_20261009_165846.jpg",
@@ -152,7 +166,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165846.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165846.jpg",
+      "optimizedSha256": "e66b3d4d30c94d27ba925096b2ae32619ce65a3776ec195f9ddd876cd1d25b10"
     },
     {
       "file": "IMG_20261009_165851.jpg",
@@ -162,7 +177,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165851.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165851.jpg",
+      "optimizedSha256": "cc7b66d7c2edfe494893f3b9ca05dd512357dfc4747f864941b9598c4aad01dc"
     },
     {
       "file": "IMG_20261009_165853_1.jpg",
@@ -172,7 +188,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165853_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165853_1.jpg",
+      "optimizedSha256": "03dd8f2e70f2a8069aac44532605154ff474788a215a6a8ac8c4072b9014e8cc"
     },
     {
       "file": "IMG_20261009_165856_1.jpg",
@@ -182,7 +199,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165856_1.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165856_1.jpg",
+      "optimizedSha256": "e7de35beddbecf6c4404d25661c16e36c24fadd6d7c1d7dd7f359aa94c1e739e"
     },
     {
       "file": "IMG_20261009_165902.jpg",
@@ -192,7 +210,8 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165902.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165902.jpg",
+      "optimizedSha256": "df60536ef8b4f6b7ecdacc76f15c40a730b75b4fd9bcdae98828a67ed26e60bd"
     },
     {
       "file": "IMG_20261009_165910.jpg",
@@ -202,14 +221,15 @@
         1536
       ],
       "readStatus": "inspected",
-      "sourceImage": "/catalog-sources/IMG_20261009_165910.jpg"
+      "sourceImage": "/catalog-sources/IMG_20261009_165910.jpg",
+      "optimizedSha256": "c7635689294b04f6ccf9da22179324b6002e56eceb17933f98dd7f1e9e5333cf"
     }
   ],
   "currency": "CUP",
-  "published": false,
-  "stage": "price-reviewed",
-  "activeWorker": "Codex root; do not process concurrently",
-  "generationCalls": 0,
+  "published": true,
+  "stage": "published",
+  "activeWorker": null,
+  "generationCalls": 29,
   "productCount": 29,
   "pendingCount": 7,
   "resolvedPriorPending": [
@@ -222,8 +242,21 @@
   ],
   "existingCatalogComparison": "Compared against121 published identities; repeated views consolidated. Three published pestos reused; La Sota pending resolved by new price evidence.",
   "verification": {
-    "tests": "pending",
-    "build": "pending",
-    "production": "pending"
-  }
+    "tests": "19 passed",
+    "build": "passed",
+    "production": "READY",
+    "browserCatalogCount": 150,
+    "category": "Bebidas",
+    "categoryProducts": 4,
+    "imageWidth": 900,
+    "cartSubtotalCUP": 1200,
+    "testCartCleared": true
+  },
+  "initialGenerationCalls": 29,
+  "correctionCalls": 0,
+  "approvedImages": 29,
+  "reviewed": true,
+  "shopCommit": "78327ff225389b75de7007e977da7f2e00948cd3",
+  "deploymentId": "dpl_8K6jeXScNyzWPZZoruHk2QzXVjnN",
+  "productionVerified": true
 }
