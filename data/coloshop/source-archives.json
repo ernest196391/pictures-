@@ -1,0 +1,32 @@
+{
+  "archives": [
+    {
+      "name": "colo 0.zip",
+      "library_file_id": "libfile_134e50c451788191a2cbe0ba7e10177a",
+      "bytes": 223727587,
+      "integrity": "CRC passed"
+    },
+    {
+      "name": "Colo 1.zip",
+      "library_file_id": "libfile_4df526126dbc8191abcf3cbc49971bf1",
+      "bytes": 254190458,
+      "integrity": "CRC passed"
+    },
+    {
+      "name": "colo2.zip",
+      "library_file_id": "libfile_2af66803b70081918ddb0e6d47ed01f2",
+      "bytes": 251246688,
+      "integrity": "CRC passed"
+    },
+    {
+      "name": "colo 3.zip",
+      "library_file_id": "libfile_6e9a34c8f55c81918401e27a456316d8",
+      "bytes": 285045242,
+      "integrity": "CRC passed"
+    }
+  ],
+  "status": "recovered",
+  "instructions": "Recover these existing archived attachments by their stable IDs with Library materialization. Do not ask user to reupload merely because scratch files disappeared. Extract archives, compare SHA256 with intake metadata, and resume work queue. Keep original archives as persistent sources; scratch is disposable.",
+  "publishedProducts": 153,
+  "pendingReviewRecords": 433
+}
