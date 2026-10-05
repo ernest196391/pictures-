@@ -1,0 +1,34 @@
+{
+  "receivedZipCount": 2,
+  "expectedZipCount": 4,
+  "missingZipCount": 2,
+  "photos": 142,
+  "uniqueBinaryFiles": 142,
+  "priorPhotosReencoded": 34,
+  "newPhotos": 108,
+  "publishedBaseline": 150,
+  "priorPendingBaseline": 81,
+  "candidateObservations": 159,
+  "candidateNotInPublishedCatalog": 157,
+  "priorPendingEnriched": 2,
+  "fixedPriceRead": 107,
+  "candidatePriceStatuses": {
+    "missing": 14,
+    "direct": 107,
+    "shared": 25,
+    "conflict": 2,
+    "ambiguous": 3,
+    "variable": 8
+  },
+  "candidateCategories": {
+    "Frutos secos": 6,
+    "Bebidas": 74,
+    "Alimentos": 73,
+    "Conservas": 5,
+    "Mascotas": 1
+  },
+  "masterRecordCount": 388,
+  "publishedChanges": 0,
+  "newImageGenerations": 0,
+  "scope": "partial-intake-audit; not all family records are finalized sale SKUs"
+}

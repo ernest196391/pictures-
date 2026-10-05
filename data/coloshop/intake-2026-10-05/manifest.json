@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "intake": "2026-10-05",
+  "status": "audited-awaiting-two-zips",
+  "currency": "CUP",
+  "catalogBaselineCommit": "78327ff225389b75de7007e977da7f2e00948cd3",
+  "picturesBaselineCommit": "722d7d1329c64ad674af1dcee50e2c9b237cf8d7",
+  "summary": {
+    "receivedZipCount": 2,
+    "expectedZipCount": 4,
+    "missingZipCount": 2,
+    "photos": 142,
+    "uniqueBinaryFiles": 142,
+    "priorPhotosReencoded": 34,
+    "newPhotos": 108,
+    "publishedBaseline": 150,
+    "priorPendingBaseline": 81,
+    "candidateObservations": 159,
+    "candidateNotInPublishedCatalog": 157,
+    "priorPendingEnriched": 2,
+    "fixedPriceRead": 107,
+    "candidatePriceStatuses": {
+      "missing": 14,
+      "direct": 107,
+      "shared": 25,
+      "conflict": 2,
+      "ambiguous": 3,
+      "variable": 8
+    },
+    "candidateCategories": {
+      "Frutos secos": 6,
+      "Bebidas": 74,
+      "Alimentos": 73,
+      "Conservas": 5,
+      "Mascotas": 1
+    },
+    "masterRecordCount": 388,
+    "publishedChanges": 0,
+    "newImageGenerations": 0,
+    "scope": "partial-intake-audit; not all family records are finalized sale SKUs"
+  },
+  "archives": [
+    {
+      "name": "colo 0.zip",
+      "fileId": "file_000000000afc822fa3a011aac6c62fa9",
+      "sha256": "67c5131876b70c2a8607f75dc225a725ddbf94f361a15a4c9fb02c6189e74107"
+    },
+    {
+      "name": "Colo 1.zip",
+      "fileId": "file_0000000036d481fb8df8b18db71e4f02",
+      "sha256": "56d14926a2092504742780d38b832add22721b545a72ff549185fbad0588c8a2"
+    }
+  ],
+  "generationAllowed": false,
+  "reason": "audit request: compare remaining archives and resolve review fields before reserving commercial image jobs",
+  "rawSourceStorage": "original uploaded ZIPs; archive member and SHA256 recorded for recovery",
+  "stockRule": "Photos are evidence of products, not an inventory count.",
+  "priceRule": "direct means visually read assigned price, not current owner confirmation; shared/conflicting/variable prices never populate fixed priceCUP."
+}

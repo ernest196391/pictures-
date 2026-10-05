@@ -1,0 +1,74 @@
+{
+  "categoryStatus": "existing-top-level-with-proposed-subcategories",
+  "categories": [
+    {
+      "name": "Frutos secos",
+      "subcategories": [
+        "Cubiertos de chocolate",
+        "Maní",
+        "Mezclas",
+        "Semillas y legumbres"
+      ]
+    },
+    {
+      "name": "Bebidas",
+      "subcategories": [
+        "Agua",
+        "Brandy",
+        "Cervezas",
+        "Energéticas",
+        "Ginebra",
+        "Jugos y néctares",
+        "Licores",
+        "Mezcal",
+        "Refrescos",
+        "Ron",
+        "Tequila",
+        "Vinos",
+        "Vodka",
+        "Whisky"
+      ]
+    },
+    {
+      "name": "Alimentos",
+      "subcategories": [
+        "Arroz",
+        "Carnes",
+        "Condimentos",
+        "Congelados",
+        "Embutidos",
+        "Galletas",
+        "Granos",
+        "Harinas",
+        "Lácteos",
+        "Pastas",
+        "Preparados",
+        "Quesos",
+        "Sal y azúcar",
+        "Salsas para pasta",
+        "Snacks"
+      ]
+    },
+    {
+      "name": "Conservas",
+      "subcategories": [
+        "Salsas para pasta",
+        "Tomate"
+      ]
+    },
+    {
+      "name": "Mascotas",
+      "subcategories": [
+        "Perros"
+      ]
+    },
+    {
+      "name": "Aseo",
+      "subcategories": []
+    },
+    {
+      "name": "Accesorios",
+      "subcategories": []
+    }
+  ]
+}

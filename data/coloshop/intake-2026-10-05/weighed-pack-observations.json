@@ -1,0 +1,110 @@
+[
+  {
+    "observationId": "res-molida-171457-400",
+    "parentProductId": "res-molida",
+    "weightKg": 0.4,
+    "labelPriceCUP": 3010,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171457.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "res-molida-171500-310",
+    "parentProductId": "res-molida",
+    "weightKg": 0.31,
+    "labelPriceCUP": 2330,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171500.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "bacon-slices-171506-250",
+    "parentProductId": "bacon-slices",
+    "weightKg": 0.25,
+    "labelPriceCUP": 4840,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171506.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "bacon-slices-171512-260",
+    "parentProductId": "bacon-slices",
+    "weightKg": 0.26,
+    "labelPriceCUP": 5030,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171512.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "bacon-slices-171517-190",
+    "parentProductId": "bacon-slices",
+    "weightKg": 0.19,
+    "labelPriceCUP": 3680,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171517.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "bacon-slices-171529-240",
+    "parentProductId": "bacon-slices",
+    "weightKg": 0.24,
+    "labelPriceCUP": 4650,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171529.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "bacon-slices-171529-220",
+    "parentProductId": "bacon-slices",
+    "weightKg": 0.22,
+    "labelPriceCUP": 4260,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171529.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "queso-azul-porcion-171545_1-240",
+    "parentProductId": "queso-azul-porcion",
+    "weightKg": 0.24,
+    "labelPriceCUP": 4620,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171545_1.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  },
+  {
+    "observationId": "queso-azul-porcion-171545_1-350",
+    "parentProductId": "queso-azul-porcion",
+    "weightKg": 0.35,
+    "labelPriceCUP": 6740,
+    "currency": "CUP",
+    "sourcePhoto": "IMG_20261009_171545_1.jpg",
+    "status": "label-read-not-stock-item",
+    "unitId": null,
+    "stock": null,
+    "pricePerKg": null
+  }
+]

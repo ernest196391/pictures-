@@ -25,3 +25,8 @@ Lote 005 publicado: c513a6bbac564ad5e2720b9075b69eff1c84e819; despliegue dpl_ARL
 Lote 006: 20 fotos nuevas; 29 productos, 7 pendientes nuevos y 1 pendiente anterior resuelto (La Sota Alcaparras). Tres pestos publicados reutilizados. Imágenes revisadas y publicadas; reutilizar los activos aprobados.
 
 Lote 006 publicado: 78327ff225389b75de7007e977da7f2e00948cd3; despliegue dpl_8K6jeXScNyzWPZZoruHk2QzXVjnN READY. Verificados 19 tests, compilación, catálogo 150, categoría Bebidas con 4 productos, imagen Coca-Cola 900 px y subtotal 1200 CUP; carrito de prueba retirado sin pedido. 29 imágenes aprobadas en 29 llamadas, sin correcciones. No regenerar este lote.
+
+
+## 2026-10-05: auditoría parcial ZIP0 y ZIP1
+
+142 fotos:34 tomas previas recomprimidas y108 nuevas.159 fichas candidatas (157 adicionales y2 pendientes previos enriquecidos);107 con precio legible. Catálogo sigue150 publicados. Sin generación de imágenes ni cambios en tienda. Faltan2ZIP. Fuente autoritativa de la sesión: `data/coloshop/intake-2026-10-05/README.md`, `manifest.json`, `photos.json` y `master-products.json`. Revisar estas fichas antes de reservar batch007; incluyen familias y precios por peso, no todos son SKU finalizados.

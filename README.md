@@ -22,3 +22,8 @@ python -m unittest discover -s tests
 Las imágenes comerciales y las copias de consulta de los originales están versionadas en el repo de la tienda. Los manifiestos conservan sus rutas y hashes. Evitamos duplicar la base de imágenes en este repositorio; la futura aplicación deberá gestionarla con almacenamiento propio y permisos por tienda.
 
 Todavía no están implementados el cargador móvil, OCR automático, reconocimiento de productos, generación automática, panel editable ni conectores de publicación. La generación y revisión del piloto se realizaron con asistencia humana.
+
+
+### Inventario parcial desde ZIP (2026-10-05)
+
+[Revisión de ZIP0 y ZIP1](data/coloshop/intake-2026-10-05/README.md):142 fotos,34 tomas previas y108 nuevas; inventario CSV/JSON y requisitos del sistema. Faltan dos ZIP; aún no se publican estos candidatos.

@@ -1,0 +1,4780 @@
+[
+  {
+    "sharedProductId": "southern-dry-roasted",
+    "name": "Maní Southern Grove Dry Roasted",
+    "category": "Frutos secos",
+    "subcategory": "Maní",
+    "description": "Frasco con tapa azul",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Precio y peso pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_165556.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165556.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate",
+    "possibleExistingIds": [
+      "southern-dry-blue",
+      "southern-dry-original"
+    ]
+  },
+  {
+    "sharedProductId": "kirkland-salted-mixed",
+    "name": "Kirkland Extra Fancy Salted Mixed Nuts",
+    "category": "Frutos secos",
+    "subcategory": "Mezclas",
+    "description": "Bolsa 1,13 kg",
+    "currency": "CUP",
+    "priceCUP": 28000,
+    "priceCandidatesCUP": [
+      28000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Revisar peso antes de publicar",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "kirkland-unsalted-mixed",
+    "name": "Kirkland Unsalted Mixed Nuts",
+    "category": "Frutos secos",
+    "subcategory": "Mezclas",
+    "description": "Bolsa",
+    "currency": "CUP",
+    "priceCUP": 23000,
+    "priceCandidatesCUP": [
+      23000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "kirkland-keto-mix",
+    "name": "Kirkland Keto Snack Mix",
+    "category": "Frutos secos",
+    "subcategory": "Mezclas",
+    "description": "Bolsa 680 g",
+    "currency": "CUP",
+    "priceCUP": 22000,
+    "priceCandidatesCUP": [
+      22000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg",
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165602.jpg",
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "biena-edamame",
+    "name": "Biena Edamame Himalayan Pink Salt",
+    "category": "Frutos secos",
+    "subcategory": "Semillas y legumbres",
+    "description": "Bolsa 510 g",
+    "currency": "CUP",
+    "priceCUP": 12800,
+    "priceCandidatesCUP": [
+      12800
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Lectura ampliada12800",
+    "sourcePhotos": [
+      "IMG_20261009_165604_1.jpg",
+      "IMG_20261009_165602.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165604_1.jpg",
+      "IMG_20261009_165602.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "pockets-almonds",
+    "name": "Pocket's Chocolates Greek Yogurt & Dark Chocolate Coated Almonds",
+    "category": "Frutos secos",
+    "subcategory": "Cubiertos de chocolate",
+    "description": "Bolsa de 30 paquetes individuales; peso total18,5oz",
+    "currency": "CUP",
+    "priceCUP": 20500,
+    "priceCandidatesCUP": [
+      20500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Precio del paquete grande; no por sobre",
+    "sourcePhotos": [
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "monster-viking",
+    "name": "Monster Juice Viking Berry",
+    "category": "Bebidas",
+    "subcategory": "Energéticas",
+    "description": "Lata rosa",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Cartel compartido con Pacific Punch",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "monster-pacific",
+    "name": "Monster Juice Pacific Punch",
+    "category": "Bebidas",
+    "subcategory": "Energéticas",
+    "description": "Lata amarilla",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar variante y volumen",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "fattoria-guayaba",
+    "name": "Néctar de guayaba Fattorie Crisci",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Botella de vidrio",
+    "currency": "CUP",
+    "priceCUP": 660,
+    "priceCandidatesCUP": [
+      660
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "cristal-botella",
+    "name": "Cerveza Cristal",
+    "category": "Bebidas",
+    "subcategory": "Cervezas",
+    "description": "Botella de vidrio",
+    "currency": "CUP",
+    "priceCUP": 1050,
+    "priceCandidatesCUP": [
+      1050
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_165618.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165618.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "unlaguer-330",
+    "name": "Cerveza Unlaguer",
+    "category": "Bebidas",
+    "subcategory": "Cervezas",
+    "description": "Lata 330 mL;5% alc",
+    "currency": "CUP",
+    "priceCUP": 620,
+    "priceCandidatesCUP": [
+      620
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar escritura exacta de marca antes de generar imagen",
+    "sourcePhotos": [
+      "IMG_20261009_165622.jpg",
+      "IMG_20261009_170138.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165622.jpg",
+      "IMG_20261009_170138.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "delcampo-negros",
+    "name": "Frijoles negros Del Campo",
+    "category": "Alimentos",
+    "subcategory": "Granos",
+    "description": "Bolsa de1lb",
+    "currency": "CUP",
+    "priceCUP": 1600,
+    "priceCandidatesCUP": [
+      1600
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Variante distinta de los colorados publicados",
+    "sourcePhotos": [
+      "IMG_20261009_170003.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170003.jpg"
+    ],
+    "matchStatus": "prior-pending",
+    "priorPending": {
+      "sharedProductId": "delcampo-negros",
+      "n": "Frijoles negros Del Campo",
+      "sourcePhoto": "IMG_20261009_165949.jpg",
+      "sourceImage": "/catalog-sources/IMG_20261009_165949.jpg",
+      "status": "needs-review",
+      "priceCandidatesCUP": [
+        1600
+      ],
+      "reason": "Etiqueta1600 bajo frijoles colorados; confirmar precio de negros1lb.",
+      "img": null
+    },
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "arroz-alfinete",
+    "name": "Arroz blanco Alfinete",
+    "category": "Alimentos",
+    "subcategory": "Arroz",
+    "description": "Bolsa de1kg",
+    "currency": "CUP",
+    "priceCUP": 1300,
+    "priceCandidatesCUP": [
+      1300
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_170008.jpg",
+      "IMG_20261009_170010.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170008.jpg",
+      "IMG_20261009_170010.jpg"
+    ],
+    "matchStatus": "prior-pending",
+    "priorPending": {
+      "sharedProductId": "arroz-alfinete",
+      "n": "Arroz Alfinete",
+      "sourcePhoto": "IMG_20261009_165920.jpg",
+      "sourceImage": "/catalog-sources/IMG_20261009_165920.jpg",
+      "status": "needs-review",
+      "priceCandidatesCUP": [],
+      "reason": "Presentación parcialmente oculta y sin precio legible.",
+      "img": null
+    },
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "arroz-blanco-bolsa",
+    "name": "Arroz blanco en bolsa",
+    "category": "Alimentos",
+    "subcategory": "Arroz",
+    "description": "Bolsa transparente",
+    "currency": "CUP",
+    "priceCUP": 1000,
+    "priceCandidatesCUP": [
+      1000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Sin marca; peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170014.jpg",
+      "IMG_20261009_170008.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170014.jpg",
+      "IMG_20261009_170008.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "trigo-bolsa-1kg",
+    "name": "Harina de trigo",
+    "category": "Alimentos",
+    "subcategory": "Harinas",
+    "description": "Bolsa de1kg",
+    "currency": "CUP",
+    "priceCUP": 2100,
+    "priceCandidatesCUP": [
+      2100
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca no legible",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "trigo-gloria",
+    "name": "Harina de trigo Gloria",
+    "category": "Alimentos",
+    "subcategory": "Harinas",
+    "description": "Bolsa",
+    "currency": "CUP",
+    "priceCUP": 1300,
+    "priceCandidatesCUP": [
+      1300
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "maicena-450",
+    "name": "Maicena almidón de maíz",
+    "category": "Alimentos",
+    "subcategory": "Harinas",
+    "description": "Bolsa450g",
+    "currency": "CUP",
+    "priceCUP": 3000,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca no confirmada",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "chefscupboard-buterry",
+    "name": "Puré de papas Chef's Cupboard Buttery",
+    "category": "Alimentos",
+    "subcategory": "Preparados",
+    "description": "Bolsa",
+    "currency": "CUP",
+    "priceCUP": 1800,
+    "priceCandidatesCUP": [
+      1800
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170025.jpg",
+      "IMG_20261009_170027.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170027.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "cookies-bulk",
+    "name": "Galletas redondas en bolsa",
+    "category": "Alimentos",
+    "subcategory": "Galletas",
+    "description": "Bolsa transparente",
+    "currency": "CUP",
+    "priceCUP": 1500,
+    "priceCandidatesCUP": [
+      1500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca peso y unidad de venta pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170032.jpg",
+      "IMG_20261009_170014.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170032.jpg",
+      "IMG_20261009_170014.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "savvyfare-rice",
+    "name": "Arroz Savvy Fare Roasted Chicken",
+    "category": "Alimentos",
+    "subcategory": "Preparados",
+    "description": "Bolsa; sabor pollo",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      2700
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio por variante",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "spanish-rice",
+    "name": "Arroz Spanish Style Rice",
+    "category": "Alimentos",
+    "subcategory": "Preparados",
+    "description": "Bolsa",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      2700
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Marca y precio por variante pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "timeowise-rice",
+    "name": "Arroz Time O'Wise Dirty Rice",
+    "category": "Alimentos",
+    "subcategory": "Preparados",
+    "description": "Bolsa",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      2700
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar marca y precio por variante",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santa-lasagna",
+    "name": "Pasta Santa Lasagna",
+    "category": "Alimentos",
+    "subcategory": "Pastas",
+    "description": "Caja",
+    "currency": "CUP",
+    "priceCUP": 800,
+    "priceCandidatesCUP": [
+      800
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "marchi-salt",
+    "name": "Sal yodada March I",
+    "category": "Alimentos",
+    "subcategory": "Sal y azúcar",
+    "description": "Envase cilíndrico",
+    "currency": "CUP",
+    "priceCUP": 1800,
+    "priceCandidatesCUP": [
+      1800
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar marca y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170045.jpg",
+      "IMG_20261009_170038.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170045.jpg",
+      "IMG_20261009_170038.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "white-bulk",
+    "name": "Producto blanco en bolsa sin marca",
+    "category": "Alimentos",
+    "subcategory": "Sal y azúcar",
+    "description": "Bolsa transparente",
+    "currency": "CUP",
+    "priceCUP": 800,
+    "priceCandidatesCUP": [
+      800
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar si es azúcar sal o arroz y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170047.jpg",
+      "IMG_20261009_170045.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170047.jpg",
+      "IMG_20261009_170045.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "torre-pink-salt",
+    "name": "Sal rosada Torre de la Vega",
+    "category": "Alimentos",
+    "subcategory": "Sal y azúcar",
+    "description": "Sal de los Andes; bolsa",
+    "currency": "CUP",
+    "priceCUP": 1700,
+    "priceCandidatesCUP": [
+      1700
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170051.jpg",
+      "IMG_20261009_170054.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170051.jpg",
+      "IMG_20261009_170054.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "sal-fina-azul",
+    "name": "Sal fina en bolsa azul",
+    "category": "Alimentos",
+    "subcategory": "Sal y azúcar",
+    "description": "Bolsa",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Marca y precio pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170054.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170054.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "taoro-guayaba",
+    "name": "Néctar Taoro Guayaba",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Lata",
+    "currency": "CUP",
+    "priceCUP": 680,
+    "priceCandidatesCUP": [
+      680
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170105_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170105_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "monster-pipeline",
+    "name": "Monster Pipeline Punch",
+    "category": "Bebidas",
+    "subcategory": "Energéticas",
+    "description": "Lata rosa",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Precio de grupo; volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "monster-mango",
+    "name": "Monster Mango Loco",
+    "category": "Bebidas",
+    "subcategory": "Energéticas",
+    "description": "Lata azul",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Precio de grupo; volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "monster-tropical",
+    "name": "Monster Ultra Tropical Punch",
+    "category": "Bebidas",
+    "subcategory": "Energéticas",
+    "description": "Lata verde",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Precio de grupo; volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "tropigusto-mango",
+    "name": "Tropi Gusto Mango",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Lata",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      600,
+      800
+    ],
+    "priceStatus": "conflict",
+    "reviewStatus": "comparar-presentaciones-precios",
+    "missingDetails": "Comparar tamaños y confirmar precio vigente",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "tropigusto-pineapple",
+    "name": "Tropi Gusto Pineapple",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Lata; piña",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      800
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar tamaño y precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "tropigusto-banana",
+    "name": "Tropi Gusto Banana",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Lata",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      600,
+      800
+    ],
+    "priceStatus": "conflict",
+    "reviewStatus": "comparar-presentaciones-precios",
+    "missingDetails": "Comparar tamaños y confirmar precio vigente",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "tropigusto-peach",
+    "name": "Tropi Gusto Peach",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Lata; durazno",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      800
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar tamaño y precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bahamas-juice",
+    "name": "Jugos Bahamas en caja",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Cajas con pitillo",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      400
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Separar sabores y volumen con lectura de etiqueta",
+    "sourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "bali-juice",
+    "name": "Jugos Bali en caja",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Cajas con pitillo",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      400
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Separar sabores y volumen con lectura de etiqueta",
+    "sourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "water-whitecap",
+    "name": "Agua embotellada sin marca legible",
+    "category": "Bebidas",
+    "subcategory": "Agua",
+    "description": "Botellas transparentes",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      95,
+      1000
+    ],
+    "priceStatus": "ambiguous",
+    "reviewStatus": "requiere-aclaracion",
+    "missingDetails": "Carteles sin asociación clara; no fijar precio",
+    "sourcePhotos": [
+      "IMG_20261009_170117.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170117.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "boom-cola",
+    "name": "Refresco Max Boom Boom Cola",
+    "category": "Bebidas",
+    "subcategory": "Refrescos",
+    "description": "Lata355mL",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      750
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio por sabor",
+    "sourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "boom-lime",
+    "name": "Refresco Max Boom Boom Lima-Limón",
+    "category": "Bebidas",
+    "subcategory": "Refrescos",
+    "description": "Lata355mL",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      750
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio por sabor",
+    "sourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "sunny-tamarind",
+    "name": "Néctar Sunny Tamarind",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Lata; tamarindo",
+    "currency": "CUP",
+    "priceCUP": 900,
+    "priceCandidatesCUP": [
+      900
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170128.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170128.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "water-blue",
+    "name": "Agua embotellada de etiqueta azul",
+    "category": "Bebidas",
+    "subcategory": "Agua",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 350,
+    "priceCandidatesCUP": [
+      350
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca y volumen pendientes; no unir a otra agua sin confirmar",
+    "sourcePhotos": [
+      "IMG_20261009_170131.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170131.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "shani",
+    "name": "Refresco Shani",
+    "category": "Bebidas",
+    "subcategory": "Refrescos",
+    "description": "Lata roja",
+    "currency": "CUP",
+    "priceCUP": 780,
+    "priceCandidatesCUP": [
+      780
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170152.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170152.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "sunny-peach",
+    "name": "Néctar Sunny Peach",
+    "category": "Bebidas",
+    "subcategory": "Jugos y néctares",
+    "description": "Lata; durazno",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "No heredar precio de tamarindo",
+    "sourcePhotos": [
+      "IMG_20261009_170157.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170157.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "members-lemonpepper",
+    "name": "Condimento Member's Mark Lemon Pepper",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco grande",
+    "currency": "CUP",
+    "priceCUP": 14000,
+    "priceCandidatesCUP": [
+      14000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "mccormick-montrealsteak",
+    "name": "McCormick Grill Mates Montreal Steak",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco grande",
+    "currency": "CUP",
+    "priceCUP": 14000,
+    "priceCandidatesCUP": [
+      14000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "mccormick-montrealchicken",
+    "name": "McCormick Grill Mates Montreal Chicken",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco grande",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "No heredar precio de Montreal Steak",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "members-redpepper",
+    "name": "Member's Mark Crushed Red Pepper",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco grande",
+    "currency": "CUP",
+    "priceCUP": 6700,
+    "priceCandidatesCUP": [
+      6700
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar marca y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "members-thyme",
+    "name": "Member's Mark Whole Thyme Leaves",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco grande",
+    "currency": "CUP",
+    "priceCUP": 5500,
+    "priceCandidatesCUP": [
+      5500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar marca y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "kitano-basil",
+    "name": "Kitano Manjericão em Folha",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Albahaca en hojas30g",
+    "currency": "CUP",
+    "priceCUP": 4680,
+    "priceCandidatesCUP": [
+      4680
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "amanhecer-whitepepper",
+    "name": "Pimienta blanca molida Amanhecer",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco",
+    "currency": "CUP",
+    "priceCUP": 1450,
+    "priceCandidatesCUP": [
+      1450
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "amanhecer-turmeric",
+    "name": "Azafrán de las Indias molido Amanhecer",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Cúrcuma; frasco",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      1450
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Cartel compartido; confirmar precio",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "amanhecer-clove",
+    "name": "Clavo Amanhecer",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      1450
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Cartel compartido; confirmar precio",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "homebrothers-bbq",
+    "name": "Home Brothers KC Style BBQ Rub",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco92g",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "No heredar1450",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "heavenly-garlic",
+    "name": "Ajo en polvo Heavenly Spices",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco70g",
+    "currency": "CUP",
+    "priceCUP": 2100,
+    "priceCandidatesCUP": [
+      2100
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "kingsford-lemon",
+    "name": "Kingsford Lemon Pepper",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Precio propio no visible",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "badia-oregano",
+    "name": "Orégano Badia",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco14,2g",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      1450
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Cartel entre orégano y salsa; confirmar",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "amanhecer-parsley",
+    "name": "Salsa em Folha Amanhecer",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Perejil en hojas; frasco",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      1450
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Cartel entre variantes; confirmar",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "carmencita-marisco",
+    "name": "Molinillo Carmencita Marisco",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco molinillo",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3100
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "carmencita-bbq",
+    "name": "Molinillo Carmencita Barbacoa",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco molinillo",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3100
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "carmencita-picante",
+    "name": "Molinillo Carmencita Picante",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco molinillo",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3100
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "carmencita-pollo",
+    "name": "Molinillo Carmencita Pollo",
+    "category": "Alimentos",
+    "subcategory": "Condimentos",
+    "description": "Frasco molinillo",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3100
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "davia-passata",
+    "name": "Davia Passata",
+    "category": "Conservas",
+    "subcategory": "Tomate",
+    "description": "Botella de vidrio",
+    "currency": "CUP",
+    "priceCUP": 2500,
+    "priceCandidatesCUP": [
+      2500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170221.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170221.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "tomate-triturado",
+    "name": "Tomate triturado en lata",
+    "category": "Conservas",
+    "subcategory": "Tomate",
+    "description": "Lata",
+    "currency": "CUP",
+    "priceCUP": 4500,
+    "priceCandidatesCUP": [
+      4500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca y peso pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "ourhouse-tomato",
+    "name": "Pasta de tomate OurHouse",
+    "category": "Conservas",
+    "subcategory": "Tomate",
+    "description": "Lata111oz",
+    "currency": "CUP",
+    "priceCUP": 5000,
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_170225_1.jpg",
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170225_1.jpg",
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "tagliamonte-pomodoro",
+    "name": "Tomates pelados enteros Tagliamonte",
+    "category": "Conservas",
+    "subcategory": "Tomate",
+    "description": "Lata400g",
+    "currency": "CUP",
+    "priceCUP": 1650,
+    "priceCandidatesCUP": [
+      1650
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar peso escurrido240g",
+    "sourcePhotos": [
+      "IMG_20261009_170228.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170228.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "prego-traditional",
+    "name": "Salsa Prego Traditional",
+    "category": "Conservas",
+    "subcategory": "Salsas para pasta",
+    "description": "Frasco",
+    "currency": "CUP",
+    "priceCUP": 6000,
+    "priceCandidatesCUP": [
+      6000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170234.jpg",
+      "IMG_20261009_170221.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170234.jpg",
+      "IMG_20261009_170221.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "ragu-garlic",
+    "name": "Salsa Ragu Roasted Garlic Parmesan",
+    "category": "Alimentos",
+    "subcategory": "Salsas para pasta",
+    "description": "Frasco",
+    "currency": "CUP",
+    "priceCUP": 6500,
+    "priceCandidatesCUP": [
+      6500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170232.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "mantias-parmesan",
+    "name": "Queso parmesano Mantia's",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Envase con tapa verde",
+    "currency": "CUP",
+    "priceCUP": 4900,
+    "priceCandidatesCUP": [
+      4900
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "gv-cheddar-wow",
+    "name": "Great Value Cheese Wow! Cheddar",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Envase dispensador",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio por variante y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "gv-american-wow",
+    "name": "Great Value Cheese Wow! American",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Envase dispensador",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio por variante y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "gv-extrasharp-wow",
+    "name": "Great Value Cheese Wow! Extra Sharp Cheddar",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Envase dispensador",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3000
+    ],
+    "priceStatus": "shared",
+    "reviewStatus": "confirmar-asociacion-precio",
+    "missingDetails": "Confirmar precio por variante y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "offley-white",
+    "name": "Vino de Oporto Offley White",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 6000,
+    "priceCandidatesCUP": [
+      6000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170954_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170954_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "gatonegro-white",
+    "name": "Vino Gato Negro blanco",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 4000,
+    "priceCandidatesCUP": [
+      4000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Variedad y volumen pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171001_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171001_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-ritual",
+    "name": "Ron Havana Club Ritual Cubano",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella70cl visible",
+    "currency": "CUP",
+    "priceCUP": 5800,
+    "priceCandidatesCUP": [
+      5800
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171400.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171400.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-especial",
+    "name": "Ron Havana Club Añejo Especial",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5900,
+    "priceCandidatesCUP": [
+      5900
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "suau-15",
+    "name": "Brandy Suau15",
+    "category": "Bebidas",
+    "subcategory": "Brandy",
+    "description": "Reserva15;700mL37%",
+    "currency": "CUP",
+    "priceCUP": 15000,
+    "priceCandidatesCUP": [
+      15000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "suau-8",
+    "name": "Brandy Suau8",
+    "category": "Bebidas",
+    "subcategory": "Brandy",
+    "description": "Reserva8;700mL37%",
+    "currency": "CUP",
+    "priceCUP": 8000,
+    "priceCandidatesCUP": [
+      8000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-reserva",
+    "name": "Ron Havana Club Añejo Reserva",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 8500,
+    "priceCandidatesCUP": [
+      8500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171016.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171016.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "planta-santa",
+    "name": "Mezcal Planta Santa Reposado",
+    "category": "Bebidas",
+    "subcategory": "Mezcal",
+    "description": "700mL38%",
+    "currency": "CUP",
+    "priceCUP": 13000,
+    "priceCandidatesCUP": [
+      13000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "gordons",
+    "name": "Ginebra Gordon's London Dry",
+    "category": "Bebidas",
+    "subcategory": "Ginebra",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 9000,
+    "priceCandidatesCUP": [
+      9000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jodhpur-reserve",
+    "name": "Ginebra Jodhpur Reserve",
+    "category": "Bebidas",
+    "subcategory": "Ginebra",
+    "description": "Botella oscura",
+    "currency": "CUP",
+    "priceCUP": 9000,
+    "priceCandidatesCUP": [
+      9000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jodhpur-mandore",
+    "name": "Ginebra Jodhpur Mandore",
+    "category": "Bebidas",
+    "subcategory": "Ginebra",
+    "description": "Botella naranja",
+    "currency": "CUP",
+    "priceCUP": 9000,
+    "priceCandidatesCUP": [
+      9000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171341.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171341.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jodhpur-spicy",
+    "name": "Ginebra Jodhpur Spicy",
+    "category": "Bebidas",
+    "subcategory": "Ginebra",
+    "description": "Botella rosa",
+    "currency": "CUP",
+    "priceCUP": 9000,
+    "priceCandidatesCUP": [
+      9000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santacarolina-rose",
+    "name": "Vino Santa Carolina Reservado Rosé",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella;2024 visible",
+    "currency": "CUP",
+    "priceCUP": 5000,
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "No extrapolar añada a otras botellas",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santacarolina-sauvignon",
+    "name": "Vino Santa Carolina Reservado Sauvignon Blanc",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5000,
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "celeste-verdejo",
+    "name": "Vino Celeste Verdejo",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Pago del Cielo; botella",
+    "currency": "CUP",
+    "priceCUP": 3500,
+    "priceCandidatesCUP": [
+      3500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "vinasol",
+    "name": "Vino Viña Sol Original",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Torres; botella",
+    "currency": "CUP",
+    "priceCUP": 3500,
+    "priceCandidatesCUP": [
+      3500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "vina-esmeralda",
+    "name": "Vino Viña Esmeralda",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 4000,
+    "priceCandidatesCUP": [
+      4000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171031.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "sangretoro-red",
+    "name": "Vino Sangre de Toro tinto",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5000,
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "sangretoro-white",
+    "name": "Vino Sangre de Toro blanco",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5000,
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "sangretoro-rose",
+    "name": "Vino Sangre de Toro rosado",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5000,
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "nestia-plantain",
+    "name": "Chips de plátano Nestia Sea Salt",
+    "category": "Alimentos",
+    "subcategory": "Snacks",
+    "description": "Frasco grande",
+    "currency": "CUP",
+    "priceCUP": 9100,
+    "priceCandidatesCUP": [
+      9100
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar marca y peso",
+    "sourcePhotos": [
+      "IMG_20261009_171154_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171154_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "wapa-chorizo",
+    "name": "Chorizo parrillero Wapa",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Paquete500g",
+    "currency": "CUP",
+    "priceCUP": 5300,
+    "priceCandidatesCUP": [
+      5300
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171215.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171215.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "wapa-butifarra",
+    "name": "Butifarra Wapa",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Paquete500g",
+    "currency": "CUP",
+    "priceCUP": 5540,
+    "priceCandidatesCUP": [
+      5540
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Revisar lectura5540 contra original antes de publicar",
+    "sourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "morcilla",
+    "name": "Morcilla congelada",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Porciones al vacío",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Marca peso y precio pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bratwurst-cerdo",
+    "name": "Bratwurst de cerdo congelado",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Porciones al vacío",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Marca peso y precio pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bolitas-queso",
+    "name": "Bolitas de queso La Tabernita",
+    "category": "Alimentos",
+    "subcategory": "Congelados",
+    "description": "Bandeja",
+    "currency": "CUP",
+    "priceCUP": 4420,
+    "priceCandidatesCUP": [
+      4420
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg",
+      "IMG_20261009_171202_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg",
+      "IMG_20261009_171202_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "raviolis",
+    "name": "Raviolis congelados",
+    "category": "Alimentos",
+    "subcategory": "Congelados",
+    "description": "Bandeja",
+    "currency": "CUP",
+    "priceCUP": 4080,
+    "priceCandidatesCUP": [
+      4080
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca y peso pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "hamburguesas-cerdo",
+    "name": "Hamburguesas de cerdo",
+    "category": "Alimentos",
+    "subcategory": "Congelados",
+    "description": "Bandeja",
+    "currency": "CUP",
+    "priceCUP": 3568,
+    "priceCandidatesCUP": [
+      3568
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca exacta y peso pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "albondigas-cerdo",
+    "name": "Albóndigas de cerdo",
+    "category": "Alimentos",
+    "subcategory": "Congelados",
+    "description": "Bandeja",
+    "currency": "CUP",
+    "priceCUP": 4960,
+    "priceCandidatesCUP": [
+      4960
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca exacta y peso pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bravo-mortadela",
+    "name": "Mortadela Bravo Criolla",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Tubo800g",
+    "currency": "CUP",
+    "priceCUP": 5060,
+    "priceCandidatesCUP": [
+      5060
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Corrige tamaño preliminar; etiqueta800g",
+    "sourcePhotos": [
+      "IMG_20261009_171247.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171247.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bravo-jamon-york",
+    "name": "Jamón Bravo York",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Tubo800g",
+    "currency": "CUP",
+    "priceCUP": 7015,
+    "priceCandidatesCUP": [
+      7015
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bravo-jamon-barra",
+    "name": "Jamón Bravo Barra",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Pieza entera",
+    "currency": "CUP",
+    "priceCUP": 16370,
+    "priceCandidatesCUP": [
+      16370
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso y unidad de venta pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171614_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171614_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bravo-jamon-cocido",
+    "name": "Jamón cocido Bravo",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Pieza entera",
+    "currency": "CUP",
+    "priceCUP": 17200,
+    "priceCandidatesCUP": [
+      17200
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso y unidad de venta pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "queso-iberico",
+    "name": "Queso ibérico porcionado",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Bolsas al vacío",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      3400
+    ],
+    "priceStatus": "ambiguous",
+    "reviewStatus": "requiere-aclaracion",
+    "missingDetails": "Peso y unidad de venta pendientes; no asumir por kg",
+    "sourcePhotos": [
+      "IMG_20261009_171258.jpg",
+      "IMG_20261009_171304.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171258.jpg",
+      "IMG_20261009_171304.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "bravo-pasta-boca",
+    "name": "Pasta de bocadito Bravo tradicional",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Tubo",
+    "currency": "CUP",
+    "priceCUP": 1720,
+    "priceCandidatesCUP": [
+      1720
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente; etiqueta confirma pasta de bocadito",
+    "sourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "renypicot-mantequilla",
+    "name": "Mantequilla Reny Picot Tradicional",
+    "category": "Alimentos",
+    "subcategory": "Lácteos",
+    "description": "Tarrina",
+    "currency": "CUP",
+    "priceCUP": 2880,
+    "priceCandidatesCUP": [
+      2880
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171306.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171306.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "president-camembert",
+    "name": "Queso Président Petit Camembert",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Caja125g",
+    "currency": "CUP",
+    "priceCUP": 4560,
+    "priceCandidatesCUP": [
+      4560
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "president-brie",
+    "name": "Queso Président Petit Brie",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Caja125g",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Cartel parcialmente tapado",
+    "sourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "pacto-navio",
+    "name": "Ron Pacto Navio",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 20000,
+    "priceCandidatesCUP": [
+      20000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171321.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171321.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "carafiestas",
+    "name": "Mezcal CaraFiestas blanco",
+    "category": "Bebidas",
+    "subcategory": "Mezcal",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 8000,
+    "priceCandidatesCUP": [
+      8000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171323_1.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171323_1.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "altos-reposado",
+    "name": "Tequila Altos Reposado",
+    "category": "Bebidas",
+    "subcategory": "Tequila",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 13140,
+    "priceCandidatesCUP": [
+      13140
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171327.jpg",
+      "IMG_20261009_171323_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171327.jpg",
+      "IMG_20261009_171323_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "olmeca-reposado",
+    "name": "Tequila Olmeca Reposado",
+    "category": "Bebidas",
+    "subcategory": "Tequila",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 14180,
+    "priceCandidatesCUP": [
+      14180
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171327.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171327.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jw-doubleblack",
+    "name": "Whisky Johnnie Walker Double Black",
+    "category": "Bebidas",
+    "subcategory": "Whisky",
+    "description": "Botella750mL",
+    "currency": "CUP",
+    "priceCUP": 34520,
+    "priceCandidatesCUP": [
+      34520
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "glenlivet-founders",
+    "name": "Whisky The Glenlivet Founder's Reserve",
+    "category": "Bebidas",
+    "subcategory": "Whisky",
+    "description": "American Oak Selection; estuche y botella",
+    "currency": "CUP",
+    "priceCUP": 20850,
+    "priceCandidatesCUP": [
+      20850
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jw-redlabel",
+    "name": "Whisky Johnnie Walker Red Label",
+    "category": "Bebidas",
+    "subcategory": "Whisky",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 16000,
+    "priceCandidatesCUP": [
+      16000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171331_1.jpg",
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171331_1.jpg",
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jw-bluelabel",
+    "name": "Whisky Johnnie Walker Blue Label",
+    "category": "Bebidas",
+    "subcategory": "Whisky",
+    "description": "Estuche y botella",
+    "currency": "CUP",
+    "priceCUP": 280000,
+    "priceCandidatesCUP": [
+      280000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jameson",
+    "name": "Whiskey Jameson",
+    "category": "Bebidas",
+    "subcategory": "Whisky",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 15900,
+    "priceCandidatesCUP": [
+      15900
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "ballantines",
+    "name": "Whisky Ballantine's Finest",
+    "category": "Bebidas",
+    "subcategory": "Whisky",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5270,
+    "priceCandidatesCUP": [
+      5270
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "armageddon",
+    "name": "Vodka Armageddon",
+    "category": "Bebidas",
+    "subcategory": "Vodka",
+    "description": "Botella azul",
+    "currency": "CUP",
+    "priceCUP": 7600,
+    "priceCandidatesCUP": [
+      7600
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "absolut",
+    "name": "Vodka Absolut",
+    "category": "Bebidas",
+    "subcategory": "Vodka",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 16020,
+    "priceCandidatesCUP": [
+      16020
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "ciroc",
+    "name": "Vodka Cîroc",
+    "category": "Bebidas",
+    "subcategory": "Vodka",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 24600,
+    "priceCandidatesCUP": [
+      24600
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jodhpur-londondry",
+    "name": "Ginebra Jodhpur London Dry",
+    "category": "Bebidas",
+    "subcategory": "Ginebra",
+    "description": "Botella oscura",
+    "currency": "CUP",
+    "priceCUP": 9000,
+    "priceCandidatesCUP": [
+      9000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Distinta de Jodhpur Reserve; volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "beefeater",
+    "name": "Ginebra Beefeater London Dry",
+    "category": "Bebidas",
+    "subcategory": "Ginebra",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 7400,
+    "priceCandidatesCUP": [
+      7400
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "tanqueray",
+    "name": "Ginebra Tanqueray London Dry",
+    "category": "Bebidas",
+    "subcategory": "Ginebra",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 9900,
+    "priceCandidatesCUP": [
+      9900
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santiago-11",
+    "name": "Ron Santiago de Cuba11años",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 19400,
+    "priceCandidatesCUP": [
+      19400
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santiago-12",
+    "name": "Ron Santiago de Cuba12años",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 22500,
+    "priceCandidatesCUP": [
+      22500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santiago-8",
+    "name": "Ron Santiago de Cuba8años",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 10400,
+    "priceCandidatesCUP": [
+      10400
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171348.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171348.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santiago-blanca",
+    "name": "Ron Santiago de Cuba Carta Blanca",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 6200,
+    "priceCandidatesCUP": [
+      6200
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171348.jpg",
+      "IMG_20261009_171351.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171348.jpg",
+      "IMG_20261009_171351.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santiago-anejo",
+    "name": "Ron Santiago de Cuba Añejo",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 10600,
+    "priceCandidatesCUP": [
+      10600
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "santiago-oscura",
+    "name": "Ron Santiago de Cuba Carta Oscura",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 9200,
+    "priceCandidatesCUP": [
+      9200
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-profundo",
+    "name": "Ron Havana Club Profundo",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5600,
+    "priceCandidatesCUP": [
+      5600
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171408.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171408.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-maestros",
+    "name": "Ron Havana Club Selección de Maestros",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 10200,
+    "priceCandidatesCUP": [
+      10200
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg",
+      "IMG_20261009_171405.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171408.jpg",
+      "IMG_20261009_171405.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-spiced",
+    "name": "Ron Havana Club Cuban Spiced",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 8670,
+    "priceCandidatesCUP": [
+      8670
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-7",
+    "name": "Ron Havana Club7años",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Dos tamaños visibles",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [
+      10200,
+      11900
+    ],
+    "priceStatus": "ambiguous",
+    "reviewStatus": "requiere-aclaracion",
+    "missingDetails": "Leer volúmenes y asociar precio; una fila provisional de familia no dosSKU confirmados",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "molinari",
+    "name": "Licor Molinari Extra",
+    "category": "Bebidas",
+    "subcategory": "Licores",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 11500,
+    "priceCandidatesCUP": [
+      11500
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171438.jpg",
+      "IMG_20261009_171417.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171438.jpg",
+      "IMG_20261009_171417.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "legendario",
+    "name": "Legendario Elixir7años",
+    "category": "Bebidas",
+    "subcategory": "Licores",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 5700,
+    "priceCandidatesCUP": [
+      5700
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Confirmar cartel y volumen",
+    "sourcePhotos": [
+      "IMG_20261009_171417.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171417.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "havana-3",
+    "name": "Ron Havana Club3años Original",
+    "category": "Bebidas",
+    "subcategory": "Ron",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 7140,
+    "priceCandidatesCUP": [
+      7140
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171420.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171420.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jagermeister-1l",
+    "name": "Licor Jägermeister",
+    "category": "Bebidas",
+    "subcategory": "Licores",
+    "description": "Botella1L;35%",
+    "currency": "CUP",
+    "priceCUP": 10900,
+    "priceCandidatesCUP": [
+      10900
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "sangretoro-special",
+    "name": "Vino Sangre de Toro Special Selection",
+    "category": "Bebidas",
+    "subcategory": "Vinos",
+    "description": "Botella",
+    "currency": "CUP",
+    "priceCUP": 9000,
+    "priceCandidatesCUP": [
+      9000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Volumen pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_171427.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171427.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "res-molida",
+    "name": "Carne de res molida",
+    "category": "Alimentos",
+    "subcategory": "Carnes",
+    "description": "Bandejas de peso variable",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "0,40kg3010CUP y0,31kg2330CUP; guardar precios por bandeja no fijar precioSKU ni inferir tarifa porkg",
+    "sourcePhotos": [
+      "IMG_20261009_171446.jpg",
+      "IMG_20261009_171457.jpg",
+      "IMG_20261009_171500.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171446.jpg",
+      "IMG_20261009_171457.jpg",
+      "IMG_20261009_171500.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bacon-slices",
+    "name": "Bacon rebanado",
+    "category": "Alimentos",
+    "subcategory": "Carnes",
+    "description": "Bolsas al vacío de peso variable",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "Precios individuales observados:0,25kg4840;0,26kg5030;0,19kg3680;0,24kg4650;0,22kg4260. No fijar precio SKU ni inferir tarifa por kg",
+    "sourcePhotos": [
+      "IMG_20261009_171447_1.jpg",
+      "IMG_20261009_171506.jpg",
+      "IMG_20261009_171512.jpg",
+      "IMG_20261009_171517.jpg",
+      "IMG_20261009_171521.jpg",
+      "IMG_20261009_171529.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171447_1.jpg",
+      "IMG_20261009_171506.jpg",
+      "IMG_20261009_171512.jpg",
+      "IMG_20261009_171517.jpg",
+      "IMG_20261009_171521.jpg",
+      "IMG_20261009_171529.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "roncari-blue",
+    "name": "Queso Roncari Blue TGT",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Queso azul de oveja100g",
+    "currency": "CUP",
+    "priceCUP": 2980,
+    "priceCandidatesCUP": [
+      2980
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "valle-curado",
+    "name": "Queso Valle de San Juan Curado",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Rueda y porciones",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "Precio por presentación pendiente; no heredar de queso azul",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "ribera-semicurado",
+    "name": "Queso Ribera Semicurado",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Rueda y porciones",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "Marca lectura Ribera; precio/peso propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "valle-trufa",
+    "name": "Queso Valle de San Juan Con Trufa",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Rueda y porciones",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "Vincular cada porción con marca y peso antes de precio",
+    "sourcePhotos": [
+      "IMG_20261009_171549.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171549.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "queso-azul-porcion",
+    "name": "Queso azul porcionado",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Bandejas al vacío",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "Marca no confirmada;0,24kg4620 y0,35kg6740 visibles; no asumir Roncari100g",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171549.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171549.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "queso-vacio-generico",
+    "name": "Queso porcionado al vacío sin marca legible",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Bolsas",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "3740 visible en varias; confirmar peso y marca; no precio porkg",
+    "sourcePhotos": [
+      "IMG_20261009_171552.jpg",
+      "IMG_20261009_171549.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171552.jpg",
+      "IMG_20261009_171549.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "hollandmar-mozzarella",
+    "name": "Mozzarella HollandMar",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Bloque verde grande",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Precio peso y lectura de marca pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "cello-variety",
+    "name": "Quesos Cello Variety Pack",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "908g;Aged Cheddar Jarlsberg Creamy Havarti Dutch Gouda",
+    "currency": "CUP",
+    "priceCUP": 17000,
+    "priceCandidatesCUP": [
+      17000
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "pate-bandeja",
+    "name": "Paté en bandeja",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Bandeja",
+    "currency": "CUP",
+    "priceCUP": 2980,
+    "priceCandidatesCUP": [
+      2980
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Marca composición y peso pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "fiambre-lonchas",
+    "name": "Fiambre en lonchas sin marca legible",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Porciones al vacío",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "variable",
+    "reviewStatus": "venta-peso-variable",
+    "missingDetails": "Identidad pendiente; no confundir con resmolida/bacon",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "variable-weight",
+    "recordType": "family-review"
+  },
+  {
+    "sharedProductId": "bravo-salami",
+    "name": "Salami Bravo",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Pieza entera",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "bravo-bacon-bloque",
+    "name": "Bacon Bravo en bloque",
+    "category": "Alimentos",
+    "subcategory": "Carnes",
+    "description": "Bloque al vacío",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "eltoro-mortadela",
+    "name": "Mortadela de pollo El Toro",
+    "category": "Alimentos",
+    "subcategory": "Embutidos",
+    "description": "Pieza entera",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Precio y peso fueraencuadre",
+    "sourcePhotos": [
+      "IMG_20261009_171616_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171616_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "roinat-puppy",
+    "name": "Alimento Roinat Puppy Dogs",
+    "category": "Mascotas",
+    "subcategory": "Perros",
+    "description": "Bolsa8kg;2–12meses",
+    "currency": "CUP",
+    "priceCUP": 30940,
+    "priceCandidatesCUP": [
+      30940
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "Lectura ampliada30940",
+    "sourcePhotos": [
+      "IMG_20261009_171627.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171627.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "jagermeister-700",
+    "name": "Licor Jägermeister700mL",
+    "category": "Bebidas",
+    "subcategory": "Licores",
+    "description": "Botella70cl;35%",
+    "currency": "CUP",
+    "priceCUP": 10900,
+    "priceCandidatesCUP": [
+      10900
+    ],
+    "priceStatus": "direct",
+    "reviewStatus": "precio-visible",
+    "missingDetails": "",
+    "sourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit",
+    "recordType": "product-candidate"
+  },
+  {
+    "sharedProductId": "frico-gouda",
+    "name": "Queso Frico Gouda Mild",
+    "category": "Alimentos",
+    "subcategory": "Quesos",
+    "description": "Cuñas en envoltorio",
+    "currency": "CUP",
+    "priceCUP": null,
+    "priceCandidatesCUP": [],
+    "priceStatus": "missing",
+    "reviewStatus": "falta-precio",
+    "missingDetails": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171306.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171306.jpg"
+    ],
+    "matchStatus": "candidate-not-published",
+    "priorPending": null,
+    "approvedImage": null,
+    "imageStatus": "not-generated",
+    "publicationStatus": "not-published",
+    "stock": null,
+    "saleMode": "packaged-unit-unconfirmed",
+    "recordType": "product-candidate"
+  }
+]
