@@ -6455,18 +6455,18 @@
   },
   {
     "sharedProductId": "mccormick-montrealchicken",
-    "name": "McCormick Grill Mates Montreal Chicken",
+    "name": "Sazonador McCormick Montreal Chicken",
     "category": "Alimentos",
     "subcategory": "Condimentos",
-    "description": "Frasco grande",
+    "description": "Grill Mates · Frasco de 652 g",
     "currency": "CUP",
     "priceCUP": 14000,
     "priceCandidatesCUP": [
       14000
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "No heredar precio de Montreal Steak",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170211.jpg",
       "IMG_20261009_170241.jpg"
@@ -6474,14 +6474,15 @@
     "priceSourcePhotos": [
       "IMG_20261009_170241.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/mccormick-montrealchicken.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "members-redpepper",
@@ -11289,61 +11290,63 @@
   },
   {
     "sharedProductId": "danos-original",
-    "name": "Dan-O's Original Seasoning",
+    "name": "Sazonador Dan-O’s Original",
     "category": "Alimentos",
     "subcategory": "Condimentos",
-    "description": "Frasco",
+    "description": "Frasco de 567 g",
     "currency": "CUP",
     "priceCUP": 8500,
     "priceCandidatesCUP": [
       8500
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170241.jpg"
     ],
     "priceSourcePhotos": [
       "IMG_20261009_170241.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/danos-original.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "badia-adobo",
-    "name": "Badia Adobo",
+    "name": "Sazonador Adobo Badia",
     "category": "Alimentos",
     "subcategory": "Condimentos",
-    "description": "Frasco",
+    "description": "Frasco de 361,4 g",
     "currency": "CUP",
     "priceCUP": 3800,
     "priceCandidatesCUP": [
       3800
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170241.jpg"
     ],
     "priceSourcePhotos": [
       "IMG_20261009_170241.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/badia-adobo.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "worcestershire-leaperrins",
@@ -11791,15 +11794,15 @@
     "name": "Jugo de limón Badia",
     "category": "Alimentos",
     "subcategory": "Salsas",
-    "description": "Botella",
+    "description": "Lemon Juice · Botella de 295,74 ml",
     "currency": "CUP",
     "priceCUP": 2100,
     "priceCandidatesCUP": [
       2100
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
@@ -11808,29 +11811,30 @@
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/badia-lemon.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "badia-mojo",
-    "name": "Badia Mojo Marinade",
+    "name": "Marinado Mojo Badia",
     "category": "Alimentos",
     "subcategory": "Salsas",
-    "description": "Botella",
+    "description": "Mojo Marinade · Botella de 295,74 ml",
     "currency": "CUP",
     "priceCUP": 1500,
     "priceCandidatesCUP": [
       1500
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
@@ -11839,29 +11843,30 @@
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/badia-mojo.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "badia-naranja",
-    "name": "Badia Naranja Agria",
+    "name": "Naranja agria Badia",
     "category": "Alimentos",
     "subcategory": "Salsas",
-    "description": "Botella",
+    "description": "Sour Orange · Botella de 295,74 ml",
     "currency": "CUP",
     "priceCUP": 2000,
     "priceCandidatesCUP": [
       2000
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
@@ -11870,14 +11875,15 @@
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/badia-naranja.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "varveio-condimento",
@@ -11912,18 +11918,18 @@
   },
   {
     "sharedProductId": "carbonell-balsamico",
-    "name": "Vinagre balsámico Carbonell",
+    "name": "Aderezo de vinagre balsámico Carbonell",
     "category": "Alimentos",
-    "subcategory": "Vinagres",
-    "description": "Botella",
+    "subcategory": "Salsas",
+    "description": "Botella de 275 ml",
     "currency": "CUP",
     "priceCUP": 3500,
     "priceCandidatesCUP": [
       3500
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
@@ -11932,14 +11938,15 @@
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/carbonell-balsamico.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "gourmet-vinagre",
@@ -14320,75 +14327,77 @@
   },
   {
     "sharedProductId": "bentons-original-cookies",
-    "name": "Benton's Original Chocolate Covered Cookies",
+    "name": "Galletas Benton’s Original Chocolate",
     "category": "Alimentos",
     "subcategory": "Galletas",
-    "description": "Caja azul",
+    "description": "Layered Cookies · Bolsa de 105 g",
     "currency": "CUP",
     "priceCUP": 5500,
     "priceCandidatesCUP": [
       5500
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170609.jpg"
     ],
     "priceSourcePhotos": [
       "IMG_20261009_170609.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/bentons-original-cookies.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "bentons-hazelnut",
-    "name": "Benton's Hazelnut Cookies",
+    "name": "Galletas Benton’s Hazelnut",
     "category": "Alimentos",
     "subcategory": "Galletas",
-    "description": "Caja",
+    "description": "Avellana · 12 galletas · Bolsa de 172 g",
     "currency": "CUP",
     "priceCUP": 5500,
     "priceCandidatesCUP": [
       5500
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
+    "reviewStatus": "publicado",
+    "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170609.jpg"
     ],
     "priceSourcePhotos": [
       "IMG_20261009_170609.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/bentons-hazelnut.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "bentons-keylime",
-    "name": "Benton's Cookie Thins Key Lime",
+    "name": "Galletas Benton’s Cookie Thins Key Lime",
     "category": "Alimentos",
     "subcategory": "Galletas",
-    "description": "Bolsa113g",
+    "description": "Lima · Bolsa de 113 g",
     "currency": "CUP",
     "priceCUP": 4200,
     "priceCandidatesCUP": [
       4200
     ],
     "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
+    "reviewStatus": "publicado",
     "missingDetails": "",
     "sourcePhotos": [
       "IMG_20261009_170614.jpg",
@@ -14398,14 +14407,15 @@
       "IMG_20261009_170614.jpg",
       "IMG_20261009_170609.jpg"
     ],
-    "matchStatus": "candidate-not-published",
+    "matchStatus": "published",
     "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/bentons-keylime.webp",
+    "imageStatus": "approved",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
+    "recordType": "product-candidate",
+    "publishedBatch": "009"
   },
   {
     "sharedProductId": "bentons-lemon",

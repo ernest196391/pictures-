@@ -3105,36 +3105,6 @@
     "recordType": "product-candidate"
   },
   {
-    "sharedProductId": "mccormick-montrealchicken",
-    "name": "McCormick Grill Mates Montreal Chicken",
-    "category": "Alimentos",
-    "subcategory": "Condimentos",
-    "description": "Frasco grande",
-    "currency": "CUP",
-    "priceCUP": 14000,
-    "priceCandidatesCUP": [
-      14000
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "No heredar precio de Montreal Steak",
-    "sourcePhotos": [
-      "IMG_20261009_170211.jpg",
-      "IMG_20261009_170241.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
     "sharedProductId": "members-redpepper",
     "name": "Member's Mark Crushed Red Pepper",
     "category": "Alimentos",
@@ -7597,64 +7567,6 @@
     "recordType": "product-candidate"
   },
   {
-    "sharedProductId": "danos-original",
-    "name": "Dan-O's Original Seasoning",
-    "category": "Alimentos",
-    "subcategory": "Condimentos",
-    "description": "Frasco",
-    "currency": "CUP",
-    "priceCUP": 8500,
-    "priceCandidatesCUP": [
-      8500
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
-    "sharedProductId": "badia-adobo",
-    "name": "Badia Adobo",
-    "category": "Alimentos",
-    "subcategory": "Condimentos",
-    "description": "Frasco",
-    "currency": "CUP",
-    "priceCUP": 3800,
-    "priceCandidatesCUP": [
-      3800
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
     "sharedProductId": "worcestershire-leaperrins",
     "name": "Salsa Lea & Perrins Worcestershire",
     "category": "Alimentos",
@@ -7974,99 +7886,6 @@
     "recordType": "product-candidate"
   },
   {
-    "sharedProductId": "badia-lemon",
-    "name": "Jugo de limón Badia",
-    "category": "Alimentos",
-    "subcategory": "Salsas",
-    "description": "Botella",
-    "currency": "CUP",
-    "priceCUP": 2100,
-    "priceCandidatesCUP": [
-      2100
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
-    "sharedProductId": "badia-mojo",
-    "name": "Badia Mojo Marinade",
-    "category": "Alimentos",
-    "subcategory": "Salsas",
-    "description": "Botella",
-    "currency": "CUP",
-    "priceCUP": 1500,
-    "priceCandidatesCUP": [
-      1500
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
-    "sharedProductId": "badia-naranja",
-    "name": "Badia Naranja Agria",
-    "category": "Alimentos",
-    "subcategory": "Salsas",
-    "description": "Botella",
-    "currency": "CUP",
-    "priceCUP": 2000,
-    "priceCandidatesCUP": [
-      2000
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
     "sharedProductId": "varveio-condimento",
     "name": "Varveio Condimento",
     "category": "Alimentos",
@@ -8080,37 +7899,6 @@
     "priceStatus": "direct",
     "reviewStatus": "precio-visible",
     "missingDetails": "Tipo exacto y volumen pendientes",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
-    "sharedProductId": "carbonell-balsamico",
-    "name": "Vinagre balsámico Carbonell",
-    "category": "Alimentos",
-    "subcategory": "Vinagres",
-    "description": "Botella",
-    "currency": "CUP",
-    "priceCUP": 3500,
-    "priceCandidatesCUP": [
-      3500
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Volumen pendiente",
     "sourcePhotos": [
       "IMG_20261009_170306_1.jpg",
       "IMG_20261009_170308_1.jpg"
@@ -10434,95 +10222,6 @@
       "IMG_20261009_170609.jpg"
     ],
     "priceSourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
-    "sharedProductId": "bentons-original-cookies",
-    "name": "Benton's Original Chocolate Covered Cookies",
-    "category": "Alimentos",
-    "subcategory": "Galletas",
-    "description": "Caja azul",
-    "currency": "CUP",
-    "priceCUP": 5500,
-    "priceCandidatesCUP": [
-      5500
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
-    "sharedProductId": "bentons-hazelnut",
-    "name": "Benton's Hazelnut Cookies",
-    "category": "Alimentos",
-    "subcategory": "Galletas",
-    "description": "Caja",
-    "currency": "CUP",
-    "priceCUP": 5500,
-    "priceCandidatesCUP": [
-      5500
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "matchStatus": "candidate-not-published",
-    "priorPending": null,
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate"
-  },
-  {
-    "sharedProductId": "bentons-keylime",
-    "name": "Benton's Cookie Thins Key Lime",
-    "category": "Alimentos",
-    "subcategory": "Galletas",
-    "description": "Bolsa113g",
-    "currency": "CUP",
-    "priceCUP": 4200,
-    "priceCandidatesCUP": [
-      4200
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "",
-    "sourcePhotos": [
-      "IMG_20261009_170614.jpg",
-      "IMG_20261009_170609.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170614.jpg",
       "IMG_20261009_170609.jpg"
     ],
     "matchStatus": "candidate-not-published",

@@ -52,126 +52,6 @@
     "nextAction": "review-exact-product"
   },
   {
-    "sharedProductId": "badia-adobo",
-    "name": "Badia Adobo",
-    "category": "Alimentos",
-    "priceCUP": 3800,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "missingDetails": "Peso pendiente",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "badia-lemon",
-    "name": "Jugo de limón Badia",
-    "category": "Alimentos",
-    "priceCUP": 2100,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "missingDetails": "Volumen pendiente",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "badia-mojo",
-    "name": "Badia Mojo Marinade",
-    "category": "Alimentos",
-    "priceCUP": 1500,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "missingDetails": "Volumen pendiente",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "badia-naranja",
-    "name": "Badia Naranja Agria",
-    "category": "Alimentos",
-    "priceCUP": 2000,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "missingDetails": "Volumen pendiente",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "bentons-hazelnut",
-    "name": "Benton's Hazelnut Cookies",
-    "category": "Alimentos",
-    "priceCUP": 5500,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "missingDetails": "Peso pendiente",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "bentons-keylime",
-    "name": "Benton's Cookie Thins Key Lime",
-    "category": "Alimentos",
-    "priceCUP": 4200,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170614.jpg",
-      "IMG_20261009_170609.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170614.jpg",
-      "IMG_20261009_170609.jpg"
-    ],
-    "missingDetails": "",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "bentons-original-cookies",
-    "name": "Benton's Original Chocolate Covered Cookies",
-    "category": "Alimentos",
-    "priceCUP": 5500,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "missingDetails": "Peso pendiente",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
     "sharedProductId": "berry-croco",
     "name": "Cereal Berry Croco Crunch",
     "category": "Alimentos",
@@ -382,24 +262,6 @@
       "IMG_20261009_170320_1.jpg"
     ],
     "missingDetails": "Marca peso pendientes",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "carbonell-balsamico",
-    "name": "Vinagre balsámico Carbonell",
-    "category": "Alimentos",
-    "priceCUP": 3500,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "missingDetails": "Volumen pendiente",
     "possibleExistingIds": [],
     "nextAction": "review-exact-product"
   },
@@ -708,22 +570,6 @@
       "IMG_20261009_170848.jpg"
     ],
     "missingDetails": "",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "danos-original",
-    "name": "Dan-O's Original Seasoning",
-    "category": "Alimentos",
-    "priceCUP": 8500,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "missingDetails": "Peso pendiente",
     "possibleExistingIds": [],
     "nextAction": "review-exact-product"
   },
@@ -1206,24 +1052,6 @@
       "IMG_20261009_170038.jpg"
     ],
     "missingDetails": "Confirmar marca y peso",
-    "possibleExistingIds": [],
-    "nextAction": "review-exact-product"
-  },
-  {
-    "sharedProductId": "mccormick-montrealchicken",
-    "name": "McCormick Grill Mates Montreal Chicken",
-    "category": "Alimentos",
-    "priceCUP": 14000,
-    "priceStatus": "direct",
-    "sourcePhotos": [
-      "IMG_20261009_170211.jpg",
-      "IMG_20261009_170241.jpg"
-    ],
-    "availableSourcePhotos": [
-      "IMG_20261009_170211.jpg",
-      "IMG_20261009_170241.jpg"
-    ],
-    "missingDetails": "No heredar precio de Montreal Steak",
     "possibleExistingIds": [],
     "nextAction": "review-exact-product"
   },
