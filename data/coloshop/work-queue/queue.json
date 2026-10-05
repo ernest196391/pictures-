@@ -1,0 +1,6395 @@
+[
+  {
+    "sharedProductId": "wonderful-vinegar",
+    "name": "Pistachos Wonderful Sea Salt & Vinegar",
+    "category": "Frutos secos",
+    "priceCUP": 18000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165430.jpg",
+      "IMG_20261009_165436.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo",
+    "sourceReview": "Original165430 shows other Wonderful variants; exact vinegar reference is165436 from missing ZIP."
+  },
+  {
+    "sharedProductId": "albondigas-cerdo",
+    "name": "Albóndigas de cerdo",
+    "category": "Alimentos",
+    "priceCUP": 4960,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca exacta y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "almond-windmill",
+    "name": "Almond Windmill Cookies",
+    "category": "Alimentos",
+    "priceCUP": 3000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170637.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "amanhecer-whitepepper",
+    "name": "Pimienta blanca molida Amanhecer",
+    "category": "Alimentos",
+    "priceCUP": 1450,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "apti-basil",
+    "name": "Albahaca Apti Manjericão",
+    "category": "Alimentos",
+    "priceCUP": 500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170250.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "arroz-alfinete",
+    "name": "Arroz blanco Alfinete",
+    "category": "Alimentos",
+    "priceCUP": 1300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170008.jpg",
+      "IMG_20261009_170010.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "arroz-blanco-bolsa",
+    "name": "Arroz blanco en bolsa",
+    "category": "Alimentos",
+    "priceCUP": 1000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170014.jpg",
+      "IMG_20261009_170008.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Sin marca; peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "badia-adobo",
+    "name": "Badia Adobo",
+    "category": "Alimentos",
+    "priceCUP": 3800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170241.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "badia-lemon",
+    "name": "Jugo de limón Badia",
+    "category": "Alimentos",
+    "priceCUP": 2100,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "badia-mojo",
+    "name": "Badia Mojo Marinade",
+    "category": "Alimentos",
+    "priceCUP": 1500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "badia-naranja",
+    "name": "Badia Naranja Agria",
+    "category": "Alimentos",
+    "priceCUP": 2000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bauducco-maria",
+    "name": "Galletas Bauducco Maria",
+    "category": "Alimentos",
+    "priceCUP": 1200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170532.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bauducco-wafer-straw",
+    "name": "Wafer Bauducco fresa",
+    "category": "Alimentos",
+    "priceCUP": 1300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170518.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bentons-hazelnut",
+    "name": "Benton's Hazelnut Cookies",
+    "category": "Alimentos",
+    "priceCUP": 5500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bentons-keylime",
+    "name": "Benton's Cookie Thins Key Lime",
+    "category": "Alimentos",
+    "priceCUP": 4200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170614.jpg",
+      "IMG_20261009_170609.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bentons-original-cookies",
+    "name": "Benton's Original Chocolate Covered Cookies",
+    "category": "Alimentos",
+    "priceCUP": 5500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "berry-croco",
+    "name": "Cereal Berry Croco Crunch",
+    "category": "Alimentos",
+    "priceCUP": 3400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170540.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y marca pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bettergoods-granola",
+    "name": "Granola Bettergoods Chocolate Sea Salt",
+    "category": "Alimentos",
+    "priceCUP": 6200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bolitas-queso",
+    "name": "Bolitas de queso La Tabernita",
+    "category": "Alimentos",
+    "priceCUP": 4420,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg",
+      "IMG_20261009_171202_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bravo-jamon-barra",
+    "name": "Jamón Bravo Barra",
+    "category": "Alimentos",
+    "priceCUP": 16370,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171614_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y unidad de venta pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bravo-jamon-cocido",
+    "name": "Jamón cocido Bravo",
+    "category": "Alimentos",
+    "priceCUP": 17200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y unidad de venta pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bravo-jamon-york",
+    "name": "Jamón Bravo York",
+    "category": "Alimentos",
+    "priceCUP": 7015,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bravo-mortadela",
+    "name": "Mortadela Bravo Criolla",
+    "category": "Alimentos",
+    "priceCUP": 5060,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171247.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Corrige tamaño preliminar; etiqueta800g",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "bravo-pasta-boca",
+    "name": "Pasta de bocadito Bravo tradicional",
+    "category": "Alimentos",
+    "priceCUP": 1720,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente; etiqueta confirma pasta de bocadito",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "britannia-biscafe",
+    "name": "Galletas Britannia Biscafé",
+    "category": "Alimentos",
+    "priceCUP": 2300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170421.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "cacao-black",
+    "name": "Cacao amargo en polvo bolsa negra",
+    "category": "Alimentos",
+    "priceCUP": 3000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170358.jpg",
+      "IMG_20261009_170402.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "cacao-brown",
+    "name": "Cacao amargo en polvo bolsa marrón",
+    "category": "Alimentos",
+    "priceCUP": 3000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170402.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes; comprobar si otra presentación de cacao-black",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "cadbury-bar",
+    "name": "Chocolate Cadbury",
+    "category": "Alimentos",
+    "priceCUP": 2500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg",
+      "IMG_20261009_170649.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "caramel-syrup",
+    "name": "Caramel Syrup",
+    "category": "Alimentos",
+    "priceCUP": 2400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "carbonell-balsamico",
+    "name": "Vinagre balsámico Carbonell",
+    "category": "Alimentos",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "carmencita-paella",
+    "name": "Carmencita Sazonador Paella",
+    "category": "Alimentos",
+    "priceCUP": 1700,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "carrs-assortment",
+    "name": "Carr's Table Water Crackers Assortment",
+    "category": "Alimentos",
+    "priceCUP": 22500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170550.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "cello-variety",
+    "name": "Quesos Cello Variety Pack",
+    "category": "Alimentos",
+    "priceCUP": 17000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "chefscupboard-buterry",
+    "name": "Puré de papas Chef's Cupboard Buttery",
+    "category": "Alimentos",
+    "priceCUP": 1800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170025.jpg",
+      "IMG_20261009_170027.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "chipsahoy",
+    "name": "Chips Ahoy Original",
+    "category": "Alimentos",
+    "priceCUP": 5800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170629.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "choco-variety14",
+    "name": "Surtido chocolates14piezas",
+    "category": "Alimentos",
+    "priceCUP": 35000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg",
+      "IMG_20261009_170649.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca peso y precio por caja por confirmar",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "chocochip-cookie",
+    "name": "Chocolate Chip Cookies",
+    "category": "Alimentos",
+    "priceCUP": 3800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170637.jpg",
+      "IMG_20261009_170640.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "chocolisto-choco",
+    "name": "Choco Listo Chocolate",
+    "category": "Alimentos",
+    "priceCUP": 4800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170358.jpg",
+      "IMG_20261009_170402.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "chocolisto-straw",
+    "name": "Choco Listo Strawberry",
+    "category": "Alimentos",
+    "priceCUP": 3000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170358.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "coffee-dark-bag",
+    "name": "Café bolsa oscura",
+    "category": "Alimentos",
+    "priceCUP": 4200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170341.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca variante y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "coffee-mate-bolsa",
+    "name": "Nestlé Coffee Mate bolsa",
+    "category": "Alimentos",
+    "priceCUP": 2200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg",
+      "IMG_20261009_170333.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "coffee-mcdaniels",
+    "name": "Café McDaniel's Instant",
+    "category": "Alimentos",
+    "priceCUP": 4900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "coffee-sebraz-250",
+    "name": "Café Sebraz Extra Forte",
+    "category": "Alimentos",
+    "priceCUP": 2500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170341.jpg",
+      "IMG_20261009_170336.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "coffee-whitener",
+    "name": "Country Coffee Whitener",
+    "category": "Alimentos",
+    "priceCUP": 3000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente; confirmar marca",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "colacao-original",
+    "name": "ColaCao Original",
+    "category": "Alimentos",
+    "priceCUP": 10200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170351.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "colacao-turbo",
+    "name": "ColaCao Turbo",
+    "category": "Alimentos",
+    "priceCUP": 6500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170351.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "colonna-ranch",
+    "name": "Colonna Ranch Seasoning",
+    "category": "Alimentos",
+    "priceCUP": 1300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "cookies-bulk",
+    "name": "Galletas redondas en bolsa",
+    "category": "Alimentos",
+    "priceCUP": 1500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170032.jpg",
+      "IMG_20261009_170014.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca peso y unidad de venta pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "crepel-bar",
+    "name": "Golosina Crepel",
+    "category": "Alimentos",
+    "priceCUP": 900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170649.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar nombre marca peso y unidad venta",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "crispy-jalapeno",
+    "name": "Crispy Jalapeño Pieces",
+    "category": "Alimentos",
+    "priceCUP": 5800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165521.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "cvale-nuggets",
+    "name": "Nuggets de pollo C.Vale",
+    "category": "Alimentos",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170846.jpg",
+      "IMG_20261009_170848.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "danos-original",
+    "name": "Dan-O's Original Seasoning",
+    "category": "Alimentos",
+    "priceCUP": 8500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170241.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "dor-coles",
+    "name": "Coles de Bruselas congeladas d'Arta",
+    "category": "Alimentos",
+    "priceCUP": 3000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170834_1.jpg",
+      "IMG_20261009_170838.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "driedapple",
+    "name": "Manzana deshidratada Dried Apple Soft & Chewy",
+    "category": "Alimentos",
+    "priceCUP": 2000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170903_1.jpg",
+      "IMG_20261009_170909_1.jpg",
+      "IMG_20261009_170911_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "eurofrits-papas",
+    "name": "Papas prefritas Eurofrits Steakhouse Super Crujiente",
+    "category": "Alimentos",
+    "priceCUP": 5700,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170851_1.jpg",
+      "IMG_20261009_170855.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "five-gum",
+    "name": "Chicle5Gum",
+    "category": "Alimentos",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170501.jpg",
+      "IMG_20261009_170504.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar sabor y unidad venta",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "fresko-butter",
+    "name": "Caramelos Fresko Butter Milky",
+    "category": "Alimentos",
+    "priceCUP": 4000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170642.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "fresko-cappuccino",
+    "name": "Caramelos Fresko Cappuccino",
+    "category": "Alimentos",
+    "priceCUP": 4000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170642.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "fresko-coffee",
+    "name": "Caramelos Fresko Coffee",
+    "category": "Alimentos",
+    "priceCUP": 4000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170642.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "gourmet-double",
+    "name": "Galletas Gourmet Double",
+    "category": "Alimentos",
+    "priceCUP": 100,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170428_1.jpg",
+      "IMG_20261009_170421.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "gourmet-vinagre",
+    "name": "Vinagre Gourmet",
+    "category": "Alimentos",
+    "priceCUP": 1100,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y volumen pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "gv-bacon-bits",
+    "name": "Great Value Reduced Sodium Real Bacon Pieces",
+    "category": "Alimentos",
+    "priceCUP": 4700,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "gv-protein-granola",
+    "name": "Granola Great Value Oats & Honey Protein",
+    "category": "Alimentos",
+    "priceCUP": 5800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "hamburguesas-cerdo",
+    "name": "Hamburguesas de cerdo",
+    "category": "Alimentos",
+    "priceCUP": 3568,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca exacta y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "heavenly-garlic",
+    "name": "Ajo en polvo Heavenly Spices",
+    "category": "Alimentos",
+    "priceCUP": 2100,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "hersheys-nuggets",
+    "name": "Hershey's Nuggets",
+    "category": "Alimentos",
+    "priceCUP": 9500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "hersheys-syrup",
+    "name": "Sirope de chocolate Hershey's",
+    "category": "Alimentos",
+    "priceCUP": 13000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170311_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "hormel-bacon",
+    "name": "Hormel Real Crumbled Bacon Applewood",
+    "category": "Alimentos",
+    "priceCUP": 4200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "italian-dressing",
+    "name": "Aderezo italiano botella blanca",
+    "category": "Alimentos",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca variante y volumen pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jojos-almond",
+    "name": "Jojo's pistachio almond cranberry",
+    "category": "Alimentos",
+    "priceCUP": 13000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165521.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar denominación y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kens-ranch",
+    "name": "Ken's Ranch Dressing",
+    "category": "Alimentos",
+    "priceCUP": 5500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar denominación completa y volumen",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kitano-basil",
+    "name": "Kitano Manjericão em Folha",
+    "category": "Alimentos",
+    "priceCUP": 4680,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kitkat-16",
+    "name": "KitKat caja16paquetes",
+    "category": "Alimentos",
+    "priceCUP": 40000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar unidad de venta caja y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kitkat-minis",
+    "name": "KitKat Minis",
+    "category": "Alimentos",
+    "priceCUP": 19500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "lemoncreme-cookie",
+    "name": "Lemon Creme Cookies",
+    "category": "Alimentos",
+    "priceCUP": 4800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "lime-juice",
+    "name": "Jugo de lima botella verde",
+    "category": "Alimentos",
+    "priceCUP": 2200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y volumen pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "lotus-biscoff",
+    "name": "Lotus Biscoff",
+    "category": "Alimentos",
+    "priceCUP": 4200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170629.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "maggi-sazon",
+    "name": "Maggi Sazón Completo",
+    "category": "Alimentos",
+    "priceCUP": 2150,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "maicena-450",
+    "name": "Maicena almidón de maíz",
+    "category": "Alimentos",
+    "priceCUP": 3000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca no confirmada",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "mantias-parmesan",
+    "name": "Queso parmesano Mantia's",
+    "category": "Alimentos",
+    "priceCUP": 4900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "marchi-salt",
+    "name": "Sal yodada March I",
+    "category": "Alimentos",
+    "priceCUP": 1800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170045.jpg",
+      "IMG_20261009_170038.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "mccormick-montrealchicken",
+    "name": "McCormick Grill Mates Montreal Chicken",
+    "category": "Alimentos",
+    "priceCUP": 14000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "No heredar precio de Montreal Steak",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "mccormick-montrealsteak",
+    "name": "McCormick Grill Mates Montreal Steak",
+    "category": "Alimentos",
+    "priceCUP": 14000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "members-cookie-thins",
+    "name": "Member's Mark Chocolate Chip Cookie Thins",
+    "category": "Alimentos",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170614.jpg",
+      "IMG_20261009_170618.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "members-honey-granola",
+    "name": "Granola Member's Mark Honey Almond",
+    "category": "Alimentos",
+    "priceCUP": 15000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165536.jpg",
+      "IMG_20261009_165541.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "members-lemonpepper",
+    "name": "Condimento Member's Mark Lemon Pepper",
+    "category": "Alimentos",
+    "priceCUP": 14000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "members-redpepper",
+    "name": "Member's Mark Crushed Red Pepper",
+    "category": "Alimentos",
+    "priceCUP": 6700,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "members-thyme",
+    "name": "Member's Mark Whole Thyme Leaves",
+    "category": "Alimentos",
+    "priceCUP": 5500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "mermelada-amarilla",
+    "name": "Mermelada frasco amarillo",
+    "category": "Alimentos",
+    "priceCUP": 3900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca sabor peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "milano-double",
+    "name": "Pepperidge Farm Milano Double Milk Chocolate",
+    "category": "Alimentos",
+    "priceCUP": 650,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170618.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio del sobre; precio caja no confirmado",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "milideas-vinagre",
+    "name": "Vinagre de vino Milideas",
+    "category": "Alimentos",
+    "priceCUP": 1700,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y volumen",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "mms-honey-bag",
+    "name": "M&M's Honey Roasted Peanut",
+    "category": "Alimentos",
+    "priceCUP": 9500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170600.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "mms-peanut-jar",
+    "name": "M&M's Peanut frasco",
+    "category": "Alimentos",
+    "priceCUP": 29000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170603.jpg",
+      "IMG_20261009_170600.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente; no unir a otro tamaño sin confirmar",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "mms-sharebag",
+    "name": "M&M's Sharing Size bolsa",
+    "category": "Alimentos",
+    "priceCUP": 8500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y peso pendientes; distinto de frascos",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nerds-clusters",
+    "name": "Nerds Gummy Clusters Rainbow",
+    "category": "Alimentos",
+    "priceCUP": 19000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170554.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nescafe-clasico",
+    "name": "Café Nescafé Clásico",
+    "category": "Alimentos",
+    "priceCUP": 27500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nescafe-small",
+    "name": "Café Nescafé frasco pequeño",
+    "category": "Alimentos",
+    "priceCUP": 5600,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nescafe-tasters",
+    "name": "Café Nescafé Taster's Choice",
+    "category": "Alimentos",
+    "priceCUP": 26000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nesquik-choco-bag",
+    "name": "Nesquik Chocolate bolsa",
+    "category": "Alimentos",
+    "priceCUP": 5500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170351.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nesquik-choco-tin",
+    "name": "Nesquik Chocolate",
+    "category": "Alimentos",
+    "priceCUP": 18000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170346_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nesquik-straw-tin",
+    "name": "Nesquik Strawberry",
+    "category": "Alimentos",
+    "priceCUP": 16500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170346_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "nestia-plantain",
+    "name": "Chips de plátano Nestia Sea Salt",
+    "category": "Alimentos",
+    "priceCUP": 9100,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171154_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "oreo-choco-box",
+    "name": "Oreo Chocolate caja naranja",
+    "category": "Alimentos",
+    "priceCUP": 5200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170623.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "oreo-chocofill-box",
+    "name": "Oreo caja azul12paquetes",
+    "category": "Alimentos",
+    "priceCUP": 9500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170623.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y unidad de venta pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "oreo-roll",
+    "name": "Oreo en envoltorio transparente",
+    "category": "Alimentos",
+    "priceCUP": 2500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170626.jpg",
+      "IMG_20261009_170623.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso/cantidad pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "oreo-snack",
+    "name": "Oreo Snack Packs",
+    "category": "Alimentos",
+    "priceCUP": 500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170623.jpg",
+      "IMG_20261009_170618.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio del sobre; precio caja no confirmado",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "organic-coconut-flour",
+    "name": "Harina de coco Nature’s Goodness Organic",
+    "category": "Alimentos",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165507.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "pate-bandeja",
+    "name": "Paté en bandeja",
+    "category": "Alimentos",
+    "priceCUP": 2980,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca composición y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "peanut-cookies-18",
+    "name": "Peanut Butter Sandwich Cookies18Pack",
+    "category": "Alimentos",
+    "priceCUP": 2500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170417.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca pendiente; unidad de venta confirmar",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "president-camembert",
+    "name": "Queso Président Petit Camembert",
+    "category": "Alimentos",
+    "priceCUP": 4560,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "ragu-garlic",
+    "name": "Salsa Ragu Roasted Garlic Parmesan",
+    "category": "Alimentos",
+    "priceCUP": 6500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "raviolis",
+    "name": "Raviolis congelados",
+    "category": "Alimentos",
+    "priceCUP": 4080,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "reeses-bar",
+    "name": "Reese's barra",
+    "category": "Alimentos",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "reeses-pieces",
+    "name": "Reese's Pieces",
+    "category": "Alimentos",
+    "priceCUP": 8500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "renypicot-mantequilla",
+    "name": "Mantequilla Reny Picot Tradicional",
+    "category": "Alimentos",
+    "priceCUP": 2880,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171306.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "roncari-blue",
+    "name": "Queso Roncari Blue TGT",
+    "category": "Alimentos",
+    "priceCUP": 2980,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santa-lasagna",
+    "name": "Pasta Santa Lasagna",
+    "category": "Alimentos",
+    "priceCUP": 800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "simply-coconut-oil",
+    "name": "Aceite de coco Simply Nature Organic",
+    "category": "Alimentos",
+    "priceCUP": 9500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "simply-flax",
+    "name": "Linaza molida Simply Nature Organic",
+    "category": "Alimentos",
+    "priceCUP": 5500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165507.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "simply-quinoa",
+    "name": "Quinoa Simply Nature Organic",
+    "category": "Alimentos",
+    "priceCUP": 7600,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165507.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "supreme-black-pepper",
+    "name": "Supreme Tradition Black Pepper Ground",
+    "category": "Alimentos",
+    "priceCUP": 2100,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "takis-fuego",
+    "name": "Takis Fuego",
+    "category": "Alimentos",
+    "priceCUP": 1300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170903_1.jpg",
+      "IMG_20261009_170909_1.jpg",
+      "IMG_20261009_170906_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "te-manzanilla-jengibre",
+    "name": "Té Doblet manzanilla con jengibre",
+    "category": "Alimentos",
+    "priceCUP": 900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170406_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cantidad pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "thatsit-crunch",
+    "name": "That's It Crunchables",
+    "category": "Alimentos",
+    "priceCUP": 750,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170911_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Sabor y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "toblerone",
+    "name": "Chocolate Toblerone",
+    "category": "Alimentos",
+    "priceCUP": 4000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170554.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "torre-pink-salt",
+    "name": "Sal rosada Torre de la Vega",
+    "category": "Alimentos",
+    "priceCUP": 1700,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170051.jpg",
+      "IMG_20261009_170054.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "trader-passion",
+    "name": "Granola Trader Joe's Passion Fruit",
+    "category": "Alimentos",
+    "priceCUP": 8500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "trader-vanilla",
+    "name": "Granola Trader Joe's Vanilla Almond",
+    "category": "Alimentos",
+    "priceCUP": 8000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "trident-1350",
+    "name": "Chicle Trident",
+    "category": "Alimentos",
+    "priceCUP": 1350,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170504.jpg",
+      "IMG_20261009_170501.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar unidad venta y sabor",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "trigo-bolsa-1kg",
+    "name": "Harina de trigo",
+    "category": "Alimentos",
+    "priceCUP": 2100,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca no legible",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "trigo-gloria",
+    "name": "Harina de trigo Gloria",
+    "category": "Alimentos",
+    "priceCUP": 1300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "tuscan-caesar",
+    "name": "Crutones Tuscan Garden Classic Caesar",
+    "category": "Alimentos",
+    "priceCUP": 4000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vanilla-sandwich",
+    "name": "Vanilla Sandwich Crème Cookies",
+    "category": "Alimentos",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "varveio-balsamico",
+    "name": "Varveio Aceto Balsamico di Modena",
+    "category": "Alimentos",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg",
+      "IMG_20261009_170306_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "varveio-condimento",
+    "name": "Varveio Condimento",
+    "category": "Alimentos",
+    "priceCUP": 3300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Tipo exacto y volumen pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vima-ensaladilla",
+    "name": "Ensaladilla congelada Vima",
+    "category": "Alimentos",
+    "priceCUP": 3200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170704_1.jpg",
+      "IMG_20261009_170715.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca en envase completo",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vima-maiz-frozen",
+    "name": "Maíz dulce congelado Vima",
+    "category": "Alimentos",
+    "priceCUP": 3200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170826_1.jpg",
+      "IMG_20261009_170831.jpg",
+      "IMG_20261009_170715.jpg",
+      "IMG_20261009_170834_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vima-vino-vinagre",
+    "name": "Vinagre de vino Vima",
+    "category": "Alimentos",
+    "priceCUP": 2000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vinagre-blanco",
+    "name": "Vinagre blanco botella transparente",
+    "category": "Alimentos",
+    "priceCUP": 1450,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y volumen pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wapa-butifarra",
+    "name": "Butifarra Wapa",
+    "category": "Alimentos",
+    "priceCUP": 5540,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Revisar lectura5540 contra original antes de publicar",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wapa-chorizo",
+    "name": "Chorizo parrillero Wapa",
+    "category": "Alimentos",
+    "priceCUP": 5300,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171215.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "welchs-grape",
+    "name": "Welch's Grape",
+    "category": "Alimentos",
+    "priceCUP": 1000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar presentación y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "white-bulk",
+    "name": "Producto blanco en bolsa sin marca",
+    "category": "Alimentos",
+    "priceCUP": 800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170047.jpg",
+      "IMG_20261009_170045.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar si es azúcar sal o arroz y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "worcestershire-leaperrins",
+    "name": "Salsa Lea & Perrins Worcestershire",
+    "category": "Alimentos",
+    "priceCUP": 12800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "downy-fresh-perlas",
+    "name": "Perlas de perfume Downy Fresh",
+    "category": "Aseo",
+    "priceCUP": 9400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "absolut",
+    "name": "Vodka Absolut",
+    "category": "Bebidas",
+    "priceCUP": 16020,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "altos-reposado",
+    "name": "Tequila Altos Reposado",
+    "category": "Bebidas",
+    "priceCUP": 13140,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171327.jpg",
+      "IMG_20261009_171323_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "armageddon",
+    "name": "Vodka Armageddon",
+    "category": "Bebidas",
+    "priceCUP": 7600,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "ballantines",
+    "name": "Whisky Ballantine's Finest",
+    "category": "Bebidas",
+    "priceCUP": 5270,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "beefeater",
+    "name": "Ginebra Beefeater London Dry",
+    "category": "Bebidas",
+    "priceCUP": 7400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "carafiestas",
+    "name": "Mezcal CaraFiestas blanco",
+    "category": "Bebidas",
+    "priceCUP": 8000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171323_1.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "celeste-verdejo",
+    "name": "Vino Celeste Verdejo",
+    "category": "Bebidas",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "ciroc",
+    "name": "Vodka Cîroc",
+    "category": "Bebidas",
+    "priceCUP": 24600,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "cristal-botella",
+    "name": "Cerveza Cristal",
+    "category": "Bebidas",
+    "priceCUP": 1050,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165618.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "fattoria-guayaba",
+    "name": "Néctar de guayaba Fattorie Crisci",
+    "category": "Bebidas",
+    "priceCUP": 660,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "gatonegro-white",
+    "name": "Vino Gato Negro blanco",
+    "category": "Bebidas",
+    "priceCUP": 4000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171001_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variedad y volumen pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "glenlivet-founders",
+    "name": "Whisky The Glenlivet Founder's Reserve",
+    "category": "Bebidas",
+    "priceCUP": 20850,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "gordons",
+    "name": "Ginebra Gordon's London Dry",
+    "category": "Bebidas",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "gran-juve-camps",
+    "name": "Gran Juvé & Camps Gran Reserva Brut",
+    "category": "Bebidas",
+    "priceCUP": 21000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170930.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar volumen",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "havana-3",
+    "name": "Ron Havana Club3años Original",
+    "category": "Bebidas",
+    "priceCUP": 7140,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171420.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "havana-especial",
+    "name": "Ron Havana Club Añejo Especial",
+    "category": "Bebidas",
+    "priceCUP": 5900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "havana-maestros",
+    "name": "Ron Havana Club Selección de Maestros",
+    "category": "Bebidas",
+    "priceCUP": 10200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg",
+      "IMG_20261009_171405.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "havana-profundo",
+    "name": "Ron Havana Club Profundo",
+    "category": "Bebidas",
+    "priceCUP": 5600,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171408.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "havana-reserva",
+    "name": "Ron Havana Club Añejo Reserva",
+    "category": "Bebidas",
+    "priceCUP": 8500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171016.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "havana-ritual",
+    "name": "Ron Havana Club Ritual Cubano",
+    "category": "Bebidas",
+    "priceCUP": 5800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171400.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "havana-spiced",
+    "name": "Ron Havana Club Cuban Spiced",
+    "category": "Bebidas",
+    "priceCUP": 8670,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jagermeister-1l",
+    "name": "Licor Jägermeister",
+    "category": "Bebidas",
+    "priceCUP": 10900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jagermeister-700",
+    "name": "Licor Jägermeister700mL",
+    "category": "Bebidas",
+    "priceCUP": 10900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jameson",
+    "name": "Whiskey Jameson",
+    "category": "Bebidas",
+    "priceCUP": 15900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jodhpur-londondry",
+    "name": "Ginebra Jodhpur London Dry",
+    "category": "Bebidas",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Distinta de Jodhpur Reserve; volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jodhpur-mandore",
+    "name": "Ginebra Jodhpur Mandore",
+    "category": "Bebidas",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171341.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jodhpur-reserve",
+    "name": "Ginebra Jodhpur Reserve",
+    "category": "Bebidas",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jodhpur-spicy",
+    "name": "Ginebra Jodhpur Spicy",
+    "category": "Bebidas",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "juve-solo-vida",
+    "name": "Cava Juvé & Camps Solo Vida",
+    "category": "Bebidas",
+    "priceCUP": 21000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170930.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar volumen",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jw-bluelabel",
+    "name": "Whisky Johnnie Walker Blue Label",
+    "category": "Bebidas",
+    "priceCUP": 280000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jw-doubleblack",
+    "name": "Whisky Johnnie Walker Double Black",
+    "category": "Bebidas",
+    "priceCUP": 34520,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "jw-redlabel",
+    "name": "Whisky Johnnie Walker Red Label",
+    "category": "Bebidas",
+    "priceCUP": 16000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171331_1.jpg",
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "legendario",
+    "name": "Legendario Elixir7años",
+    "category": "Bebidas",
+    "priceCUP": 5700,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171417.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar cartel y volumen",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "molinari",
+    "name": "Licor Molinari Extra",
+    "category": "Bebidas",
+    "priceCUP": 11500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171438.jpg",
+      "IMG_20261009_171417.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "offley-white",
+    "name": "Vino de Oporto Offley White",
+    "category": "Bebidas",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170954_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "olmeca-reposado",
+    "name": "Tequila Olmeca Reposado",
+    "category": "Bebidas",
+    "priceCUP": 14180,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171327.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "pacto-navio",
+    "name": "Ron Pacto Navio",
+    "category": "Bebidas",
+    "priceCUP": 20000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171321.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "planta-santa",
+    "name": "Mezcal Planta Santa Reposado",
+    "category": "Bebidas",
+    "priceCUP": 13000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "sangretoro-red",
+    "name": "Vino Sangre de Toro tinto",
+    "category": "Bebidas",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "sangretoro-rose",
+    "name": "Vino Sangre de Toro rosado",
+    "category": "Bebidas",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "sangretoro-special",
+    "name": "Vino Sangre de Toro Special Selection",
+    "category": "Bebidas",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171427.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "sangretoro-white",
+    "name": "Vino Sangre de Toro blanco",
+    "category": "Bebidas",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santacarolina-rose",
+    "name": "Vino Santa Carolina Reservado Rosé",
+    "category": "Bebidas",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "No extrapolar añada a otras botellas",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santacarolina-sauvignon",
+    "name": "Vino Santa Carolina Reservado Sauvignon Blanc",
+    "category": "Bebidas",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santiago-11",
+    "name": "Ron Santiago de Cuba11años",
+    "category": "Bebidas",
+    "priceCUP": 19400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santiago-12",
+    "name": "Ron Santiago de Cuba12años",
+    "category": "Bebidas",
+    "priceCUP": 22500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santiago-8",
+    "name": "Ron Santiago de Cuba8años",
+    "category": "Bebidas",
+    "priceCUP": 10400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171348.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santiago-anejo",
+    "name": "Ron Santiago de Cuba Añejo",
+    "category": "Bebidas",
+    "priceCUP": 10600,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santiago-blanca",
+    "name": "Ron Santiago de Cuba Carta Blanca",
+    "category": "Bebidas",
+    "priceCUP": 6200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171348.jpg",
+      "IMG_20261009_171351.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "santiago-oscura",
+    "name": "Ron Santiago de Cuba Carta Oscura",
+    "category": "Bebidas",
+    "priceCUP": 9200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "shani",
+    "name": "Refresco Shani",
+    "category": "Bebidas",
+    "priceCUP": 780,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170152.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "suau-15",
+    "name": "Brandy Suau15",
+    "category": "Bebidas",
+    "priceCUP": 15000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "suau-8",
+    "name": "Brandy Suau8",
+    "category": "Bebidas",
+    "priceCUP": 8000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "sunny-tamarind",
+    "name": "Néctar Sunny Tamarind",
+    "category": "Bebidas",
+    "priceCUP": 900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170128.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "tanqueray",
+    "name": "Ginebra Tanqueray London Dry",
+    "category": "Bebidas",
+    "priceCUP": 9900,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "taoro-guayaba",
+    "name": "Néctar Taoro Guayaba",
+    "category": "Bebidas",
+    "priceCUP": 680,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170105_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "unlaguer-330",
+    "name": "Cerveza Unlaguer",
+    "category": "Bebidas",
+    "priceCUP": 620,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165622.jpg",
+      "IMG_20261009_170138.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar escritura exacta de marca antes de generar imagen",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vallformosa-cava-brut",
+    "name": "Vallformosa Cava Brut",
+    "category": "Bebidas",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170948_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vallformosa-cava-ice",
+    "name": "Vallformosa Cava Ice",
+    "category": "Bebidas",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170948_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vallformosa-gala-rose",
+    "name": "Vallformosa Gala rosado",
+    "category": "Bebidas",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170943_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vallformosa-gala-white",
+    "name": "Vallformosa Gala blanco",
+    "category": "Bebidas",
+    "priceCUP": 5200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170941.jpg",
+      "IMG_20261009_170943_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar variedad y volumen",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vina-esmeralda",
+    "name": "Vino Viña Esmeralda",
+    "category": "Bebidas",
+    "priceCUP": 4000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vinasol",
+    "name": "Vino Viña Sol Original",
+    "category": "Bebidas",
+    "priceCUP": 3500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "water-blue",
+    "name": "Agua embotellada de etiqueta azul",
+    "category": "Bebidas",
+    "priceCUP": 350,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170131.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y volumen pendientes; no unir a otra agua sin confirmar",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "davia-passata",
+    "name": "Davia Passata",
+    "category": "Conservas",
+    "priceCUP": 2500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170221.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "novo-lata",
+    "name": "Producto Novo en lata",
+    "category": "Conservas",
+    "priceCUP": 2000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170410_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar denominación y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "ourhouse-tomato",
+    "name": "Pasta de tomate OurHouse",
+    "category": "Conservas",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170225_1.jpg",
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "plumrose-lata",
+    "name": "Producto Plumrose en lata",
+    "category": "Conservas",
+    "priceCUP": 1200,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170410_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar denominación y peso",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "prego-traditional",
+    "name": "Salsa Prego Traditional",
+    "category": "Conservas",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170234.jpg",
+      "IMG_20261009_170221.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "tagliamonte-pomodoro",
+    "name": "Tomates pelados enteros Tagliamonte",
+    "category": "Conservas",
+    "priceCUP": 1650,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170228.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar peso escurrido240g",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "tomate-triturado",
+    "name": "Tomate triturado en lata",
+    "category": "Conservas",
+    "priceCUP": 4500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "vima-albondigas-lata",
+    "name": "Albóndigas en salsa Vima",
+    "category": "Conservas",
+    "priceCUP": 1450,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_170410_1.jpg",
+      "IMG_20261009_170406_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "biena-edamame",
+    "name": "Biena Edamame Himalayan Pink Salt",
+    "category": "Frutos secos",
+    "priceCUP": 12800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165604_1.jpg",
+      "IMG_20261009_165602.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Lectura ampliada12800",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kirkland-almonds",
+    "name": "Kirkland Roasted Almonds Sea Salt",
+    "category": "Frutos secos",
+    "priceCUP": 22800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg",
+      "IMG_20261009_165521.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kirkland-cashews",
+    "name": "Kirkland Whole Cashews Unsalted Unroasted",
+    "category": "Frutos secos",
+    "priceCUP": 28800,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kirkland-keto-mix",
+    "name": "Kirkland Keto Snack Mix",
+    "category": "Frutos secos",
+    "priceCUP": 22000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg",
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kirkland-salted-mixed",
+    "name": "Kirkland Extra Fancy Salted Mixed Nuts",
+    "category": "Frutos secos",
+    "priceCUP": 28000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Revisar peso antes de publicar",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kirkland-trail-28",
+    "name": "Kirkland Trail Mix Snack Packs",
+    "category": "Frutos secos",
+    "priceCUP": 33600,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio por caja; peso total pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "kirkland-unsalted-mixed",
+    "name": "Kirkland Unsalted Mixed Nuts",
+    "category": "Frutos secos",
+    "priceCUP": 23000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "pockets-almonds",
+    "name": "Pocket's Chocolates Greek Yogurt & Dark Chocolate Coated Almonds",
+    "category": "Frutos secos",
+    "priceCUP": 20500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio del paquete grande; no por sobre",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-almonds",
+    "name": "Almendras Southern Grove Whole Natural",
+    "category": "Frutos secos",
+    "priceCUP": 10000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-cashews-salt",
+    "name": "Marañones Southern Grove Lightly Salted",
+    "category": "Frutos secos",
+    "priceCUP": 8400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-cashews-unsalt",
+    "name": "Marañones Southern Grove Unsalted",
+    "category": "Frutos secos",
+    "priceCUP": 8400,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-mixed-salt",
+    "name": "Southern Grove Deluxe Mixed Nuts Sea Salt",
+    "category": "Frutos secos",
+    "priceCUP": 20500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-mixed-unsalt",
+    "name": "Southern Grove Deluxe Mixed Nuts Unsalted",
+    "category": "Frutos secos",
+    "priceCUP": 20500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-pistachios-shelled",
+    "name": "Pistachos Southern Grove Shelled Sea Salt",
+    "category": "Frutos secos",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg",
+      "IMG_20261009_165446.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-pistachios-unsalted",
+    "name": "Pistachos Southern Grove Roasted Unsalted",
+    "category": "Frutos secos",
+    "priceCUP": 8500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165446.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "southern-pumpkin",
+    "name": "Semillas de calabaza Southern Grove Roasted Salted",
+    "category": "Frutos secos",
+    "priceCUP": 5000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg",
+      "IMG_20261009_165516.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wonderful-chocolate",
+    "name": "Pistachos Wonderful Chocolate Sea Salt",
+    "category": "Frutos secos",
+    "priceCUP": 6500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165446.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wonderful-dill",
+    "name": "Pistachos Wonderful Dill Pickle",
+    "category": "Frutos secos",
+    "priceCUP": 17000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar sin cáscara desde envase completo",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wonderful-lightly",
+    "name": "Pistachos Wonderful Lightly Salted",
+    "category": "Frutos secos",
+    "priceCUP": 25500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "No unir a Roasted & Salted sin cáscara publicado",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wonderful-pepper-shell",
+    "name": "Pistachos Wonderful Salt & Pepper",
+    "category": "Frutos secos",
+    "priceCUP": 25500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Distinto de Sea Salt & Pepper sin cáscara311g publicado",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wonderful-roasted-227",
+    "name": "Pistachos Wonderful Roasted & Salted",
+    "category": "Frutos secos",
+    "priceCUP": 9000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165441.jpg",
+      "IMG_20261009_165436.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "wonderful-sweetchili",
+    "name": "Pistachos Wonderful Sweet Chili",
+    "category": "Frutos secos",
+    "priceCUP": 25500,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "roinat-puppy",
+    "name": "Alimento Roinat Puppy Dogs",
+    "category": "Mascotas",
+    "priceCUP": 30940,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_171627.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Lectura ampliada30940",
+    "possibleExistingIds": [],
+    "nextAction": "restore-original-photo"
+  },
+  {
+    "sharedProductId": "millville-oats-honey",
+    "name": "Granola Millville Protein Oats & Honey",
+    "category": "Alimentos",
+    "priceCUP": 6000,
+    "priceStatus": "direct",
+    "sourcePhotos": [
+      "IMG_20261009_165526.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso pendiente; revisar posible pendiente granola-amarilla; comprobar identidad con granola-amarilla antes de crear SKU",
+    "possibleExistingIds": [
+      "granola-amarilla"
+    ],
+    "nextAction": "resolve-identity"
+  },
+  {
+    "sharedProductId": "southern-dry-roasted",
+    "name": "Maní Southern Grove Dry Roasted",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_165556.jpg",
+      "IMG_20261009_165547_1.jpg",
+      "IMG_20261009_165551_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio y peso pendientes",
+    "possibleExistingIds": [
+      "southern-dry-blue",
+      "southern-dry-original"
+    ],
+    "nextAction": "resolve-identity"
+  },
+  {
+    "sharedProductId": "acolchado-beige",
+    "name": "Artículo acolchado beige",
+    "category": "Accesorios",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165313.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165313.jpg"
+    ],
+    "missingDetails": "Confirmar tipo de producto y medidas.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "rollos-hogar",
+    "name": "Rollos rosados y lilas para el hogar",
+    "category": "Accesorios",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165309.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165309.jpg"
+    ],
+    "missingDetails": "Confirmar tipo de producto y medidas.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "sandalias",
+    "name": "Sandalias de mujer",
+    "category": "Accesorios",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165321.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165321.jpg"
+    ],
+    "missingDetails": "Etiqueta y unidad ambiguas; confirmar precio, modelo y tallas.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "zuecos",
+    "name": "Zuecos perforados",
+    "category": "Accesorios",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165211.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165211.jpg"
+    ],
+    "missingDetails": "Confirmar par, modelo y tallas; varias unidades embolsadas.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "aldaketa-ketchup",
+    "name": "Ketchup Aldaketa 300 mL",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "missingDetails": "No tiene etiqueta propia visible.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "aldi-sharks",
+    "name": "ALDI Gummy Sharks Blue Raspberry",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165333.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165333.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "amanhecer-clove",
+    "name": "Clavo Amanhecer",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel compartido; confirmar precio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "amanhecer-parsley",
+    "name": "Salsa em Folha Amanhecer",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel entre variantes; confirmar",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "amanhecer-turmeric",
+    "name": "Azafrán de las Indias molido Amanhecer",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel compartido; confirmar precio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "arroz-torre",
+    "name": "Arroz Torre de la Vega",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165956.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165956.jpg"
+    ],
+    "missingDetails": "Bolsa en estante inferior; confirmar presentación y precio propios.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bacon-slices",
+    "name": "Bacon rebanado",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171447_1.jpg",
+      "IMG_20261009_171506.jpg",
+      "IMG_20261009_171512.jpg",
+      "IMG_20261009_171517.jpg",
+      "IMG_20261009_171521.jpg",
+      "IMG_20261009_171529.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precios individuales observados:0,25kg4840;0,26kg5030;0,19kg3680;0,24kg4650;0,22kg4260. No fijar precio SKU ni inferir tarifa por kg",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "badia-oregano",
+    "name": "Orégano Badia",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel entre orégano y salsa; confirmar",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bauducco-wafer-choco",
+    "name": "Wafer Bauducco chocolate",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_170518.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Etiqueta raspada; ampliar precio y peso antes de fijar importe",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bentons-coconut",
+    "name": "Benton's Cookie Thins Toasted Coconut",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170614.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bentons-lemon",
+    "name": "Benton's Cookie Thins Lemon",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bentons-mint-cookies",
+    "name": "Benton's Mint Chocolate Covered Cookies",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "boom-uva",
+    "name": "Gelatina Boom Uva",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165345.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165345.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bratwurst-cerdo",
+    "name": "Bratwurst de cerdo congelado",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca peso y precio pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bravo-bacon-bloque",
+    "name": "Bacon Bravo en bloque",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bravo-salami",
+    "name": "Salami Bravo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "burmans-dill-mustard",
+    "name": "Mostaza Burman’s Dill Pickle 340 g",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165830.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165830.jpg"
+    ],
+    "missingDetails": "Etiqueta propia fuera de encuadre;1500 pertenece a Aldaketa.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "burmans-spicy-mayo",
+    "name": "Mayonesa Burman’s Spicy 354 mL",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165851.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165851.jpg"
+    ],
+    "missingDetails": "5500 bajo Dill; confirmar precio de Spicy de jalapeño y cayena.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "burmans-sweetheat",
+    "name": "Mostaza Burman’s Sweet & Heat 340 g",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "missingDetails": "Precio2200 está debajo de Spicy Brown; no extenderlo a Sweet&Heat.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "cafe-frasco",
+    "name": "Café instantáneo frasco rectangular",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg",
+      "IMG_20261009_170333.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar marca y tamaño; no confirmar todos con5700",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "candy-green-bottle",
+    "name": "Golosina botella verde",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170417.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca denominación y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-bbq",
+    "name": "Molinillo Carmencita Barbacoa",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-marisco",
+    "name": "Molinillo Carmencita Marisco",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-molinillo-pimienta",
+    "name": "Molinillo Carmencita Pimienta",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel3100 cubre varios molinillos; identificar variante antes de unir registros",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-picante",
+    "name": "Molinillo Carmencita Picante",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-pimienta",
+    "name": "Pimienta negra Carmencita molinillo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio compartido; peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-pimientas",
+    "name": "Mezcla de pimientas Carmencita molinillo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio compartido; variante exacta pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-pollo",
+    "name": "Molinillo Carmencita Pollo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-sal3",
+    "name": "Sal y3 pimientas Carmencita molinillo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio compartido; confirmar denominación",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "carmencita-salrosa",
+    "name": "Sal rosa Carmencita molinillo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio compartido entre molinillos; confirmar variante",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "cheerios-cup",
+    "name": "Cheerios vaso",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "cocoa-pebbles-cup",
+    "name": "Cocoa Pebbles vaso",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "coffee-sebraz-other",
+    "name": "Café Sebraz otra presentación",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Determinar peso; no duplicar2500 sin confirmar formato",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "coffeemate-frascos",
+    "name": "Nestlé Coffee Mate frasco",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170333.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar peso o variantes y confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "delcampo-garbanzos",
+    "name": "Garbanzos Del Campo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165959.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165959.jpg"
+    ],
+    "missingDetails": "No hay precio propio visible; bolsa1lb.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "duplex-cookie",
+    "name": "Duplex Sandwich Crème Cookies",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca peso precio propio pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "eltoro-mortadela",
+    "name": "Mortadela de pollo El Toro",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171616_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio y peso fueraencuadre",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "extra-gum",
+    "name": "Chicle Extra",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170501.jpg",
+      "IMG_20261009_170504.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar sabores y presentación; confirmar si precio por caja",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "fiambre-lonchas",
+    "name": "Fiambre en lonchas sin marca legible",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Identidad pendiente; no confundir con resmolida/bacon",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "flakes-bulk",
+    "name": "Producto laminado en bolsa sin marca",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_165501.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Identificar si es avena u otro cereal; no heredar1400",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "fresco-maple",
+    "name": "Fresco Maple Syrup",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel compartido; confirmar marca peso precio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "frico-gouda",
+    "name": "Queso Frico Gouda Mild",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171306.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "frostedflakes-cup",
+    "name": "Frosted Flakes vaso",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg",
+      "IMG_20261009_170548.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "fruit-straw-45",
+    "name": "Golosina sabor fresa45g",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_170447_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y unidad de venta pendientes; puedeprecio por tira",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "granola-amarilla",
+    "name": "Granola de bolsa amarilla",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165401.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165401.jpg"
+    ],
+    "missingDetails": "Envase parcialmente oculto y sin precio propio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gv-american-wow",
+    "name": "Great Value Cheese Wow! American",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio por variante y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gv-cheddar-wow",
+    "name": "Great Value Cheese Wow! Cheddar",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio por variante y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gv-extrasharp-wow",
+    "name": "Great Value Cheese Wow! Extra Sharp Cheddar",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio por variante y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "helios-ciruela-kiwi",
+    "name": "Mermelada Helios Ciruela y Kiwi",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "helios-fresa-arandano",
+    "name": "Mermelada Helios Fresa y Arándano rojo",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "helios-manzana",
+    "name": "Mermelada Helios Manzana",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "hollandmar-mozzarella",
+    "name": "Mozzarella HollandMar",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio peso y lectura de marca pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "homebrothers-bbq",
+    "name": "Home Brothers KC Style BBQ Rub",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "No heredar1450",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "honeybunches-cup",
+    "name": "Honey Bunches of Oats vaso",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "hot-sauce",
+    "name": "Salsa picante botella roja",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca variante volumen y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "italpasta-fettuccine",
+    "name": "Fettuccine Italpasta 900 g",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165703.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165703.jpg"
+    ],
+    "missingDetails": "Foto en mano sin precio propio; no asignar precio de Pennine ni Primo.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "kenko-bbq-americano",
+    "name": "Salsa Barbecue Kenko Americano 370 g",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "missingDetails": "Etiqueta compartida con Mel; confirmar precio por variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "kenko-bbq-mel",
+    "name": "Salsa Barbecue Kenko Mel 370 g",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "missingDetails": "Etiqueta entre Mel y Americano; confirmar precio por variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "kingsford-lemon",
+    "name": "Kingsford Lemon Pepper",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio no visible",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "macrofood-naranja",
+    "name": "Gelatina Macro Food Naranja",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165347.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165347.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "millville-butter-syrup",
+    "name": "Millville Butter Syrup",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel de grupo; confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "millville-cranberry",
+    "name": "Granola Millville Protein Cranberry & Almond",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_165526.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "millville-darkchocolate",
+    "name": "Granola Millville Protein Oats & Dark Chocolate",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_165526.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio y peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "millville-lite-syrup",
+    "name": "Millville Lite Syrup",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel de grupo; confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "miniwheats-mini",
+    "name": "Frosted Mini Wheats caja pequeña",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "mms",
+    "name": "M&M's",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164918_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164918_1.jpg"
+    ],
+    "missingDetails": "Sin cartel propio legible; falta presentación.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "mms-caramel-bag",
+    "name": "M&M's Caramel Cold Brew",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170600.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "mms-milk-jar",
+    "name": "M&M's Milk Chocolate frasco",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170603.jpg",
+      "IMG_20261009_170600.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio del grupo; peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "morcilla",
+    "name": "Morcilla congelada",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca peso y precio pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "morgin-coconut",
+    "name": "Morgin Coconut Wheat & Rice",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_170540.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar cifra y denominación exacta",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "natures-coconut-oil",
+    "name": "Aceite de coco Nature's Promise Organic",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel compartido; confirmar precio y volumen propios",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "oatmeal-cookie",
+    "name": "Oatmeal Cookies",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170637.jpg",
+      "IMG_20261009_170640.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca peso precio propio pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "oli-lemon",
+    "name": "Gelatina Oli Lemon",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "oli-tutti",
+    "name": "Gelatina Oli Tutti Frutti",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "oli-uva",
+    "name": "Gelatina Oli Uva",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "pampa-fruit-spread",
+    "name": "Pampa Fruit Spread fresa y uva",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar fresa y uva y confirmar precio por sabor",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "pops-mini",
+    "name": "Kellogg's Pops caja pequeña",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "president-brie",
+    "name": "Queso Président Petit Brie",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel parcialmente tapado",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "purely-vanilla-granola",
+    "name": "Granola Purely Elizabeth Vanilla Almond",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_165536.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio y peso propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "quaker-fruitcream",
+    "name": "Quaker Instant Oatmeal Fruit & Cream",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_170540.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio escrito en envase; lectura ampliar",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "queso-azul-porcion",
+    "name": "Queso azul porcionado",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171549.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca no confirmada;0,24kg4620 y0,35kg6740 visibles; no asumir Roncari100g",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "queso-iberico",
+    "name": "Queso ibérico porcionado",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_171258.jpg",
+      "IMG_20261009_171304.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y unidad de venta pendientes; no asumir por kg",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "queso-vacio-generico",
+    "name": "Queso porcionado al vacío sin marca legible",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171552.jpg",
+      "IMG_20261009_171549.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "3740 visible en varias; confirmar peso y marca; no precio porkg",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "res-molida",
+    "name": "Carne de res molida",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171446.jpg",
+      "IMG_20261009_171457.jpg",
+      "IMG_20261009_171500.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "0,40kg3010CUP y0,31kg2330CUP; guardar precios por bandeja no fijar precioSKU ni inferir tarifa porkg",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "ribera-semicurado",
+    "name": "Queso Ribera Semicurado",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca lectura Ribera; precio/peso propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "ricekrispies-mini",
+    "name": "Rice Krispies caja pequeña",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel compartido entre cajas; confirmar por variante",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "ricoss-280",
+    "name": "Golosinas Ricoss280g",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170440_1.jpg",
+      "IMG_20261009_170501.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar sabores y confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "sal-fina-azul",
+    "name": "Sal fina en bolsa azul",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170054.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y precio pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "savvyfare-rice",
+    "name": "Arroz Savvy Fare Roasted Chicken",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio por variante",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "simply-coconut-clusters",
+    "name": "Simply Nature Organic Coconut Clusters",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg",
+      "IMG_20261009_170649.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "sirape-bottle",
+    "name": "Sirape botella dorada",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca sabor y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "snickers",
+    "name": "Chocolate Snickers",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164921.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164921.jpg"
+    ],
+    "missingDetails": "Sin cartel propio legible.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "sonic-pudding",
+    "name": "Pudín Sonic Vanilla Shake",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165341.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165341.jpg"
+    ],
+    "missingDetails": "Confirmar precio propio; etiqueta situada bajo Dove.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "sour-punch-verde",
+    "name": "Sour Punch, bolsa verde",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165333.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165333.jpg"
+    ],
+    "missingDetails": "Variante parcialmente oculta y sin precio propio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "spanish-rice",
+    "name": "Arroz Spanish Style Rice",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca y precio por variante pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "splenda-small",
+    "name": "Splenda",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170333.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y cantidad pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "spray-oil",
+    "name": "Aceite en spray",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar marcas variedades y precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "supremos-packet",
+    "name": "Caramelos Supremos",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170440_1.jpg",
+      "IMG_20261009_170501.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar variantes por etiqueta y peso",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "te-hierbabuena",
+    "name": "Té Doblet de hierbabuena",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170404.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca cantidad precio por sabor",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "te-limon",
+    "name": "Té Doblet de limón",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170404.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y cantidad",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "te-manzanilla",
+    "name": "Té Doblet de manzanilla",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170404.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca cantidad precio por sabor",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "te-manzanilla-arandano",
+    "name": "Té Doblet manzanilla con arándano",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170406_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio y cantidad pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "thatsit-blueberry",
+    "name": "That's It Mini Fruit Bars Blueberry",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_165521.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "timeowise-rice",
+    "name": "Arroz Time O'Wise Dirty Rice",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar marca y precio por variante",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "todeschini-picapau",
+    "name": "Galletas Todeschini Pica-Pau",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170653.jpg",
+      "IMG_20261009_170649.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar sabores y confirmar precio por variante",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "trader-maple",
+    "name": "Granola Trader Joe's Maple Pecan",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Sin cartel propio; no heredar8500 o8000",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "trader-salted-honey",
+    "name": "Granola Trader Joe's Salted Almond Honey",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "trasto-rollos",
+    "name": "Galletas Trasto Roll",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170417.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Variante y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tuscan-italian",
+    "name": "Crutones Tuscan Garden Italian Seasoned",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio; peso pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "valle-curado",
+    "name": "Queso Valle de San Juan Curado",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio por presentación pendiente; no heredar de queso azul",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "valle-trufa",
+    "name": "Queso Valle de San Juan Con Trufa",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "variable",
+    "sourcePhotos": [
+      "IMG_20261009_171549.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Vincular cada porción con marca y peso antes de precio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "vanilla-bottle",
+    "name": "Vainilla botella amarilla",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Marca presentación y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "vanillacreme-cookie",
+    "name": "Vanilla Creme Cookies",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio propio marca peso pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "varveio-manzana",
+    "name": "Varveio Aceto di Mele",
+    "category": "Alimentos",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "actoner-mint",
+    "name": "Enjuague bucal Actoner Mint Explosion 500 mL",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165106_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165106_1.jpg"
+    ],
+    "missingDetails": "Primera cifra del cartel inferior plegada; solo se ve terminación 000.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "alident-kids",
+    "name": "Pasta dental Alident Kids 100 g",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165203.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165203.jpg"
+    ],
+    "missingDetails": "Cartel 1.500 situado delante de Astera; confirmar aplicación a Alident.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bastoncillos-pequenos",
+    "name": "Bastoncillos de algodón envase pequeño",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165123_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165123_1.jpg"
+    ],
+    "missingDetails": "Dos tamaños; cartel 700 delante del grande. Confirmar precio del pequeño.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "basura-gato",
+    "name": "Bolsas de basura con diseño de gato",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165148.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165148.jpg"
+    ],
+    "missingDetails": "Falta leer tamaño, unidades y si ambos colores son la misma presentación.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "crest-scope-drops",
+    "name": "Crest Scope Breath Drops",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "missingDetails": "Etiqueta cercana a crema de afeitar; confirmar precio del blíster.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "dawn-tropical",
+    "name": "Dawn Powerwash Tropical Blend",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165050_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165050_1.jpg"
+    ],
+    "missingDetails": "Envase con pulverizador frente a recargas; confirmar precio propio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "dawn-watermelon",
+    "name": "Dawn Powerwash Summer Watermelon",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165050_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165050_1.jpg"
+    ],
+    "missingDetails": "Confirmar que comparte precio con Crisp Lilac.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "downy-cool-cotton",
+    "name": "Suavizante Downy Cool Cotton 306 mL",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "missingDetails": "Cartel 5.000 CUP compartido con varios productos; confirmar aplicación.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "downy-lush-perlas",
+    "name": "Perlas Downy Unstopables Lush",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio y peso propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "esponjas",
+    "name": "Esponjas multiuso",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165303.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165303.jpg"
+    ],
+    "missingDetails": "Presentación parcialmente oculta; confirmar precio y unidades.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gain-flings-pequeno",
+    "name": "Gain Flings Original 213 g",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164942_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164942_1.jpg"
+    ],
+    "missingDetails": "Dos paquetes similares junto a 5.000 y 7.000 CUP; falta distinguir presentación o precio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gain-ultra-oxi",
+    "name": "Gain Ultra Oxi 306 mL",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "missingDetails": "Cartel compartido; confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "glade",
+    "name": "Ambientador Glade",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165026_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165026_1.jpg"
+    ],
+    "missingDetails": "Confirmar si comparte el precio de Febreze y variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "great-value-inodoro",
+    "name": "Pastillas limpiadoras Great Value",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165114.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165114.jpg"
+    ],
+    "missingDetails": "Cartel dice 3.500 c/u; confirmar si vende pastilla individual o paquete de dos.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "homebright-bleach",
+    "name": "Pastillas Homebright Bleach 20 unidades",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165120.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165120.jpg"
+    ],
+    "missingDetails": "Confirmar primera cifra manuscrita del precio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "homebright-morado",
+    "name": "Perlas aromáticas Homebright Lavender Vanilla",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_165026_1.jpg",
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165026_1.jpg"
+    ],
+    "missingDetails": "Cartel compartido o adyacente; confirmar precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "homebright-wipes",
+    "name": "Toallitas Homebright",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "missingDetails": "Sin precio propio visible.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "la-salud",
+    "name": "Productos de limpieza La Salud",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165016_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165016_1.jpg"
+    ],
+    "missingDetails": "Se ven varias presentaciones y carteles; faltan frentes completos para asignar precios.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "lady-speed-stick",
+    "name": "Lady Speed Stick Powder Fresh 39,6 g",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "missingDetails": "Confirmar precio; cartel compartido con otros desodorantes.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "luv-citrus",
+    "name": "Gel de manos LuvFresh Citrus Blast",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165247.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165247.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "magali-ambar",
+    "name": "Jabón de manos Magali, variante ámbar",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "missingDetails": "Confirmar variante y precio propio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "magali-coco",
+    "name": "Gel de baño Magali Coco",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164957_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164957_1.jpg"
+    ],
+    "missingDetails": "Confirmar si comparte el precio de Mora.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "magali-dermo",
+    "name": "Jabón de manos Magali Dermo",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "missingDetails": "Precio compartido con Avena; confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "magali-frutos-rojos",
+    "name": "Jabón de manos Magali Frutos Rojos",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "multi-surface-wipes",
+    "name": "Toallitas Multi Surface Peppermint Sage",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "missingDetails": "Sin precio propio visible; bote de 30 toallitas.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "nevada-papaya",
+    "name": "Mascarilla Nevada Papaya",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165303.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165303.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "palmolive",
+    "name": "Gel de baño Palmolive Oliva Verde",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165026_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165026_1.jpg"
+    ],
+    "missingDetails": "No se ve precio propio ni volumen.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "panuelos",
+    "name": "Pañuelos o servilletas blancas",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165219.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165219.jpg"
+    ],
+    "missingDetails": "Precio diferente entre tomas; confirmar tipo y cantidad.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "salud-antical-gel",
+    "name": "Gel antical La Salud",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165036.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165036.jpg"
+    ],
+    "missingDetails": "Sin precio propio visible.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "salud-banos-pino",
+    "name": "Limpiador de baños La Salud Pino",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165039_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165039_1.jpg"
+    ],
+    "missingDetails": "Envase parcialmente oculto; confirmar presentación y precio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "snonas-splash",
+    "name": "Colonia S'nonas Splash 750 mL",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164957_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164957_1.jpg"
+    ],
+    "missingDetails": "Confirmar si comparte el precio de la colonia amarilla.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "speed-stick-irish",
+    "name": "Speed Stick Irish Spring 51 g",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "missingDetails": "Cartel centrado en Amber; confirmar precio para esta marca.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "suave-tropical",
+    "name": "Suave Tropical Citrus 28 g",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "missingDetails": "Confirmar precio; presentación distinta.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tango-azul",
+    "name": "Espuma Tango, envase azul",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165242.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165242.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tango-rojo",
+    "name": "Espuma Tango, envase rojo",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "terrifik",
+    "name": "Ambientador para lavavajillas Terrifik",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165004.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165004.jpg"
+    ],
+    "missingDetails": "No se ve precio propio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tide-downy",
+    "name": "Tide Ultra Downy",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "missingDetails": "Cartel compartido; confirmar precio y volumen.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tide-free-gentle",
+    "name": "Tide Free & Gentle 237 mL",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "missingDetails": "Cartel compartido; confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tide-simply",
+    "name": "Tide Simply All in One 306 mL",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "missingDetails": "Cartel compartido; confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "ultra-deluxe-citrus",
+    "name": "Lavavajillas Ultra Deluxe Citrus",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165045.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165045.jpg"
+    ],
+    "missingDetails": "Precio compartido con Floral; confirmar aplicación y cifra.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "ultra-deluxe-floral",
+    "name": "Lavavajillas Ultra Deluxe Floral",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165045.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165045.jpg"
+    ],
+    "missingDetails": "Etiqueta manuscrita: distinguir 3.100 de 3.400 CUP.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "viking-active",
+    "name": "Espuma Viking Active",
+    "category": "Aseo",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "missingDetails": "Confirmar precio; etiqueta cercana a varias espumas.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bahamas-juice",
+    "name": "Jugos Bahamas en caja",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar sabores y volumen con lectura de etiqueta",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "bali-juice",
+    "name": "Jugos Bali en caja",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Separar sabores y volumen con lectura de etiqueta",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "boom-cola",
+    "name": "Refresco Max Boom Boom Cola",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio por sabor",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "boom-lime",
+    "name": "Refresco Max Boom Boom Lima-Limón",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar precio por sabor",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "havana-7",
+    "name": "Ron Havana Club7años",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Leer volúmenes y asociar precio; una fila provisional de familia no dosSKU confirmados",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "misting-brut",
+    "name": "Mistinguett Vallformosa espumoso",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_170941.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Dos carteles5500/6000; separar variedades y precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "monster-mango",
+    "name": "Monster Mango Loco",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio de grupo; volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "monster-pacific",
+    "name": "Monster Juice Pacific Punch",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar variante y volumen",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "monster-pipeline",
+    "name": "Monster Pipeline Punch",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio de grupo; volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "monster-tropical",
+    "name": "Monster Ultra Tropical Punch",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Precio de grupo; volumen pendiente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "monster-viking",
+    "name": "Monster Juice Viking Berry",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel compartido con Pacific Punch",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "sunny-peach",
+    "name": "Néctar Sunny Peach",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170157.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "No heredar precio de tamarindo",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tropigusto-banana",
+    "name": "Tropi Gusto Banana",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "conflict",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Comparar tamaños y confirmar precio vigente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tropigusto-mango",
+    "name": "Tropi Gusto Mango",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "conflict",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Comparar tamaños y confirmar precio vigente",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tropigusto-peach",
+    "name": "Tropi Gusto Peach",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar tamaño y precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "tropigusto-pineapple",
+    "name": "Tropi Gusto Pineapple",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar tamaño y precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "vallformosa-cava-rose",
+    "name": "Vallformosa Cava rosado",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170948_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Confirmar variedad y precio propio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "vinaesmeralda-sparkling",
+    "name": "Viña Esmeralda espumoso",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "shared",
+    "sourcePhotos": [
+      "IMG_20261009_170941.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Cartel5200 adyacente; confirmar precio propio, variedad y volumen",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "water-whitecap",
+    "name": "Agua embotellada sin marca legible",
+    "category": "Bebidas",
+    "priceCUP": null,
+    "priceStatus": "ambiguous",
+    "sourcePhotos": [
+      "IMG_20261009_170117.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Carteles sin asociación clara; no fijar precio",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "sonatural-pesto",
+    "name": "Pesto So Natural Basil",
+    "category": "Conservas",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165916.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165916.jpg"
+    ],
+    "missingDetails": "Etiqueta de precio bajo Trader Joe’s; confirmar precio propio.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "vima-frutas",
+    "name": "Cóctel de frutas Vima",
+    "category": "Conservas",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165940.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165940.jpg"
+    ],
+    "missingDetails": "Etiqueta bajo Fairhill; confirmar precio propio de Vima425g.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "vima-rellenas",
+    "name": "Aceitunas verdes rellenas de pimiento Vima",
+    "category": "Conservas",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165924.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165924.jpg"
+    ],
+    "missingDetails": "Precio compartido cercano a negras; confirmar precio de variante rellena.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "goraw-pumpkin",
+    "name": "Go Raw Pumpkin Seeds Sea Salt",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165328.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165328.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "goraw-sunflower",
+    "name": "Go Raw Sunflower Seeds Sea Salt",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165328.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165328.jpg"
+    ],
+    "missingDetails": "Confirmar precio de esta variante.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gv-caramel-mix",
+    "name": "Great Value Caramel Mountain Trail Mix",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ],
+    "missingDetails": "Sin precio propio visible.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gv-honey-mix",
+    "name": "Great Value Nut & Honey Trail Mix",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ],
+    "missingDetails": "Sin precio propio visible.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "gv-omega-mix",
+    "name": "Great Value Omega-3 Trail Mix",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ],
+    "missingDetails": "Sin precio propio visible.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "kars-mix",
+    "name": "Kar's Sweet'n Salty Mix",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": "missing",
+    "sourcePhotos": [
+      "IMG_20261009_170906_1.jpg",
+      "IMG_20261009_170903_1.jpg"
+    ],
+    "availableSourcePhotos": [],
+    "missingDetails": "Peso y precio propios pendientes",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "southern-dry-blue",
+    "name": "Southern Grove Dry Roasted Peanuts Sea Salt",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165407.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165407.jpg"
+    ],
+    "missingDetails": "Confirmar precio propio; etiqueta bajo Honey Roasted.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "southern-dry-original",
+    "name": "Southern Grove Dry Roasted Peanuts Original",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165407.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165407.jpg"
+    ],
+    "missingDetails": "Confirmar precio propio del frasco con tapa roja.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  },
+  {
+    "sharedProductId": "wonderful-pistachios-680",
+    "name": "Pistachos Wonderful Roasted & Salted 680 g",
+    "category": "Frutos secos",
+    "priceCUP": null,
+    "priceStatus": null,
+    "sourcePhotos": [
+      "IMG_20261009_165430.jpg"
+    ],
+    "availableSourcePhotos": [
+      "IMG_20261009_165430.jpg"
+    ],
+    "missingDetails": "Precio junto a otra presentación; confirmar precio de bolsa 24 oz.",
+    "possibleExistingIds": [],
+    "nextAction": "confirm-price"
+  }
+]

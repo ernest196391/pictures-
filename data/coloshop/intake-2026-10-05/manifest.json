@@ -38,7 +38,10 @@
     "masterRecordCount": 586,
     "publishedChanges": 0,
     "newImageGenerations": 0,
-    "scope": "all-four-archives-audited; family observations and possible identity matches are not finalized sale SKUs"
+    "scope": "all-four-archives-audited; family observations and possible identity matches are not finalized sale SKUs",
+    "publishedCurrent": 153,
+    "publishedSinceAudit": 3,
+    "remainingReviewRecords": 433
   },
   "archives": [
     {
@@ -62,8 +65,8 @@
       "sha256": "d21763dea5c473ff1ccf742076f147deecefb3ef143512e4c78f620ff0ca231b"
     }
   ],
-  "generationAllowed": false,
-  "reason": "audit request: compare remaining archives and resolve review fields before reserving commercial image jobs",
+  "generationAllowed": true,
+  "reason": "User authorized autonomous completion of product catalog and storefront; generation requires exact available source and image review.",
   "rawSourceStorage": "original uploaded ZIPs; archive member and SHA256 recorded for recovery",
   "stockRule": "Photos are evidence of products, not an inventory count.",
   "priceRule": "direct means visually read assigned price, not current owner confirmation; shared/conflicting/variable prices never populate fixed priceCUP."

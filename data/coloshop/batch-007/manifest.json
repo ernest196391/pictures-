@@ -1,0 +1,21 @@
+{
+  "batch": "007",
+  "published": true,
+  "stage": "published",
+  "products": 3,
+  "generationCalls": 3,
+  "approvedImages": 3,
+  "priorPendingResolved": 3,
+  "remainingReviewRecords": 433,
+  "originalSourceBlock": "Original ZIP files are unavailable in this execution. Recover original files before generating products that lack a locally available reference.",
+  "verification": {
+    "tests": "20 passed",
+    "build": "passed",
+    "production": "READY, live catalog verified",
+    "subcategory": "Granos: 4 products, all images loaded",
+    "cart": "Three new products: 7400 CUP; test cart emptied; no order created"
+  },
+  "shopCommit": "dd9ae440b905385be1b6bd3d4650c7dc19b2e4e8",
+  "deployment": "dpl_5Y537LkaM12rknJH9E8Uc4L6NNLd",
+  "publishedCatalogCount": 153
+}

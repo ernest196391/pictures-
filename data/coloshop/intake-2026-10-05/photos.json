@@ -934,7 +934,8 @@
     "reviewStatus": "prior-inspection-reused",
     "publishedProductIds": [
       "delcampo-colorados",
-      "energy-negros"
+      "energy-negros",
+      "delcampo-negros"
     ],
     "candidateProductIds": [],
     "priorPendingIds": [
@@ -1015,7 +1016,9 @@
       "delcampo-garbanzos",
       "delcampo-lentejas"
     ],
-    "publishedProductIds": [],
+    "publishedProductIds": [
+      "delcampo-lentejas"
+    ],
     "matchBasis": "same filename plus 256-bit difference hash distance <=8 against inspected optimized source; binary content differs due to resize/reencoding"
   },
   {
@@ -1036,11 +1039,11 @@
       "distance256": 103
     },
     "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
-    "candidateProductIds": [
-      "delcampo-negros"
-    ],
+    "candidateProductIds": [],
     "priorPendingIds": [],
-    "publishedProductIds": []
+    "publishedProductIds": [
+      "delcampo-negros"
+    ]
   },
   {
     "zip": "Colo 1.zip",
@@ -4114,10 +4117,10 @@
       "un-n09",
       "ohmy-azul",
       "ohmy-rojo",
-      "febreze-luxe"
+      "febreze-luxe",
+      "homebright-verde"
     ],
     "candidateProductIds": [
-      "homebright-verde",
       "homebright-morado"
     ],
     "priorPendingIds": [
@@ -4144,9 +4147,10 @@
       "file": "IMG_20261009_165222.jpg",
       "distance256": 101
     },
-    "publishedProductIds": [],
+    "publishedProductIds": [
+      "homebright-verde"
+    ],
     "candidateProductIds": [
-      "homebright-verde",
       "homebright-morado",
       "downy-fresh-perlas",
       "downy-lush-perlas"
@@ -5492,9 +5496,10 @@
       "file": "IMG_20261009_164942_1.jpg",
       "distance256": 106
     },
-    "publishedProductIds": [],
+    "publishedProductIds": [
+      "delcampo-lentejas"
+    ],
     "candidateProductIds": [
-      "delcampo-lentejas",
       "flakes-bulk"
     ],
     "priorPendingIds": [

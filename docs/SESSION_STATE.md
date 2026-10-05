@@ -35,3 +35,6 @@ Lote 006 publicado: 78327ff225389b75de7007e977da7f2e00948cd3; despliegue dpl_8K6
 ## Auditoría completa de cuatro ZIP (2026-10-05)
 
 Consolidado en `data/coloshop/intake-2026-10-05/`:297 fotos,100 tomas anteriores y197 nuevas;361 observaciones candidatas,244 con precio directo leído.150 productos publicados preservados.586 registros maestros incluyen familias y posibles coincidencias, no586 SKU finalizados. Continuar desde `pending-review.json`; confirmar unidad, presentación e identidad antes de generar/publicar. No quedan ZIP pendientes de este lote.
+
+## Batch 007 completed
+Published Homebright Moonlight Fresh (4400 CUP), Del Campo lentils (1400 CUP), Del Campo black beans (1600 CUP). Catalog: 153 published; 433 review records (not a final SKU count). 20 tests passed; build passed; production deployment READY at dd9ae440b905385be1b6bd3d4650c7dc19b2e4e8. Subcategory filters and expanded search verified live; cart subtotal 7400 CUP then emptied. Work queue saved in data/coloshop/work-queue. Four original ZIP archives must be recovered before further reference-based image generation; inventory metadata is preserved.

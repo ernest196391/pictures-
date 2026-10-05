@@ -361,9 +361,9 @@
       "reason": "Etiqueta1600 bajo frijoles colorados; confirmar precio de negros1lb.",
       "img": null
     },
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/delcampo-negros.webp",
+    "imageStatus": "approved-reuse",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
     "recordType": "product-candidate"
@@ -4822,9 +4822,9 @@
     ],
     "matchStatus": "prior-pending-enriched",
     "priorPending": "homebright-verde",
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/homebright-verde.webp",
+    "imageStatus": "approved-reuse",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
     "recordType": "product-candidate"
@@ -5417,9 +5417,9 @@
     ],
     "matchStatus": "prior-pending-enriched",
     "priorPending": "delcampo-lentejas",
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
+    "approvedImage": "/products/real/delcampo-lentejas.webp",
+    "imageStatus": "approved-reuse",
+    "publicationStatus": "published",
     "stock": null,
     "saleMode": "packaged-unit",
     "recordType": "product-candidate"

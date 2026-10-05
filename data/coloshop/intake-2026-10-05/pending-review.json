@@ -22,8 +22,7 @@
     "missingDetails": "Dos paquetes similares junto a 5.000 y 7.000 CUP; falta distinguir presentación o precio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "snickers",
@@ -45,8 +44,7 @@
     "missingDetails": "Sin cartel propio legible.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "mms",
@@ -68,8 +66,7 @@
     "missingDetails": "Sin cartel propio legible; falta presentación.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "downy-cool-cotton",
@@ -93,8 +90,7 @@
     "missingDetails": "Cartel 5.000 CUP compartido con varios productos; confirmar aplicación.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "tide-simply",
@@ -118,8 +114,7 @@
     "missingDetails": "Cartel compartido; confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "gain-ultra-oxi",
@@ -143,8 +138,7 @@
     "missingDetails": "Cartel compartido; confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "tide-free-gentle",
@@ -168,8 +162,7 @@
     "missingDetails": "Cartel compartido; confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "tide-downy",
@@ -193,8 +186,7 @@
     "missingDetails": "Cartel compartido; confirmar precio y volumen.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "magali-coco",
@@ -218,8 +210,7 @@
     "missingDetails": "Confirmar si comparte el precio de Mora.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "snonas-splash",
@@ -243,8 +234,7 @@
     "missingDetails": "Confirmar si comparte el precio de la colonia amarilla.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "terrifik",
@@ -266,39 +256,7 @@
     "missingDetails": "No se ve precio propio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
-  },
-  {
-    "sharedProductId": "homebright-verde",
-    "name": "Perlas aromáticas Homebright Moonlight Fresh",
-    "category": "Aseo",
-    "subcategory": "Lavandería",
-    "description": "Envase verde",
-    "currency": "CUP",
-    "priceCUP": 4400,
-    "priceCandidatesCUP": [
-      4400
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_165026_1.jpg",
-      "IMG_20261009_165030_1.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_165030_1.jpg"
-    ],
-    "matchStatus": "prior-pending-enriched",
-    "priorPending": "homebright-verde",
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "homebright-morado",
@@ -328,8 +286,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "glade",
@@ -353,8 +310,7 @@
     "missingDetails": "Confirmar si comparte el precio de Febreze y variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "palmolive",
@@ -376,8 +332,7 @@
     "missingDetails": "No se ve precio propio ni volumen.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "la-salud",
@@ -402,8 +357,7 @@
     "missingDetails": "Se ven varias presentaciones y carteles; faltan frentes completos para asignar precios.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "salud-antical-gel",
@@ -425,8 +379,7 @@
     "missingDetails": "Sin precio propio visible.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "salud-banos-pino",
@@ -450,8 +403,7 @@
     "missingDetails": "Envase parcialmente oculto; confirmar presentación y precio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "ultra-deluxe-floral",
@@ -476,8 +428,7 @@
     "missingDetails": "Etiqueta manuscrita: distinguir 3.100 de 3.400 CUP.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "ultra-deluxe-citrus",
@@ -502,8 +453,7 @@
     "missingDetails": "Precio compartido con Floral; confirmar aplicación y cifra.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "dawn-watermelon",
@@ -527,8 +477,7 @@
     "missingDetails": "Confirmar que comparte precio con Crisp Lilac.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "dawn-tropical",
@@ -552,8 +501,7 @@
     "missingDetails": "Envase con pulverizador frente a recargas; confirmar precio propio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "actoner-mint",
@@ -575,8 +523,7 @@
     "missingDetails": "Primera cifra del cartel inferior plegada; solo se ve terminación 000.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "great-value-inodoro",
@@ -600,8 +547,7 @@
     "missingDetails": "Cartel dice 3.500 c/u; confirmar si vende pastilla individual o paquete de dos.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "homebright-bleach",
@@ -626,8 +572,7 @@
     "missingDetails": "Confirmar primera cifra manuscrita del precio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "bastoncillos-pequenos",
@@ -651,8 +596,7 @@
     "missingDetails": "Dos tamaños; cartel 700 delante del grande. Confirmar precio del pequeño.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "basura-gato",
@@ -676,8 +620,7 @@
     "missingDetails": "Falta leer tamaño, unidades y si ambos colores son la misma presentación.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "speed-stick-irish",
@@ -701,8 +644,7 @@
     "missingDetails": "Cartel centrado en Amber; confirmar precio para esta marca.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "lady-speed-stick",
@@ -726,8 +668,7 @@
     "missingDetails": "Confirmar precio; cartel compartido con otros desodorantes.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "suave-tropical",
@@ -751,8 +692,7 @@
     "missingDetails": "Confirmar precio; presentación distinta.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "alident-kids",
@@ -776,8 +716,7 @@
     "missingDetails": "Cartel 1.500 situado delante de Astera; confirmar aplicación a Alident.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "zuecos",
@@ -801,8 +740,7 @@
     "missingDetails": "Confirmar par, modelo y tallas; varias unidades embolsadas.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "panuelos",
@@ -827,8 +765,7 @@
     "missingDetails": "Precio diferente entre tomas; confirmar tipo y cantidad.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "magali-dermo",
@@ -852,8 +789,7 @@
     "missingDetails": "Precio compartido con Avena; confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "magali-ambar",
@@ -877,8 +813,7 @@
     "missingDetails": "Confirmar variante y precio propio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "magali-frutos-rojos",
@@ -902,8 +837,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "multi-surface-wipes",
@@ -925,8 +859,7 @@
     "missingDetails": "Sin precio propio visible; bote de 30 toallitas.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "homebright-wipes",
@@ -948,8 +881,7 @@
     "missingDetails": "Sin precio propio visible.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "viking-active",
@@ -973,8 +905,7 @@
     "missingDetails": "Confirmar precio; etiqueta cercana a varias espumas.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "tango-rojo",
@@ -998,8 +929,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "tango-azul",
@@ -1023,8 +953,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "crest-scope-drops",
@@ -1048,8 +977,7 @@
     "missingDetails": "Etiqueta cercana a crema de afeitar; confirmar precio del blíster.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "luv-citrus",
@@ -1073,8 +1001,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "nevada-papaya",
@@ -1098,8 +1025,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "esponjas",
@@ -1121,8 +1047,7 @@
     "missingDetails": "Presentación parcialmente oculta; confirmar precio y unidades.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "rollos-hogar",
@@ -1146,8 +1071,7 @@
     "missingDetails": "Confirmar tipo de producto y medidas.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "acolchado-beige",
@@ -1171,8 +1095,7 @@
     "missingDetails": "Confirmar tipo de producto y medidas.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "sandalias",
@@ -1197,8 +1120,7 @@
     "missingDetails": "Etiqueta y unidad ambiguas; confirmar precio, modelo y tallas.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "goraw-sunflower",
@@ -1222,8 +1144,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "goraw-pumpkin",
@@ -1247,8 +1168,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "aldi-sharks",
@@ -1272,8 +1192,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "sour-punch-verde",
@@ -1295,8 +1214,7 @@
     "missingDetails": "Variante parcialmente oculta y sin precio propio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "sonic-pudding",
@@ -1320,8 +1238,7 @@
     "missingDetails": "Confirmar precio propio; etiqueta situada bajo Dove.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "boom-uva",
@@ -1345,8 +1262,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "macrofood-naranja",
@@ -1370,8 +1286,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "oli-uva",
@@ -1395,8 +1310,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "oli-lemon",
@@ -1420,8 +1334,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "oli-tutti",
@@ -1445,8 +1358,7 @@
     "missingDetails": "Confirmar precio de esta variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "granola-amarilla",
@@ -1468,8 +1380,7 @@
     "missingDetails": "Envase parcialmente oculto y sin precio propio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "southern-dry-blue",
@@ -1493,8 +1404,7 @@
     "missingDetails": "Confirmar precio propio; etiqueta bajo Honey Roasted.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "southern-dry-original",
@@ -1518,8 +1428,7 @@
     "missingDetails": "Confirmar precio propio del frasco con tapa roja.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "gv-caramel-mix",
@@ -1541,8 +1450,7 @@
     "missingDetails": "Sin precio propio visible.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "gv-honey-mix",
@@ -1564,8 +1472,7 @@
     "missingDetails": "Sin precio propio visible.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "gv-omega-mix",
@@ -1587,8 +1494,7 @@
     "missingDetails": "Sin precio propio visible.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "wonderful-pistachios-680",
@@ -1612,8 +1518,7 @@
     "missingDetails": "Precio junto a otra presentación; confirmar precio de bolsa 24 oz.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "wonderful-vinegar",
@@ -1643,8 +1548,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sonatural-pesto",
@@ -1668,8 +1572,7 @@
     "missingDetails": "Etiqueta de precio bajo Trader Joe’s; confirmar precio propio.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "vima-rellenas",
@@ -1693,8 +1596,7 @@
     "missingDetails": "Precio compartido cercano a negras; confirmar precio de variante rellena.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "vima-frutas",
@@ -1718,49 +1620,7 @@
     "missingDetails": "Etiqueta bajo Fairhill; confirmar precio propio de Vima425g.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
-  },
-  {
-    "sharedProductId": "delcampo-negros",
-    "name": "Frijoles negros Del Campo",
-    "category": "Alimentos",
-    "subcategory": "Granos",
-    "description": "Bolsa de1lb",
-    "currency": "CUP",
-    "priceCUP": 1600,
-    "priceCandidatesCUP": [
-      1600
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Variante distinta de los colorados publicados",
-    "sourcePhotos": [
-      "IMG_20261009_170003.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_170003.jpg"
-    ],
-    "matchStatus": "prior-pending",
-    "priorPending": {
-      "sharedProductId": "delcampo-negros",
-      "n": "Frijoles negros Del Campo",
-      "sourcePhoto": "IMG_20261009_165949.jpg",
-      "sourceImage": "/catalog-sources/IMG_20261009_165949.jpg",
-      "status": "needs-review",
-      "priceCandidatesCUP": [
-        1600
-      ],
-      "reason": "Etiqueta1600 bajo frijoles colorados; confirmar precio de negros1lb.",
-      "img": null
-    },
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "delcampo-garbanzos",
@@ -1782,39 +1642,7 @@
     "missingDetails": "No hay precio propio visible; bolsa1lb.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
-  },
-  {
-    "sharedProductId": "delcampo-lentejas",
-    "name": "Lentejas Del Campo",
-    "category": "Alimentos",
-    "subcategory": "Granos",
-    "description": "Bolsa",
-    "currency": "CUP",
-    "priceCUP": 1400,
-    "priceCandidatesCUP": [
-      1400
-    ],
-    "priceStatus": "direct",
-    "reviewStatus": "precio-visible",
-    "missingDetails": "Peso pendiente",
-    "sourcePhotos": [
-      "IMG_20261009_165959.jpg",
-      "IMG_20261009_165501.jpg"
-    ],
-    "priceSourcePhotos": [
-      "IMG_20261009_165501.jpg"
-    ],
-    "matchStatus": "prior-pending-enriched",
-    "priorPending": "delcampo-lentejas",
-    "approvedImage": null,
-    "imageStatus": "not-generated",
-    "publicationStatus": "not-published",
-    "stock": null,
-    "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "arroz-alfinete",
@@ -1854,8 +1682,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "arroz-torre",
@@ -1877,8 +1704,7 @@
     "missingDetails": "Bolsa en estante inferior; confirmar presentación y precio propios.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "italpasta-fettuccine",
@@ -1900,8 +1726,7 @@
     "missingDetails": "Foto en mano sin precio propio; no asignar precio de Pennine ni Primo.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "kenko-bbq-mel",
@@ -1925,8 +1750,7 @@
     "missingDetails": "Etiqueta entre Mel y Americano; confirmar precio por variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "kenko-bbq-americano",
@@ -1950,8 +1774,7 @@
     "missingDetails": "Etiqueta compartida con Mel; confirmar precio por variante.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "aldaketa-ketchup",
@@ -1973,8 +1796,7 @@
     "missingDetails": "No tiene etiqueta propia visible.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "burmans-sweetheat",
@@ -1996,8 +1818,7 @@
     "missingDetails": "Precio2200 está debajo de Spicy Brown; no extenderlo a Sweet&Heat.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "burmans-dill-mustard",
@@ -2019,8 +1840,7 @@
     "missingDetails": "Etiqueta propia fuera de encuadre;1500 pertenece a Aldaketa.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "burmans-spicy-mayo",
@@ -2044,8 +1864,7 @@
     "missingDetails": "5500 bajo Dill; confirmar precio de Spicy de jalapeño y cayena.",
     "publicationStatus": "not-published",
     "recordType": "product-candidate",
-    "categoryBasis": "proposed-from-record-name; verify with pending photo",
-    "nextAction": "confirmar-precio"
+    "categoryBasis": "proposed-from-record-name; verify with pending photo"
   },
   {
     "sharedProductId": "southern-dry-roasted",
@@ -2078,8 +1897,7 @@
     "possibleExistingIds": [
       "southern-dry-blue",
       "southern-dry-original"
-    ],
-    "nextAction": "confirmar-identidad"
+    ]
   },
   {
     "sharedProductId": "kirkland-salted-mixed",
@@ -2108,8 +1926,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kirkland-unsalted-mixed",
@@ -2138,8 +1955,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kirkland-keto-mix",
@@ -2170,8 +1986,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "biena-edamame",
@@ -2202,8 +2017,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "pockets-almonds",
@@ -2232,8 +2046,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "monster-viking",
@@ -2262,8 +2075,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "monster-pacific",
@@ -2292,8 +2104,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "fattoria-guayaba",
@@ -2322,8 +2133,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cristal-botella",
@@ -2352,8 +2162,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "unlaguer-330",
@@ -2384,8 +2193,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "arroz-blanco-bolsa",
@@ -2416,8 +2224,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trigo-bolsa-1kg",
@@ -2446,8 +2253,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trigo-gloria",
@@ -2476,8 +2282,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "maicena-450",
@@ -2506,8 +2311,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "chefscupboard-buterry",
@@ -2537,8 +2341,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cookies-bulk",
@@ -2569,8 +2372,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "savvyfare-rice",
@@ -2601,8 +2403,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "spanish-rice",
@@ -2633,8 +2434,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "timeowise-rice",
@@ -2665,8 +2465,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santa-lasagna",
@@ -2697,8 +2496,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "marchi-salt",
@@ -2729,8 +2527,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "white-bulk",
@@ -2761,8 +2558,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "family-review",
-    "nextAction": "completar-presentacion"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "torre-pink-salt",
@@ -2793,8 +2589,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sal-fina-azul",
@@ -2821,8 +2616,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "taoro-guayaba",
@@ -2851,8 +2645,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "monster-pipeline",
@@ -2881,8 +2674,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "monster-mango",
@@ -2911,8 +2703,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "monster-tropical",
@@ -2941,8 +2732,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tropigusto-mango",
@@ -2974,8 +2764,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tropigusto-pineapple",
@@ -3004,8 +2793,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tropigusto-banana",
@@ -3037,8 +2825,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tropigusto-peach",
@@ -3067,8 +2854,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bahamas-juice",
@@ -3097,8 +2883,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "bali-juice",
@@ -3127,8 +2912,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "water-whitecap",
@@ -3158,8 +2942,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "boom-cola",
@@ -3188,8 +2971,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "boom-lime",
@@ -3218,8 +3000,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sunny-tamarind",
@@ -3248,8 +3029,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "water-blue",
@@ -3278,8 +3058,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "family-review",
-    "nextAction": "completar-presentacion"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "shani",
@@ -3308,8 +3087,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sunny-peach",
@@ -3336,8 +3114,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "members-lemonpepper",
@@ -3366,8 +3143,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mccormick-montrealsteak",
@@ -3396,8 +3172,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mccormick-montrealchicken",
@@ -3427,8 +3202,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "members-redpepper",
@@ -3458,8 +3232,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "members-thyme",
@@ -3489,8 +3262,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kitano-basil",
@@ -3520,8 +3292,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "amanhecer-whitepepper",
@@ -3550,8 +3321,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "amanhecer-turmeric",
@@ -3580,8 +3350,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "amanhecer-clove",
@@ -3610,8 +3379,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "homebrothers-bbq",
@@ -3638,8 +3406,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "heavenly-garlic",
@@ -3668,8 +3435,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kingsford-lemon",
@@ -3698,8 +3464,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "badia-oregano",
@@ -3730,8 +3495,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "amanhecer-parsley",
@@ -3762,8 +3526,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-marisco",
@@ -3794,8 +3557,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-bbq",
@@ -3826,8 +3588,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-picante",
@@ -3858,8 +3619,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-pollo",
@@ -3890,8 +3650,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "davia-passata",
@@ -3922,8 +3681,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tomate-triturado",
@@ -3952,8 +3710,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "ourhouse-tomato",
@@ -3984,8 +3741,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tagliamonte-pomodoro",
@@ -4014,8 +3770,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "prego-traditional",
@@ -4046,8 +3801,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "ragu-garlic",
@@ -4078,8 +3832,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mantias-parmesan",
@@ -4108,8 +3861,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gv-cheddar-wow",
@@ -4138,8 +3890,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gv-american-wow",
@@ -4168,8 +3919,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gv-extrasharp-wow",
@@ -4198,8 +3948,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "offley-white",
@@ -4228,8 +3977,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gatonegro-white",
@@ -4258,8 +4006,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-ritual",
@@ -4294,8 +4041,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-especial",
@@ -4330,8 +4076,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "suau-15",
@@ -4360,8 +4105,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "suau-8",
@@ -4390,8 +4134,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-reserva",
@@ -4424,8 +4167,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "planta-santa",
@@ -4456,8 +4198,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gordons",
@@ -4486,8 +4227,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jodhpur-reserve",
@@ -4516,8 +4256,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jodhpur-mandore",
@@ -4548,8 +4287,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jodhpur-spicy",
@@ -4578,8 +4316,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santacarolina-rose",
@@ -4614,8 +4351,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santacarolina-sauvignon",
@@ -4648,8 +4384,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "celeste-verdejo",
@@ -4682,8 +4417,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vinasol",
@@ -4714,8 +4448,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vina-esmeralda",
@@ -4744,8 +4477,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sangretoro-red",
@@ -4780,8 +4512,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sangretoro-white",
@@ -4814,8 +4545,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sangretoro-rose",
@@ -4846,8 +4576,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nestia-plantain",
@@ -4876,8 +4605,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wapa-chorizo",
@@ -4910,8 +4638,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wapa-butifarra",
@@ -4942,8 +4669,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "morcilla",
@@ -4972,8 +4698,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bratwurst-cerdo",
@@ -5002,8 +4727,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bolitas-queso",
@@ -5036,8 +4760,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "raviolis",
@@ -5068,8 +4791,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "hamburguesas-cerdo",
@@ -5100,8 +4822,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "albondigas-cerdo",
@@ -5132,8 +4853,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bravo-mortadela",
@@ -5164,8 +4884,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bravo-jamon-york",
@@ -5194,8 +4913,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bravo-jamon-barra",
@@ -5228,8 +4946,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bravo-jamon-cocido",
@@ -5262,8 +4979,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "queso-iberico",
@@ -5294,8 +5010,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "bravo-pasta-boca",
@@ -5328,8 +5043,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "renypicot-mantequilla",
@@ -5358,8 +5072,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "president-camembert",
@@ -5388,8 +5101,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "president-brie",
@@ -5416,8 +5128,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "pacto-navio",
@@ -5446,8 +5157,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carafiestas",
@@ -5478,8 +5188,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "altos-reposado",
@@ -5510,8 +5219,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "olmeca-reposado",
@@ -5540,8 +5248,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jw-doubleblack",
@@ -5570,8 +5277,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "glenlivet-founders",
@@ -5600,8 +5306,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jw-redlabel",
@@ -5632,8 +5337,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jw-bluelabel",
@@ -5662,8 +5366,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jameson",
@@ -5694,8 +5397,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "ballantines",
@@ -5726,8 +5428,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "armageddon",
@@ -5756,8 +5457,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "absolut",
@@ -5786,8 +5486,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "ciroc",
@@ -5816,8 +5515,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jodhpur-londondry",
@@ -5846,8 +5544,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "beefeater",
@@ -5876,8 +5573,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tanqueray",
@@ -5906,8 +5602,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santiago-11",
@@ -5936,8 +5631,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santiago-12",
@@ -5966,8 +5660,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santiago-8",
@@ -5996,8 +5689,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santiago-blanca",
@@ -6028,8 +5720,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santiago-anejo",
@@ -6058,8 +5749,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "santiago-oscura",
@@ -6088,8 +5778,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-profundo",
@@ -6120,8 +5809,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-maestros",
@@ -6152,8 +5840,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-spiced",
@@ -6182,8 +5869,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-7",
@@ -6213,8 +5899,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "molinari",
@@ -6245,8 +5930,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "legendario",
@@ -6275,8 +5959,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "havana-3",
@@ -6305,8 +5988,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jagermeister-1l",
@@ -6335,8 +6017,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sangretoro-special",
@@ -6365,8 +6046,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "res-molida",
@@ -6397,8 +6077,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bacon-slices",
@@ -6435,8 +6114,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "roncari-blue",
@@ -6467,8 +6145,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "valle-curado",
@@ -6497,8 +6174,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "ribera-semicurado",
@@ -6527,8 +6203,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "valle-trufa",
@@ -6557,8 +6232,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "queso-azul-porcion",
@@ -6587,8 +6261,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "queso-vacio-generico",
@@ -6617,8 +6290,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "hollandmar-mozzarella",
@@ -6647,8 +6319,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cello-variety",
@@ -6681,8 +6352,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "pate-bandeja",
@@ -6711,8 +6381,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "fiambre-lonchas",
@@ -6741,8 +6410,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "variable-weight",
-    "recordType": "family-review",
-    "nextAction": "confirmar-precio"
+    "recordType": "family-review"
   },
   {
     "sharedProductId": "bravo-salami",
@@ -6771,8 +6439,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bravo-bacon-bloque",
@@ -6801,8 +6468,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "eltoro-mortadela",
@@ -6831,8 +6497,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "roinat-puppy",
@@ -6861,8 +6526,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jagermeister-700",
@@ -6891,8 +6555,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "frico-gouda",
@@ -6921,8 +6584,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit-unconfirmed",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "downy-fresh-perlas",
@@ -6951,8 +6613,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "downy-lush-perlas",
@@ -6979,8 +6640,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wonderful-dill",
@@ -7009,8 +6669,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wonderful-lightly",
@@ -7041,8 +6700,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wonderful-sweetchili",
@@ -7073,8 +6731,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wonderful-pepper-shell",
@@ -7105,8 +6762,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wonderful-roasted-227",
@@ -7137,8 +6793,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "wonderful-chocolate",
@@ -7169,8 +6824,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-pistachios-unsalted",
@@ -7201,8 +6855,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-pistachios-shelled",
@@ -7233,8 +6886,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gv-bacon-bits",
@@ -7263,8 +6915,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "hormel-bacon",
@@ -7293,8 +6944,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kirkland-trail-28",
@@ -7323,8 +6973,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "simply-coconut-oil",
@@ -7353,8 +7002,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "natures-coconut-oil",
@@ -7383,8 +7031,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tuscan-caesar",
@@ -7413,8 +7060,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "tuscan-italian",
@@ -7443,8 +7089,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "flakes-bulk",
@@ -7471,8 +7116,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "simply-quinoa",
@@ -7501,8 +7145,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "simply-flax",
@@ -7531,8 +7174,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "organic-coconut-flour",
@@ -7561,8 +7203,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-mixed-salt",
@@ -7591,8 +7232,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-mixed-unsalt",
@@ -7621,8 +7261,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-almonds",
@@ -7651,8 +7290,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-pumpkin",
@@ -7683,8 +7321,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-cashews-salt",
@@ -7713,8 +7350,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "southern-cashews-unsalt",
@@ -7743,8 +7379,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kirkland-cashews",
@@ -7773,8 +7408,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kirkland-almonds",
@@ -7805,8 +7439,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "jojos-almond",
@@ -7835,8 +7468,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "crispy-jalapeno",
@@ -7865,8 +7497,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "thatsit-blueberry",
@@ -7893,8 +7524,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "millville-oats-honey",
@@ -7926,8 +7556,7 @@
     "recordType": "product-candidate",
     "possibleExistingIds": [
       "granola-amarilla"
-    ],
-    "nextAction": "confirmar-identidad"
+    ]
   },
   {
     "sharedProductId": "millville-darkchocolate",
@@ -7956,8 +7585,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "millville-cranberry",
@@ -7986,8 +7614,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trader-passion",
@@ -8018,8 +7645,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trader-vanilla",
@@ -8050,8 +7676,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trader-maple",
@@ -8080,8 +7705,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trader-salted-honey",
@@ -8110,8 +7734,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bettergoods-granola",
@@ -8140,8 +7763,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gv-protein-granola",
@@ -8170,8 +7792,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "members-honey-granola",
@@ -8202,8 +7823,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "purely-vanilla-granola",
@@ -8230,8 +7850,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "maggi-sazon",
@@ -8260,8 +7879,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-salrosa",
@@ -8290,8 +7908,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-sal3",
@@ -8320,8 +7937,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-pimienta",
@@ -8350,8 +7966,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-pimientas",
@@ -8380,8 +7995,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "danos-original",
@@ -8410,8 +8024,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "badia-adobo",
@@ -8440,8 +8053,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "worcestershire-leaperrins",
@@ -8470,8 +8082,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kens-ranch",
@@ -8500,8 +8111,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "hot-sauce",
@@ -8528,8 +8138,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "italian-dressing",
@@ -8558,8 +8167,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "lime-juice",
@@ -8588,8 +8196,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "spray-oil",
@@ -8618,8 +8225,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "apti-basil",
@@ -8650,8 +8256,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-paella",
@@ -8680,8 +8285,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "colonna-ranch",
@@ -8710,8 +8314,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "supreme-black-pepper",
@@ -8740,8 +8343,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carmencita-molinillo-pimienta",
@@ -8770,8 +8372,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "varveio-balsamico",
@@ -8802,8 +8403,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "varveio-manzana",
@@ -8832,8 +8432,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vima-vino-vinagre",
@@ -8862,8 +8461,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "milideas-vinagre",
@@ -8892,8 +8490,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "badia-lemon",
@@ -8924,8 +8521,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "badia-mojo",
@@ -8956,8 +8552,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "badia-naranja",
@@ -8988,8 +8583,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "varveio-condimento",
@@ -9020,8 +8614,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carbonell-balsamico",
@@ -9052,8 +8645,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gourmet-vinagre",
@@ -9082,8 +8674,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vinagre-blanco",
@@ -9112,8 +8703,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "hersheys-syrup",
@@ -9142,8 +8732,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "millville-butter-syrup",
@@ -9172,8 +8761,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "millville-lite-syrup",
@@ -9202,8 +8790,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "fresco-maple",
@@ -9232,8 +8819,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vanilla-bottle",
@@ -9262,8 +8848,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "sirape-bottle",
@@ -9292,8 +8877,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "welchs-grape",
@@ -9322,8 +8906,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "helios-manzana",
@@ -9352,8 +8935,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "helios-ciruela-kiwi",
@@ -9382,8 +8964,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "helios-fresa-arandano",
@@ -9412,8 +8993,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mermelada-amarilla",
@@ -9442,8 +9022,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "caramel-syrup",
@@ -9472,8 +9051,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "pampa-fruit-spread",
@@ -9502,8 +9080,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cafe-frasco",
@@ -9534,8 +9111,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nescafe-small",
@@ -9564,8 +9140,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nescafe-tasters",
@@ -9594,8 +9169,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nescafe-clasico",
@@ -9624,8 +9198,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "coffeemate-frascos",
@@ -9654,8 +9227,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "coffee-mate-bolsa",
@@ -9686,8 +9258,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "splenda-small",
@@ -9716,8 +9287,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "coffee-sebraz-250",
@@ -9748,8 +9318,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "coffee-sebraz-other",
@@ -9778,8 +9347,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "coffee-mcdaniels",
@@ -9808,8 +9376,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "coffee-whitener",
@@ -9838,8 +9405,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "coffee-dark-bag",
@@ -9868,8 +9434,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nesquik-choco-tin",
@@ -9898,8 +9463,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nesquik-straw-tin",
@@ -9928,8 +9492,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "colacao-original",
@@ -9958,8 +9521,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "colacao-turbo",
@@ -9988,8 +9550,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nesquik-choco-bag",
@@ -10018,8 +9579,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "chocolisto-choco",
@@ -10050,8 +9610,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "chocolisto-straw",
@@ -10080,8 +9639,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cacao-black",
@@ -10112,8 +9670,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cacao-brown",
@@ -10142,8 +9699,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "te-limon",
@@ -10172,8 +9728,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "te-manzanilla",
@@ -10202,8 +9757,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "te-hierbabuena",
@@ -10232,8 +9786,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "te-manzanilla-jengibre",
@@ -10262,8 +9815,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "te-manzanilla-arandano",
@@ -10292,8 +9844,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vima-albondigas-lata",
@@ -10324,8 +9875,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "plumrose-lata",
@@ -10354,8 +9904,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "novo-lata",
@@ -10384,8 +9933,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "peanut-cookies-18",
@@ -10414,8 +9962,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trasto-rollos",
@@ -10442,8 +9989,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "candy-green-bottle",
@@ -10470,8 +10016,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "britannia-biscafe",
@@ -10500,8 +10045,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gourmet-double",
@@ -10532,8 +10076,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "supremos-packet",
@@ -10564,8 +10107,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "ricoss-280",
@@ -10596,8 +10138,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "fruit-straw-45",
@@ -10626,8 +10167,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "trident-1350",
@@ -10658,8 +10198,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "extra-gum",
@@ -10690,8 +10229,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "five-gum",
@@ -10722,8 +10260,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bauducco-wafer-straw",
@@ -10752,8 +10289,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bauducco-wafer-choco",
@@ -10782,8 +10318,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bauducco-maria",
@@ -10812,8 +10347,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "berry-croco",
@@ -10842,8 +10376,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "morgin-coconut",
@@ -10872,8 +10405,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "quaker-fruitcream",
@@ -10902,8 +10434,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kitkat-minis",
@@ -10932,8 +10463,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cocoa-pebbles-cup",
@@ -10962,8 +10492,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "honeybunches-cup",
@@ -10992,8 +10521,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "frostedflakes-cup",
@@ -11024,8 +10552,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cheerios-cup",
@@ -11054,8 +10581,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "ricekrispies-mini",
@@ -11084,8 +10610,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "pops-mini",
@@ -11114,8 +10639,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "miniwheats-mini",
@@ -11144,8 +10668,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "carrs-assortment",
@@ -11174,8 +10697,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "nerds-clusters",
@@ -11204,8 +10726,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "toblerone",
@@ -11234,8 +10755,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mms-sharebag",
@@ -11264,8 +10784,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "hersheys-nuggets",
@@ -11294,8 +10813,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "reeses-bar",
@@ -11324,8 +10842,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "reeses-pieces",
@@ -11354,8 +10871,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mms-caramel-bag",
@@ -11384,8 +10900,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mms-honey-bag",
@@ -11414,8 +10929,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mms-milk-jar",
@@ -11446,8 +10960,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "mms-peanut-jar",
@@ -11478,8 +10991,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bentons-mint-cookies",
@@ -11508,8 +11020,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bentons-original-cookies",
@@ -11538,8 +11049,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bentons-hazelnut",
@@ -11568,8 +11078,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bentons-keylime",
@@ -11600,8 +11109,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bentons-lemon",
@@ -11630,8 +11138,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "bentons-coconut",
@@ -11660,8 +11167,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "members-cookie-thins",
@@ -11692,8 +11198,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "milano-double",
@@ -11722,8 +11227,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "oreo-snack",
@@ -11754,8 +11258,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "oreo-choco-box",
@@ -11784,8 +11287,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "oreo-chocofill-box",
@@ -11814,8 +11316,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "oreo-roll",
@@ -11846,8 +11347,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "chipsahoy",
@@ -11876,8 +11376,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "lotus-biscoff",
@@ -11906,8 +11405,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "lemoncreme-cookie",
@@ -11936,8 +11434,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vanillacreme-cookie",
@@ -11966,8 +11463,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "duplex-cookie",
@@ -11996,8 +11492,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vanilla-sandwich",
@@ -12026,8 +11521,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "oatmeal-cookie",
@@ -12058,8 +11552,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "chocochip-cookie",
@@ -12090,8 +11583,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "almond-windmill",
@@ -12120,8 +11612,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "fresko-butter",
@@ -12150,8 +11641,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "fresko-cappuccino",
@@ -12180,8 +11670,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "fresko-coffee",
@@ -12210,8 +11699,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kitkat-16",
@@ -12240,8 +11728,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "choco-variety14",
@@ -12272,8 +11759,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cadbury-bar",
@@ -12304,8 +11790,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "simply-coconut-clusters",
@@ -12334,8 +11819,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "crepel-bar",
@@ -12364,8 +11848,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "todeschini-picapau",
@@ -12396,8 +11879,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vima-ensaladilla",
@@ -12428,8 +11910,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vima-maiz-frozen",
@@ -12464,8 +11945,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "dor-coles",
@@ -12496,8 +11976,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "cvale-nuggets",
@@ -12528,8 +12007,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "eurofrits-papas",
@@ -12560,8 +12038,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "preparar-imagen-comercial"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "driedapple",
@@ -12594,8 +12071,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "takis-fuego",
@@ -12628,8 +12104,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "kars-mix",
@@ -12658,8 +12133,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "thatsit-crunch",
@@ -12688,8 +12162,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "juve-solo-vida",
@@ -12718,8 +12191,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "gran-juve-camps",
@@ -12748,8 +12220,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vallformosa-gala-white",
@@ -12780,8 +12251,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vinaesmeralda-sparkling",
@@ -12810,8 +12280,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "misting-brut",
@@ -12841,8 +12310,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vallformosa-gala-rose",
@@ -12871,8 +12339,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vallformosa-cava-rose",
@@ -12901,8 +12368,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "confirmar-precio"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vallformosa-cava-brut",
@@ -12931,8 +12397,7 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   },
   {
     "sharedProductId": "vallformosa-cava-ice",
@@ -12961,7 +12426,6 @@
     "publicationStatus": "not-published",
     "stock": null,
     "saleMode": "packaged-unit",
-    "recordType": "product-candidate",
-    "nextAction": "completar-presentacion"
+    "recordType": "product-candidate"
   }
 ]
