@@ -4,9 +4,13 @@
     {
       "name": "Frutos secos",
       "subcategories": [
+        "Almendras",
         "Cubiertos de chocolate",
         "Maní",
+        "Marañones",
         "Mezclas",
+        "Pistachos",
+        "Semillas",
         "Semillas y legumbres"
       ]
     },
@@ -17,6 +21,7 @@
         "Brandy",
         "Cervezas",
         "Energéticas",
+        "Espumosos",
         "Ginebra",
         "Jugos y néctares",
         "Licores",
@@ -32,26 +37,43 @@
     {
       "name": "Alimentos",
       "subcategories": [
+        "Aceites",
         "Arroz",
+        "Cacao",
+        "Café",
         "Carnes",
+        "Cereales",
+        "Chicles",
+        "Chocolate",
         "Condimentos",
         "Congelados",
         "Embutidos",
+        "Endulzantes",
         "Galletas",
+        "Golosinas",
+        "Granolas",
         "Granos",
         "Harinas",
+        "Infusiones",
         "Lácteos",
+        "Mermeladas",
         "Pastas",
         "Preparados",
         "Quesos",
         "Sal y azúcar",
+        "Salsas",
         "Salsas para pasta",
-        "Snacks"
+        "Semillas",
+        "Siropes",
+        "Snacks",
+        "Vinagres"
       ]
     },
     {
       "name": "Conservas",
       "subcategories": [
+        "Carnes",
+        "Preparados",
         "Salsas para pasta",
         "Tomate"
       ]
@@ -64,7 +86,9 @@
     },
     {
       "name": "Aseo",
-      "subcategories": []
+      "subcategories": [
+        "Lavandería"
+      ]
     },
     {
       "name": "Accesorios",

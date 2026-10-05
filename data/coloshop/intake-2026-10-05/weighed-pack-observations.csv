@@ -1,0 +1,10 @@
+﻿observationId,parentProductId,weightKg,labelPriceCUP,currency,sourcePhoto,status,unitId,stock,pricePerKg
+res-molida-171457-400,res-molida,0.4,3010,CUP,IMG_20261009_171457.jpg,label-read-not-stock-item,,,
+res-molida-171500-310,res-molida,0.31,2330,CUP,IMG_20261009_171500.jpg,label-read-not-stock-item,,,
+bacon-slices-171506-250,bacon-slices,0.25,4840,CUP,IMG_20261009_171506.jpg,label-read-not-stock-item,,,
+bacon-slices-171512-260,bacon-slices,0.26,5030,CUP,IMG_20261009_171512.jpg,label-read-not-stock-item,,,
+bacon-slices-171517-190,bacon-slices,0.19,3680,CUP,IMG_20261009_171517.jpg,label-read-not-stock-item,,,
+bacon-slices-171529-240,bacon-slices,0.24,4650,CUP,IMG_20261009_171529.jpg,label-read-not-stock-item,,,
+bacon-slices-171529-220,bacon-slices,0.22,4260,CUP,IMG_20261009_171529.jpg,label-read-not-stock-item,,,
+queso-azul-porcion-171545_1-240,queso-azul-porcion,0.24,4620,CUP,IMG_20261009_171545_1.jpg,label-read-not-stock-item,,,
+queso-azul-porcion-171545_1-350,queso-azul-porcion,0.35,6740,CUP,IMG_20261009_171545_1.jpg,label-read-not-stock-item,,,

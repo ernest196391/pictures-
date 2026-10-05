@@ -27,3 +27,8 @@ Todavía no están implementados el cargador móvil, OCR automático, reconocimi
 ### Inventario parcial desde ZIP (2026-10-05)
 
 [Revisión de ZIP0 y ZIP1](data/coloshop/intake-2026-10-05/README.md):142 fotos,34 tomas previas y108 nuevas; inventario CSV/JSON y requisitos del sistema. Faltan dos ZIP; aún no se publican estos candidatos.
+
+
+## Auditoría completa de cuatro ZIP (2026-10-05)
+
+Consolidado en `data/coloshop/intake-2026-10-05/`:297 fotos,100 tomas anteriores y197 nuevas;361 observaciones candidatas,244 con precio directo leído.150 productos publicados preservados.586 registros maestros incluyen familias y posibles coincidencias, no586 SKU finalizados. Continuar desde `pending-review.json`; confirmar unidad, presentación e identidad antes de generar/publicar. No quedan ZIP pendientes de este lote.

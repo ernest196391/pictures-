@@ -30,3 +30,8 @@ Lote 006 publicado: 78327ff225389b75de7007e977da7f2e00948cd3; despliegue dpl_8K6
 ## 2026-10-05: auditoría parcial ZIP0 y ZIP1
 
 142 fotos:34 tomas previas recomprimidas y108 nuevas.159 fichas candidatas (157 adicionales y2 pendientes previos enriquecidos);107 con precio legible. Catálogo sigue150 publicados. Sin generación de imágenes ni cambios en tienda. Faltan2ZIP. Fuente autoritativa de la sesión: `data/coloshop/intake-2026-10-05/README.md`, `manifest.json`, `photos.json` y `master-products.json`. Revisar estas fichas antes de reservar batch007; incluyen familias y precios por peso, no todos son SKU finalizados.
+
+
+## Auditoría completa de cuatro ZIP (2026-10-05)
+
+Consolidado en `data/coloshop/intake-2026-10-05/`:297 fotos,100 tomas anteriores y197 nuevas;361 observaciones candidatas,244 con precio directo leído.150 productos publicados preservados.586 registros maestros incluyen familias y posibles coincidencias, no586 SKU finalizados. Continuar desde `pending-review.json`; confirmar unidad, presentación e identidad antes de generar/publicar. No quedan ZIP pendientes de este lote.

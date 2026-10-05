@@ -3628,5 +3628,3929 @@
     "candidateProductIds": [],
     "priorPendingIds": [],
     "matchBasis": "same filename plus 256-bit difference hash distance <=8 against inspected optimized source; binary content differs due to resize/reencoding"
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164901.jpg",
+    "file": "IMG_20261009_164901.jpg",
+    "sha256": "8b15e5135855d33c1059851ce262c9b91f21c91e83d0d3282b6014c6c824fb1c",
+    "bytes": 3399357,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "61266b81e98fc9efc9eec8fec9e9c9cec1ce80e181ed82c882da82f8813480fc",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164901.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "almendras-chocolate"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164902_1.jpg",
+    "file": "IMG_20261009_164902_1.jpg",
+    "sha256": "007d011db56069b393b83332f0dbeaccc01daec6d2fcad4ce22899cf2b32276a",
+    "bytes": 3043995,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "667a067f06cfc7dfdf7f9e7fbc7db67db67d3cff7effbdffbfefb3e7afe7fe07",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164902_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "pasas-chocolate"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164905_1.jpg",
+    "file": "IMG_20261009_164905_1.jpg",
+    "sha256": "20bacea06fe5d1df7d7d030b78de903e4014c47707c4609a036e8a7b8087afc1",
+    "bytes": 3012429,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "f83f8c3f0e7b9eff94bf9bbf17bf13bf2b9e331c039f817f219f339f53f95dff",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164905_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "pobeda-madagascar",
+      "pobeda-ecuador",
+      "pobeda-cote-ivoire"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164907_1.jpg",
+    "file": "IMG_20261009_164907_1.jpg",
+    "sha256": "c738322df37d1e6508c7f0d2961b51f20931e31a2e480dc535f2bb52dac8bf68",
+    "bytes": 2479914,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "4c380db00f398d398de189a109992ba83bc83b407a007b007b00fb00f8f2f874",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164907_1.jpg",
+      "distance256": 5
+    },
+    "publishedProductIds": [
+      "lacasa-menta"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164913_1.jpg",
+    "file": "IMG_20261009_164913_1.jpg",
+    "sha256": "71fd0ec39e2de3d5f5751f1208d3fffb1970802a4b8dc46b6e21ebece66a8f72",
+    "bytes": 2761558,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "01460e1e0d0e030348f06c6634606ca2d0a098a08218223e201c601060007b00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164913_1.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "bentons-fresa",
+      "bentons-arandano"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164915_1.jpg",
+    "file": "IMG_20261009_164915_1.jpg",
+    "sha256": "d51a7047372269d012718923d1d1ef1cbd820dbd600e486c56718820f3ae270a",
+    "bytes": 2505949,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "03330b8b2f2b259761b7637b82738671b4dbe44bf0273c3b3f1378013001a001",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164915_1.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "choceur-cups"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164918_1.jpg",
+    "file": "IMG_20261009_164918_1.jpg",
+    "sha256": "6592c07539ad28f32d92e8fe79469c800e6c23c0048e64818b95183b12f842cf",
+    "bytes": 2719326,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "3e043838303a0403cc01c0014f437503d79dd719c458f180f700f000e008f000",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164918_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "mounds"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "mms"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164921.jpg",
+    "file": "IMG_20261009_164921.jpg",
+    "sha256": "2a81c11d423ccdf7d8d24811f00cfc0234373cc240007d22cc82c54755ab656b",
+    "bytes": 2757303,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "e080e04ae042e003e221c6034606440cc689c089c18481008100810081000100",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164921.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "milky-way"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "snickers"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164927_1.jpg",
+    "file": "IMG_20261009_164927_1.jpg",
+    "sha256": "29358fde113575289d8a9f286ffe2999500b298b3103d53227c826a924555920",
+    "bytes": 3519248,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "a902a082db22c26234e07c78d9a9cdb7e79fe7975863cd77e737ef3ef8cef43e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164927_1.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "papel-excelencia"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164933.jpg",
+    "file": "IMG_20261009_164933.jpg",
+    "sha256": "8f0a11c7cbd6191b75cd10786ebfb5ba2696900a039f6b046c342668f826cc87",
+    "bytes": 3520655,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "33263726ffe62f808d21c444c072b2ccf93cf876b8e69ce460840084fa84afc4",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164933.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "members-pacs"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164936_1.jpg",
+    "file": "IMG_20261009_164936_1.jpg",
+    "sha256": "878c53e97b078e3525aa419f9dc24b35e8a57a635edf95d614b20507bfdc42f4",
+    "bytes": 3343171,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "90983108a6061025d0f0e0f0f1e4ada4a9c8d98cb0313950c922420283dcff81",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164936_1.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "tide-spring",
+      "gain-original-grande"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164939.jpg",
+    "file": "IMG_20261009_164939.jpg",
+    "sha256": "5415e72c71e7b1d7e9df374fa6100fb2283ea036219de19ea62f3d517bb7df53",
+    "bytes": 3503281,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "990099191cf89ff227b227901f0b1f601ac81b949cc11cf39c369edb9b539b00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164939.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "tide-oxi"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164942_1.jpg",
+    "file": "IMG_20261009_164942_1.jpg",
+    "sha256": "5c8ab8e7db1e52a0a1597f4efb838e669a2cdf56c29c1a76ea8a74e7c7101ee8",
+    "bytes": 2784977,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "dce15cc1b581a5810c068181976e9c7ebc786c980ca09361ffc900c1a381ffa1",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164942_1.jpg",
+      "distance256": 4
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "gain-flings-pequeno"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164949_1.jpg",
+    "file": "IMG_20261009_164949_1.jpg",
+    "sha256": "6daaeaf04541ad97ba11e2c2470122652468363e0235a00e3b1a1439f065dd4f",
+    "bytes": 2950488,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "9d099e4b9e4b9842f70e755275527552750c7393baa39e001f841fee1f079c00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164949_1.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "gain-suavizante"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "downy-cool-cotton",
+      "tide-simply",
+      "gain-ultra-oxi",
+      "tide-free-gentle",
+      "tide-downy"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_164957_1.jpg",
+    "file": "IMG_20261009_164957_1.jpg",
+    "sha256": "e3012f22a19318f05bd4c8e559653fbed23b408013a3816e14b4790e2dc52aa4",
+    "bytes": 2740813,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "cca8cca8ee462c3a54385639543b5639723d9c397e7c76247ca91c2b9f289f28",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164957_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "magali-mora",
+      "snonas-candy",
+      "snonas-honey"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "magali-coco",
+      "snonas-splash"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165004.jpg",
+    "file": "IMG_20261009_165004.jpg",
+    "sha256": "99ebf8c25c2a6d64c37cded6e1289ae66eaf4e22e7d6426c6c6743fc88aff7a1",
+    "bytes": 3272619,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "495ee94fe54f34c624dd1e8a2e8c2e983e097e0362439301b7073f16db21e323",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165004.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "dicora-avena",
+      "dicora-citrus",
+      "snonas-body",
+      "snonas-coco-pina"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "terrifik"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165013_1.jpg",
+    "file": "IMG_20261009_165013_1.jpg",
+    "sha256": "e98e995f78a41c4052c7ed1ea608f0185ae212c989dec28c6f3b70b169b7b14b",
+    "bytes": 2794138,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "e790878c061809e991a5303231da101c901292f21280103c3830303a30303132",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165013_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "peine-flexys"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165016_1.jpg",
+    "file": "IMG_20261009_165016_1.jpg",
+    "sha256": "cdf3fa7ece2a613335183cb918ce59aca87daf8f58b66d640a50c1c65c72c7af",
+    "bytes": 2877968,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "09feb0be307c3cad7725559117848ec58f46cf1fcc8fc96fc9fe08d600e7067e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165016_1.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "balsamos-paul-frank"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "la-salud"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165019_1.jpg",
+    "file": "IMG_20261009_165019_1.jpg",
+    "sha256": "8e2c1e3d068fe409df1c5de0c35005bbd07bee11126fe14664a484961c946d9d",
+    "bytes": 3120900,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "fc08fe0b3e8b3cc31cc7cd843b005f003f04be45bec0bc603cc1f938db68e4e1",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165019_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "ventilador-pure-silk"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165026_1.jpg",
+    "file": "IMG_20261009_165026_1.jpg",
+    "sha256": "c179d4a4bb61a2db574ee3ea11483110876db8b4396801bea825b752198760a1",
+    "bytes": 3098230,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "daeadac1d2c3dae3db524a154c1548444a4c9d1c98646d642d692e0b26932e93",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165026_1.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "nordic-ar",
+      "un-n09",
+      "ohmy-azul",
+      "ohmy-rojo",
+      "febreze-luxe"
+    ],
+    "candidateProductIds": [
+      "homebright-verde",
+      "homebright-morado"
+    ],
+    "priorPendingIds": [
+      "homebright-verde",
+      "homebright-morado",
+      "glade",
+      "palmolive"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165030_1.jpg",
+    "file": "IMG_20261009_165030_1.jpg",
+    "sha256": "fa8cf76bbc0e0432f436ef2d68bb49b75de550ee5f9bb6b2dbf5cf1358af15ae",
+    "bytes": 3204348,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "70e7b0f3edc25ed65a9a5aab12ad728572a462a56291648965c9cd8589859785",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165222.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "homebright-verde",
+      "homebright-morado",
+      "downy-fresh-perlas",
+      "downy-lush-perlas"
+    ],
+    "priorPendingIds": [
+      "homebright-verde",
+      "homebright-morado"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165036.jpg",
+    "file": "IMG_20261009_165036.jpg",
+    "sha256": "f78d64bab1397db38ededd4d0acc3d54a8bae5f4890f71541f5555e5a895c197",
+    "bytes": 3149467,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "24953191a4d8c6e9cb69c96dc96dc36c836d836463e463d9637566eb26c9bec9",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165036.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "salud-salfuman"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "salud-antical-gel"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165039_1.jpg",
+    "file": "IMG_20261009_165039_1.jpg",
+    "sha256": "a93706902d95e031053332f48885423987f7434a02ac39c6191938c2d199ef97",
+    "bytes": 3213332,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "f437d4245c2c7c593ba6eda6f577ed52f993f300f500e4905c905c9219d860da",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165039_1.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "salud-multiusos",
+      "salud-antical-spray"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "salud-banos-pino"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165045.jpg",
+    "file": "IMG_20261009_165045.jpg",
+    "sha256": "f39704a0ab9d455a6afb6342adb1ab21e8f2770a3f9306a438073cbe1c16c646",
+    "bytes": 3172654,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "304634082c88b00076117809f9089c0cdd0c7906930db30e972fdda7349636d6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165045.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "khawla-lavavajillas"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "ultra-deluxe-floral",
+      "ultra-deluxe-citrus"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165047.jpg",
+    "file": "IMG_20261009_165047.jpg",
+    "sha256": "d8baacb04735cd7ad95bd85cfba323f542d5a9f8b2f562351fe8d23414ac4803",
+    "bytes": 2486897,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "391285513072c08644c66494669166d126dd26d876e27b627b84d384d3069d82",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165050_1.jpg",
+      "distance256": 79
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [],
+    "reviewNote": "Foto desenfocada de lavavajillas; no asignar marca variante o precio por inferencia."
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165050_1.jpg",
+    "file": "IMG_20261009_165050_1.jpg",
+    "sha256": "a1c36ae84595239c52527b62617761d99eabd1ee334fff664da05b963b92fc9e",
+    "bytes": 3218650,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "56863f118753a056c2860c866c906c9164916c9d25b17aa15364d304d72697a6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165050_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "dawn-crisp-lilac"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "dawn-watermelon",
+      "dawn-tropical"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165055_1.jpg",
+    "file": "IMG_20261009_165055_1.jpg",
+    "sha256": "26d5b1b77ce4e8a0ba6fd3ec9ca09b19381d870f1e811a1a82b9e57f6e42a66b",
+    "bytes": 3236318,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "9c02dc03be433e03db07cb55cb41db59cb48da6893683268726c766834b224d2",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165055_1.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "lex-wc-limp"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165059_1.jpg",
+    "file": "IMG_20261009_165059_1.jpg",
+    "sha256": "fe43e4edad4beea29af41840a31caf5f9331a169c05beec3c514aa83aa138c09",
+    "bytes": 3566370,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "5126523271843344f248de5ace52ee6fe67ac67c0578627071a239863986349f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165059_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "pano-blanco",
+      "pano-amarillo"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165106_1.jpg",
+    "file": "IMG_20261009_165106_1.jpg",
+    "sha256": "3225b32394b59d18be6344b4d5c4348454d865a78902a1f72a7372c59e197f63",
+    "bytes": 3700641,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "4dec4fd45e75924312df12df12df12dd1adb125b13dfd6d9eac96be0c7e1efa3",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165106_1.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "nature-cinnamon",
+      "nature-spearmint",
+      "mical-film"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "actoner-mint"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165110_1.jpg",
+    "file": "IMG_20261009_165110_1.jpg",
+    "sha256": "34abca00c552d09e33bb98ce626db203282d80cb73ba6ac55c8ab46fb52676fc",
+    "bytes": 3026764,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "dd994d9b4dc26f4e9d601f31fc53cc43e663fdf0fde0ff30ffc0ffc17fc17fcb",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165110_1.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "mister-pack-congelacion"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165114.jpg",
+    "file": "IMG_20261009_165114.jpg",
+    "sha256": "4ad3207b695e91a3ec1c37540488087becc45f2db03f0eb9b5377a42af08fdb7",
+    "bytes": 3002778,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "464f164f166db2f5738036a13e252e2ca62cc62c1e2dfeecb0d6b16777a3fefb",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165114.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "alfa-molinillos"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "great-value-inodoro"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165120.jpg",
+    "file": "IMG_20261009_165120.jpg",
+    "sha256": "ce02dbaf05abaf873e7ef91637a6c8d55f6db59b7dba9c07689d7a18b171a0c4",
+    "bytes": 3890188,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "976d197158bddfb7ef9a3e4b76523652065a165b161396728662be43764133cd",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165120.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "summers-eve-fresh",
+      "vapour-rub"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "homebright-bleach"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165123_1.jpg",
+    "file": "IMG_20261009_165123_1.jpg",
+    "sha256": "95cfacb6ef4139b96982038c996f954f59b21621e264bf3ac2a4d8836a8265ef",
+    "bytes": 2953778,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "5aff7afe5bee1b3f4fb34da37ca5f8a4dae4d6e9b9abb98b79ab67e7e74fff4e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165123_1.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "bastoncillos-grandes",
+      "palillos"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "bastoncillos-pequenos"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165128.jpg",
+    "file": "IMG_20261009_165128.jpg",
+    "sha256": "86acc737d8a2524907a1fa948bdbf05eee2eaa8ab6cbcfe153e9889f8b738111",
+    "bytes": 2904248,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "37e4bfe5b3f1f1f38c678d6ff7e3fde36b63ce7beb7bad7b6d3b6d9eed171fe1",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165128.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "truearth-spring",
+      "belle-france-antitransfert"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165138.jpg",
+    "file": "IMG_20261009_165138.jpg",
+    "sha256": "0ee5745bc4124c0ba959935d005466b9109ae5a9bd9a6cbd6c0e1103e5cc361a",
+    "bytes": 4202957,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "ed712d313c613e713a603c689c748f601f419d53ce692b25be66de715e49decd",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165138.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "harmony-lemon"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165144.jpg",
+    "file": "IMG_20261009_165144.jpg",
+    "sha256": "be5086e150e9d508a6a2118747482caee418fee6fe22b89945edc7c8c4658346",
+    "bytes": 4481066,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "adadb3db72d9b8e9b48c9897b1f639d239e1b9e09de11de71de61dce15cea4f6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165144.jpg",
+      "distance256": 4
+    },
+    "publishedProductIds": [
+      "parex-s",
+      "parex-m"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165148.jpg",
+    "file": "IMG_20261009_165148.jpg",
+    "sha256": "1fe76733c4920a9f68864ace79eb7c235e0fbff69c4eb997e7a8dbaf4704c936",
+    "bytes": 3661737,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "989588e30341b8f3dcc999cc39cc3dc839c439c0f9e4f9e267c23d811dc539e4",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165148.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "basura-gato"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165150.jpg",
+    "file": "IMG_20261009_165150.jpg",
+    "sha256": "610af5ff15364d909ec300eeaf5fe4f43ae666b325336404398a83064a5b83a6",
+    "bytes": 3680362,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "b2103023318a3188512172b8371dbf34ccb20db4ef3066b44738cd18495b197b",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165150.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "happy-baby-soap"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165157.jpg",
+    "file": "IMG_20261009_165157.jpg",
+    "sha256": "43b626ce6157c273744579f94f95e48516f75039ba7c6ab43121c4d687955146",
+    "bytes": 3421051,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "ff3376131f97eba0ce69c64dd6675666c64d4e4c0e640e4e0ec31f831f870f83",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165157.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "amber-sugar-cookie"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "speed-stick-irish",
+      "lady-speed-stick",
+      "suave-tropical"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165200.jpg",
+    "file": "IMG_20261009_165200.jpg",
+    "sha256": "f569f81d8304162edf7316d6d0184476383ecb038a5d42f93a9b56ae8775075d",
+    "bytes": 3303284,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "189c31ecb964cc747c846cc46cc46ca4e1a45da47d841dc43de40b1c9a0cc80c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165200.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "rose-honey",
+      "ronza-lemon"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165203.jpg",
+    "file": "IMG_20261009_165203.jpg",
+    "sha256": "fa4a36e26d4f9521c4495c733393fe314772c8795cc3b2f7db8e4848cba892ee",
+    "bytes": 3129727,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "7cc36c83de23cef8499b09b01d627c677e067e06fe06fe0efe0efc07fc47f467",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165203.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "astera-kids"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "alident-kids"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165207.jpg",
+    "file": "IMG_20261009_165207.jpg",
+    "sha256": "c80216f3a84f17423436956617356d69b21ba9a7cd73acb1ed7b6b3657427065",
+    "bytes": 4085183,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "b00c980080c40fc49ce094b6843084b284338cb28eb21f921057000301000800",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165207.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "colgate-advanced",
+      "colgate-triple"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165211.jpg",
+    "file": "IMG_20261009_165211.jpg",
+    "sha256": "5fff6f102e31ac6ce2b31c0f738024d523c768bfba42c4ee2a1cc41604d1270a",
+    "bytes": 2871648,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "3f03ff03fd03f603364f0edf07d733c71dd70edf831efa4ef0e68036a00ecc0e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165211.jpg",
+      "distance256": 4
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "zuecos"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165214.jpg",
+    "file": "IMG_20261009_165214.jpg",
+    "sha256": "3af47be1f9fa4ea8c2fbb044811c307d86b5393475b4e95c40262cc241a87164",
+    "bytes": 3226973,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "c21883598359c767880082048264c2e4c7c4c6ccc4c4c0c4c0dcc00e8082d080",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165214.jpg",
+      "distance256": 4
+    },
+    "publishedProductIds": [
+      "futuro-pitillos-200",
+      "veslee-aerosol",
+      "tfs-utensilios-3"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165219.jpg",
+    "file": "IMG_20261009_165219.jpg",
+    "sha256": "364df0f2cdeff57900a983032e4d8741433ddda76736368edff8d4f13fda21f5",
+    "bytes": 3323546,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "540f4a4fae7ffcdb80e01bee306c216e084a81c285d08790050387818fc39000",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165219.jpg",
+      "distance256": 3
+    },
+    "publishedProductIds": [
+      "hilo-dental"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "panuelos"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165222.jpg",
+    "file": "IMG_20261009_165222.jpg",
+    "sha256": "79a8fb0db8773bdb89d81f2356e4d6b6bbfcd0ece144878503050c9c53ddc280",
+    "bytes": 3269932,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "8de105e265c14f84fb9363a7734e328e728ff68ff060f170e07400000000a78e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165222.jpg",
+      "distance256": 3
+    },
+    "publishedProductIds": [
+      "durian-cepillos-5"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165227.jpg",
+    "file": "IMG_20261009_165227.jpg",
+    "sha256": "35e7a1be4949454048bba4699874a3f979ecde9d12f4c7ee839359814a650d69",
+    "bytes": 3679932,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "01a800cd03fe3f637d4975416d4d754d754d754d754d155d015d000d02056300",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165227.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "magali-avena"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "magali-dermo",
+      "magali-ambar",
+      "magali-frutos-rojos",
+      "multi-surface-wipes",
+      "homebright-wipes"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165229.jpg",
+    "file": "IMG_20261009_165229.jpg",
+    "sha256": "b1ed56af0b4d3e44812e8d272869c1f83a982b3bfb6f1313ea16d3b5bd1f540b",
+    "bytes": 3667753,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "00d440df03f93f637d22352235267524752476263d6e2d6c016c800e8204e300",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165229.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [],
+    "reviewNote": "Toma revisada; asociación exacta a ficha pendiente. No implica producto ausente."
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165236.jpg",
+    "file": "IMG_20261009_165236.jpg",
+    "sha256": "d34603f303723013cd59595c9f54610cf1e08d25cefdda8e1deea8d836b1a4c9",
+    "bytes": 3641542,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "c19580cd02bb0bf20f317d314d650d2d0d6d0d2c0d4d0d4505cc33f007fc8008",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165236.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "personal-care-afeitar",
+      "xtracare-afeitar"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "viking-active",
+      "tango-rojo",
+      "crest-scope-drops"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165242.jpg",
+    "file": "IMG_20261009_165242.jpg",
+    "sha256": "a853491bce8f097a0a60d3ea0b170e8081c02e241ebcbcd05995e6f8ac78db4f",
+    "bytes": 2867551,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "f918e958c1904d2449249b663d66351550561a520af780200ffc0dec0de421f0",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165242.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "viking-sensitive",
+      "tango-verde"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "tango-azul"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165247.jpg",
+    "file": "IMG_20261009_165247.jpg",
+    "sha256": "4c8c1c708e6368f80d7b9256b6871a1c3df855e124272e0d62d53d952dd8dfd7",
+    "bytes": 3599452,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "b9b1fd90f570f301ff41d968c969e940dbc0dbe0fb60fce8fc4cfe1cf61cfe0c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165247.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "febreze-plug",
+      "stinky-bowl-citrus",
+      "luv-fresh-tropic"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "luv-citrus"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165257.jpg",
+    "file": "IMG_20261009_165257.jpg",
+    "sha256": "5ac5e68b5fbb4e359dd59964efa55c926e01f8f6603fd9a214a531bb4b2475db",
+    "bytes": 3280344,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "906609b66bb6fff1f0f1f2e070c170e1f4e1f279f239e239f2b9719173033f02",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165257.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "suavitel-hojas",
+      "pure-silk-mini"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165303.jpg",
+    "file": "IMG_20261009_165303.jpg",
+    "sha256": "8da8e7b5681705548ad56935273e9d8c2144ee4657aaea7b9b5247846bdc0c54",
+    "bytes": 3024765,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "7fccff847f0e627ced64fd4279123b017b316320c321d7613dde009f31003840",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165303.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "nevada-strawberry"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "nevada-papaya",
+      "esponjas"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165309.jpg",
+    "file": "IMG_20261009_165309.jpg",
+    "sha256": "448678b87a03ba934722b9f10687f8b44ec24a04dff79addb040e1932fe47bf8",
+    "bytes": 2826064,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "fe40ff80ff907cd0b70af702d7a35eb33e7396279e277f37ff27ff03ff03ff02",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165309.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "rollos-hogar"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165313.jpg",
+    "file": "IMG_20261009_165313.jpg",
+    "sha256": "fbc19c0f89dbf2b0d2ebfe8313c3e197fe87cb688f6ffac3ea779519e72f4109",
+    "bytes": 3001725,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "7f5a1eddf324f3a4f268e3a992a39b2689c4c9dc5d9906788e5c0ec0dfc0dfc0",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165313.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "acolchado-beige"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165321.jpg",
+    "file": "IMG_20261009_165321.jpg",
+    "sha256": "d9abf2a31553d2ff1a320ff21b60f8e27495d1f27d1745bbd670606c068da1fd",
+    "bytes": 2749520,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "f700fb20fb10f920f810e668e648ce4ccd8c6d1877213f413d007c00bd04990c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165321.jpg",
+      "distance256": 4
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "sandalias"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165328.jpg",
+    "file": "IMG_20261009_165328.jpg",
+    "sha256": "ac758af2c1a9b4dd6a79b141b2ccc47eed30fdce92725a8b7ab2e590379e94c6",
+    "bytes": 3533382,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "b57c845cc69cc8f2e7fdf390f1d2f1d2719c61bcebd86bd95df9c5dfc3fff27f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165328.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "goraw-chili-lime"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "goraw-sunflower",
+      "goraw-pumpkin"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165333.jpg",
+    "file": "IMG_20261009_165333.jpg",
+    "sha256": "eceb0fe4a6747db649477c3c17d1e8dfdc2d0349766a1ba87a643f84fdc6bacb",
+    "bytes": 3315894,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "b1f8f3b9f9ceff6c6f50e7f463c1b3d173d1fb5a9f56bdd63ed038f137eb36fb",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165333.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "aldi-gummy-worms",
+      "sour-punch-banana"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "aldi-sharks",
+      "sour-punch-verde"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165337.jpg",
+    "file": "IMG_20261009_165337.jpg",
+    "sha256": "30689a5087a5a83ae6c439704cacd70d08f01655cb672ad86fbbd6ae3e35ad20",
+    "bytes": 3540721,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "db18fa50fe5abe20ef666d726f6a7552f9e0fd87fe3fbffebfefbfff7fef1dff",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165337.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "actii-butter-lovers"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165341.jpg",
+    "file": "IMG_20261009_165341.jpg",
+    "sha256": "f41688f8065d5362ca8e44f7735d587845bdf3e2ef28e38f32bea426118903e2",
+    "bytes": 3027175,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "0e800c700f434e464ff3cfe15ff49fe49b509f88bf38bfa0bb80b99823822668",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165341.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "dove-pudding"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "sonic-pudding"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165345.jpg",
+    "file": "IMG_20261009_165345.jpg",
+    "sha256": "8d3a5e363c3343f7c1a5ef0f5bd5fbe0435562550aecde3008434a98f0c738ee",
+    "bytes": 3615218,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "f81fe000ffff6746ed5afd386d586f4867427d287c722e983e8e78cd18e920fb",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165345.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "boom-frutos-rojos"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "boom-uva"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165347.jpg",
+    "file": "IMG_20261009_165347.jpg",
+    "sha256": "7359855688d6b5bc62e0613fe4514fd3968ed8ac32f576f561de23388e89c709",
+    "bytes": 3417373,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "edf107f080727f6040dc72c87e644e584e464c46726472f83fc817f03f9903b9",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165347.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "macrofood-pina"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "macrofood-naranja"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165353.jpg",
+    "file": "IMG_20261009_165353.jpg",
+    "sha256": "e8e4f93704764b7506191b110ffa5574b71258b6436581b1416546b8cf59ca67",
+    "bytes": 4221350,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "fcf834fc65fc8308f90a99b09c88decedcca99b2c88ad9aae58ec9bbec8aff40",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165353.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "oli-pina"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "oli-uva",
+      "oli-lemon",
+      "oli-tutti"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165401.jpg",
+    "file": "IMG_20261009_165401.jpg",
+    "sha256": "225f7a65b3a705c83381bc23355244b68674f74d0302c18904f96de455f69644",
+    "bytes": 3902733,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "e38869c96cc87c083293326fd64dd26cd84ca8e8f86a796effef000f400fee0b",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165401.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "quaker-granola",
+      "kirkland-cashew-clusters",
+      "nutrail-cinnamon",
+      "purely-cookie-granola"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "granola-amarilla"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165407.jpg",
+    "file": "IMG_20261009_165407.jpg",
+    "sha256": "7ad905262fb916dd6f547b1350941cf2d972f376665bb10063775b7acce8ae87",
+    "bytes": 3163412,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "58ef640f780fd60d2e45c7e33b690e4be4c2ff48ff18ff48ff68ff18ffc0ff80",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165407.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "jif-creamy",
+      "kirkland-peanuts",
+      "southern-cocktail",
+      "southern-honey"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "southern-dry-blue",
+      "southern-dry-original"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165412.jpg",
+    "file": "IMG_20261009_165412.jpg",
+    "sha256": "1b4d99f31520b74b9affc236f7382a70c0bb513f6e94056e242f711bcc41bfe7",
+    "bytes": 3667891,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "ad2c14b91eb91289179cbaa427009118999891985358fb46f688fc0cf80cfc0e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165412.jpg",
+      "distance256": 2
+    },
+    "publishedProductIds": [
+      "wellsley-peanut-mix",
+      "southern-tropical",
+      "southern-cajun",
+      "southern-indulgent"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165423.jpg",
+    "file": "IMG_20261009_165423.jpg",
+    "sha256": "bd664746d1a7272984b2260a58b54838a49390abe5f885042fefde7d4e1c610a",
+    "bytes": 4045892,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "cc9c8ca4d600c206405c6b4c2416a5b4b597a592a4b21637c2cac00ee00ee206",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165423.jpg",
+      "distance256": 0
+    },
+    "publishedProductIds": [
+      "gv-cranberry-mix",
+      "gv-chocolate-peanut-mix",
+      "gv-probiotic-mix"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": [
+      "gv-caramel-mix",
+      "gv-honey-mix",
+      "gv-omega-mix"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165430.jpg",
+    "file": "IMG_20261009_165430.jpg",
+    "sha256": "52e7238cb85fe90170ff385d67a0e80ddd9e0f2bcba0a85a917ed5849bceef1d",
+    "bytes": 4281138,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "previous-photo-reencoded",
+    "reviewStatus": "prior-inspection-reused",
+    "dhash256": "ccd055c080a3f7fcb584964c926c9264924637863ce266686649c019c40fc007",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165430.jpg",
+      "distance256": 1
+    },
+    "publishedProductIds": [
+      "members-pistachios",
+      "wonderful-pistachios-454",
+      "wonderful-pistachios-340",
+      "wonderful-pepper"
+    ],
+    "candidateProductIds": [
+      "wonderful-vinegar"
+    ],
+    "priorPendingIds": [
+      "wonderful-pistachios-680",
+      "wonderful-vinegar"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165436.jpg",
+    "file": "IMG_20261009_165436.jpg",
+    "sha256": "255ce19c3f20290d3d216175724963d863e9660439d90e8e4602fd0c4fa8d142",
+    "bytes": 3851575,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "35a88e03cc3dc9e83f0ceb2c0fac3baecb0afb08732026c0f860f8e0dcf050f0",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164907_1.jpg",
+      "distance256": 86
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "wonderful-vinegar",
+      "wonderful-dill",
+      "wonderful-lightly",
+      "wonderful-sweetchili",
+      "wonderful-pepper-shell",
+      "wonderful-roasted-227"
+    ],
+    "priorPendingIds": [
+      "wonderful-vinegar"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165441.jpg",
+    "file": "IMG_20261009_165441.jpg",
+    "sha256": "45ca3c44eca0e480dbae76b02a8315933e7a00ee2089343b42597d04233e4df0",
+    "bytes": 4290804,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "dda5caacf9819816d078c7c1380df84dabccab86931b81c820e53e207f00db40",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165321.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "wonderful-lightly",
+      "wonderful-sweetchili",
+      "wonderful-pepper-shell",
+      "wonderful-roasted-227",
+      "wonderful-chocolate",
+      "southern-pistachios-unsalted"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165446.jpg",
+    "file": "IMG_20261009_165446.jpg",
+    "sha256": "ba87d02db93726c7acb643d02333acca3a7dcaa69e0455c4b20719fa106a34d0",
+    "bytes": 3866274,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "6d2c6b4d7f44f940924f7ffcf6b69b36db32db339b3a360c31913c013e002c02",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165916.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "wonderful-chocolate",
+      "southern-pistachios-unsalted",
+      "southern-pistachios-shelled"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165450.jpg",
+    "file": "IMG_20261009_165450.jpg",
+    "sha256": "6a9efbed3538dc606c908ea7fe02a2182f7c1e511028ba51df259c4c25d85511",
+    "bytes": 3820446,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "6903f01ef4f167c11969b31b9e139313b317b313b39531963316073607763726",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165928.jpg",
+      "distance256": 110
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "southern-pistachios-shelled",
+      "gv-bacon-bits",
+      "hormel-bacon",
+      "kirkland-trail-28"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165457.jpg",
+    "file": "IMG_20261009_165457.jpg",
+    "sha256": "5d35b2d23aaf4f1848dfd2f56e7caa7d79689f1606c37b4bd20aca665058dcc7",
+    "bytes": 3680446,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "98a498c1908581bb8cc59cb6adb49c959db48d948d14ad329d3685f083ce83f4",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165207.jpg",
+      "distance256": 94
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "simply-coconut-oil",
+      "natures-coconut-oil",
+      "tuscan-caesar",
+      "tuscan-italian"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165501.jpg",
+    "file": "IMG_20261009_165501.jpg",
+    "sha256": "2b22294fbc33735271b5b29617e253b84e394c2235f4883ab50d288d8ea84d71",
+    "bytes": 4060788,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "2f8563077187e58219409398972093f08711e381e3e2c3c7a3c781e3c9c0c9c0",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164942_1.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "delcampo-lentejas",
+      "flakes-bulk"
+    ],
+    "priorPendingIds": [
+      "delcampo-lentejas"
+    ]
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165507.jpg",
+    "file": "IMG_20261009_165507.jpg",
+    "sha256": "eb85886fc1be72a0f372ee79c2dbc396892ed6f56d05bcc62bdd6e98a9824cc8",
+    "bytes": 3759365,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "8ba0cfa1ffb0de18ce19b6e8e46cae6ceeeccee8ce42d9628d45d45b3858e808",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165321.jpg",
+      "distance256": 91
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "simply-quinoa",
+      "simply-flax",
+      "organic-coconut-flour"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165512.jpg",
+    "file": "IMG_20261009_165512.jpg",
+    "sha256": "4ffda4f2751990acbb3c74b8bb92ed97f008e6c7a12048c4444ea75835a4f708",
+    "bytes": 3727717,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "3c441c600850ccd4c477c111c999c9916c9b4c9a2d933d03e0400062303efc34",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165207.jpg",
+      "distance256": 99
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "southern-mixed-salt",
+      "southern-mixed-unsalt",
+      "southern-almonds",
+      "southern-pumpkin"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165516.jpg",
+    "file": "IMG_20261009_165516.jpg",
+    "sha256": "ad29e85e139ba225fcd34bec7711d1eadf1df46f3e9ae143c4af6ddb78c5598d",
+    "bytes": 3657686,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "318ef380f700c700b7465b6c7b2c3b2cdb6ccb64cb64e970f7b0cffc1f8f3168",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165247.jpg",
+      "distance256": 93
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "southern-pumpkin",
+      "southern-cashews-salt",
+      "southern-cashews-unsalt",
+      "kirkland-cashews",
+      "kirkland-almonds"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165521.jpg",
+    "file": "IMG_20261009_165521.jpg",
+    "sha256": "8d6d455778301d4c594abaa80d68112e1125c29dc2a1e3985600da28f38bf5d9",
+    "bytes": 3377610,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "8033a13381f5c185e185e6c6e8c3eac6ea24e9c8ecc8ecaee1aca3efa73ba4e3",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165214.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "kirkland-almonds",
+      "jojos-almond",
+      "crispy-jalapeno",
+      "thatsit-blueberry"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165526.jpg",
+    "file": "IMG_20261009_165526.jpg",
+    "sha256": "5510fabcf2f8bb1c3ae3fc89f8398f9bab01108e410af00afe599cd43b19450e",
+    "bytes": 3513010,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "66363f97739933c23ece324e5c8c5c8c3b4c7b6273237fb03fb0f43c80180010",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165321.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "millville-oats-honey",
+      "millville-darkchocolate",
+      "millville-cranberry"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165530.jpg",
+    "file": "IMG_20261009_165530.jpg",
+    "sha256": "3aacd8ecbf30b5c0f945b8217422c4b7fdbaae49e19c41d833402164b28d6832",
+    "bytes": 4115204,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "e80dfe9def196e5c7ead74966494c4b265b0f928f110f818800301bffbdbde57",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165956.jpg",
+      "distance256": 103
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "trader-passion",
+      "trader-vanilla",
+      "trader-maple",
+      "trader-salted-honey",
+      "bettergoods-granola",
+      "gv-protein-granola"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165536.jpg",
+    "file": "IMG_20261009_165536.jpg",
+    "sha256": "70b05dd82abcd04f8ad342c9590b0cbaff2994e9df23c6e014577bae1328cd95",
+    "bytes": 4196575,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "925cd099f9a38d605e529a939a96ba93ba936ea66564f98000c33f7f7fa4caa5",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165932.jpg",
+      "distance256": 103
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "trader-passion",
+      "trader-vanilla",
+      "trader-maple",
+      "trader-salted-honey",
+      "members-honey-granola",
+      "purely-vanilla-granola"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165541.jpg",
+    "file": "IMG_20261009_165541.jpg",
+    "sha256": "76a7b3f2d6c3b5fc7e59917ab4e049cb57ea99399156d38579bb52162edac075",
+    "bytes": 3985066,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "8431fc729c4884c34d914db08db1cdb16f056b866c1e181e80071fbbf7fcff6c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165203.jpg",
+      "distance256": 107
+    },
+    "publishedProductIds": [
+      "quaker-granola",
+      "kirkland-cashew-clusters",
+      "nutrail-cinnamon",
+      "purely-cookie-granola"
+    ],
+    "candidateProductIds": [
+      "members-honey-granola"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165544.jpg",
+    "file": "IMG_20261009_165544.jpg",
+    "sha256": "211fdf493548e1791bc3f02bae4c791a024e91885926334242191e5e47180d30",
+    "bytes": 4160055,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "e398f131f523f18d7335332733a73b27d937d83a91381038003cbf9fb7efff27",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165313.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [
+      "quaker-granola",
+      "kirkland-cashew-clusters",
+      "nutrail-cinnamon"
+    ],
+    "candidateProductIds": [],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165547_1.jpg",
+    "file": "IMG_20261009_165547_1.jpg",
+    "sha256": "ff21c36074a9e4eb0fcfc41bfc8ec317a03659df6777cdaf827c077efa862e84",
+    "bytes": 3067551,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "bc837c80610026007604ee2c2aaa2aaa2aaa2ba62d53fe43fe00ff01fe00fe04",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165853_1.jpg",
+      "distance256": 91
+    },
+    "publishedProductIds": [
+      "jif-creamy",
+      "kirkland-peanuts",
+      "southern-cocktail",
+      "southern-honey"
+    ],
+    "candidateProductIds": [
+      "southern-dry-roasted"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo 3.zip",
+    "member": "colo 3/IMG_20261009_165551_1.jpg",
+    "file": "IMG_20261009_165551_1.jpg",
+    "sha256": "b67c7e4a0e4ee7dfbcbe4b8347f43b98d9176bbd04eae0fbcc05e0d99268f2b4",
+    "bytes": 2645129,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "cd7cfe78fa787c392acbabcfabcaaad7b9cf59d07c90fcd0fcc0fe50fe20f480",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165853_1.jpg",
+      "distance256": 83
+    },
+    "publishedProductIds": [
+      "jif-creamy",
+      "kirkland-peanuts",
+      "southern-cocktail",
+      "southern-honey"
+    ],
+    "candidateProductIds": [
+      "southern-dry-roasted"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170237.jpg",
+    "file": "IMG_20261009_170237.jpg",
+    "sha256": "33f9a42aa6d3cccf0b4009ed27d122abaa0e7cb2d1bdf550fd139d9595945ca2",
+    "bytes": 3711565,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "6903850bc50b8672bc95bf951f559755d555d5559572b57835782f70cb00cb00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165407.jpg",
+      "distance256": 105
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "maggi-sazon",
+      "carmencita-salrosa",
+      "carmencita-sal3",
+      "carmencita-pimienta",
+      "carmencita-pimientas"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170241.jpg",
+    "file": "IMG_20261009_170241.jpg",
+    "sha256": "a9564e24f3c499356d95144859179776ea725247b506b3ac1e7f1f3e46a54754",
+    "bytes": 4055632,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "3319363bde33ff219f4497508d0e992c990c990c6d4064c2c0d2967afc0a9002",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165214.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "mccormick-montrealchicken",
+      "members-redpepper",
+      "members-thyme",
+      "kitano-basil",
+      "danos-original",
+      "badia-adobo"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170250.jpg",
+    "file": "IMG_20261009_170250.jpg",
+    "sha256": "1fba0701037452d66d7acc119d9ffdaa383eee0eb1bf68bf6697ec167fc93cd3",
+    "bytes": 3734761,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "406c661ce50c640c6004633e699ee91ce98c608c613d6067e4ceec1d38770a7f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165045.jpg",
+      "distance256": 107
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "worcestershire-leaperrins",
+      "kens-ranch",
+      "hot-sauce",
+      "italian-dressing",
+      "lime-juice",
+      "spray-oil",
+      "apti-basil"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170254.jpg",
+    "file": "IMG_20261009_170254.jpg",
+    "sha256": "cafb018dfc699b731ca3b47fcc7569091be5195a98456da91756bf6a97868c04",
+    "bytes": 3594826,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "f8cee892ab9289de98d89cdb8c98cc988e12667046615be1db90ff10ff00ff00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165913.jpg",
+      "distance256": 96
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "kingsford-lemon",
+      "badia-oregano",
+      "amanhecer-parsley",
+      "carmencita-marisco",
+      "carmencita-bbq",
+      "carmencita-picante",
+      "carmencita-pollo",
+      "apti-basil",
+      "carmencita-paella",
+      "colonna-ranch",
+      "supreme-black-pepper",
+      "carmencita-molinillo-pimienta"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170257.jpg",
+    "file": "IMG_20261009_170257.jpg",
+    "sha256": "c8032ccd93bd567d0fb093ed0c3ca4b9183d8d28186a7ce0ea0fcfd54c2f0171",
+    "bytes": 3439147,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "1b171f033303b105ff84fc9cfad870b87938d879387338e3f868fe69ff25fc04",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165247.jpg",
+      "distance256": 100
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "kingsford-lemon",
+      "badia-oregano",
+      "amanhecer-parsley",
+      "carmencita-marisco",
+      "carmencita-bbq",
+      "carmencita-picante",
+      "carmencita-pollo"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170303_1.jpg",
+    "file": "IMG_20261009_170303_1.jpg",
+    "sha256": "075d2d6192fb76fd1989aec0a4f1e3f2f9effbf2c71a25e4042c6ad4a3a87296",
+    "bytes": 3108641,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "26d026d536c076c821e405f43ad42af416f415d405e505f785f70f768bec91d6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165144.jpg",
+      "distance256": 102
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "varveio-balsamico",
+      "varveio-manzana",
+      "vima-vino-vinagre",
+      "milideas-vinagre"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170306_1.jpg",
+    "file": "IMG_20261009_170306_1.jpg",
+    "sha256": "0da02ed7e455a88c351062b2278111dde3f5187779d1dd527e39d2daf8e06bf7",
+    "bytes": 3888447,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "fec8ea93698a59c859c99da1a393a3c3a383a3a18389999cd918de8e5f06fcc6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165902.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "varveio-balsamico",
+      "badia-lemon",
+      "badia-mojo",
+      "badia-naranja",
+      "varveio-condimento",
+      "carbonell-balsamico",
+      "gourmet-vinagre"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170308_1.jpg",
+    "file": "IMG_20261009_170308_1.jpg",
+    "sha256": "3c19ed6b3e7b2d77e049f921e617c986fad054be6adcaf08717ca8841b9939a8",
+    "bytes": 3857732,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "7206384e3ac03b6c9bceb8dcf99ef19ff1fff27ef27ce300e30781e8f981d0e7",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165059_1.jpg",
+      "distance256": 107
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "badia-lemon",
+      "badia-mojo",
+      "badia-naranja",
+      "varveio-condimento",
+      "carbonell-balsamico",
+      "vinagre-blanco"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170311_1.jpg",
+    "file": "IMG_20261009_170311_1.jpg",
+    "sha256": "a23ba9e7bb03b5bfde7454b6f1bc338b4dcf34b83795bd5bc93f468c11924f37",
+    "bytes": 3315019,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "d3cbc9488908880e86668666966696698729c999cf99ad930932835e87ff8fff",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164921.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "hersheys-syrup"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170314.jpg",
+    "file": "IMG_20261009_170314.jpg",
+    "sha256": "33320ebe627b26454ba99030aaf34264a96f36862e0113680519976e3b73383d",
+    "bytes": 3339392,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "3626b73ef72d7f269bf09b799b79987164f925f025b4a53c342c94208010980c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_171633.jpg",
+      "distance256": 105
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "millville-butter-syrup",
+      "millville-lite-syrup",
+      "fresco-maple",
+      "vanilla-bottle",
+      "sirape-bottle",
+      "welchs-grape"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170320_1.jpg",
+    "file": "IMG_20261009_170320_1.jpg",
+    "sha256": "e7c01cf43bfc58b1e6a7bbd72ce2838d2be9321c3c37856fb23015250ebddf55",
+    "bytes": 3418658,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "98b1b883b686dd86d9b06f0c690c291c293ed43cd1dcdf94dd90940080000000",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165935.jpg",
+      "distance256": 100
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "helios-manzana",
+      "helios-ciruela-kiwi",
+      "helios-fresa-arandano",
+      "mermelada-amarilla",
+      "caramel-syrup",
+      "pampa-fruit-spread"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170330.jpg",
+    "file": "IMG_20261009_170330.jpg",
+    "sha256": "4b266ec53b243d173f64ce026609d39222a18ba8a4d2ea770775d2aa0055f467",
+    "bytes": 3474915,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "ec8824c6b4e4b21934c71355950f371d3f5a6f293ea836a93b259dd495b294f2",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164942_1.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "cafe-frasco",
+      "nescafe-small",
+      "nescafe-tasters",
+      "nescafe-clasico"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170333.jpg",
+    "file": "IMG_20261009_170333.jpg",
+    "sha256": "c24714c21efcae7789f8e4b57db361fc1926568ddec3533b768a47eb95be51cf",
+    "bytes": 3760457,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "bc52d932cc925c9356435cabde95d4f654965462e832ea266d3fed6c8e6e5662",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165309.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "cafe-frasco",
+      "coffeemate-frascos",
+      "coffee-mate-bolsa",
+      "splenda-small"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170336.jpg",
+    "file": "IMG_20261009_170336.jpg",
+    "sha256": "f62e7903c666bd64193923c457c21aa942ccd0e04499a903a2ba2afeedcfb832",
+    "bytes": 3770434,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "cfcc48f9fd0bd321dbc2d96bd9099902992249c26d915b0c5b487fd37367646a",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165920.jpg",
+      "distance256": 96
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "coffee-mate-bolsa",
+      "coffee-sebraz-250",
+      "coffee-sebraz-other",
+      "coffee-mcdaniels",
+      "coffee-whitener"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170341.jpg",
+    "file": "IMG_20261009_170341.jpg",
+    "sha256": "6d1d1389e678827e634aa1d86e3a05fc7de616dcee4dd899f3f06383e6db7bbd",
+    "bytes": 3658198,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "e392eb98ddace305a313b3037309e309b308b18d930cf31c061d3e3cfc7cfcf8",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165247.jpg",
+      "distance256": 100
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "coffee-sebraz-250",
+      "coffee-dark-bag"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170346_1.jpg",
+    "file": "IMG_20261009_170346_1.jpg",
+    "sha256": "af0c04020265015239563b5ac9330fe10633afafae36d9c0f329cad951055d66",
+    "bytes": 3073063,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "f1ccc29dc691b521aa31aa1b2a192a092b28e738e730f730733d7b346f306db6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165407.jpg",
+      "distance256": 108
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "nesquik-choco-tin",
+      "nesquik-straw-tin"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170351.jpg",
+    "file": "IMG_20261009_170351.jpg",
+    "sha256": "03c556d929e86ff8c86bc19ac3573e2c19b1cf61fc917bacda4a6187eaa02146",
+    "bytes": 4276306,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "edc2edc447616969fb48c14aa84adc0f9c2c3b0e8c6ef86d704e386639032b3f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165203.jpg",
+      "distance256": 107
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "colacao-original",
+      "colacao-turbo",
+      "nesquik-choco-bag"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170358.jpg",
+    "file": "IMG_20261009_170358.jpg",
+    "sha256": "e6d82d4ef50d90e8878e2c96790ccd930fb2b17142ad6d6e84438fde2e395025",
+    "bytes": 3838991,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "273a39aad9bcc8d4c8536d52ec50a368d751f4536077b0e5f8feb87bb87db07c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165345.jpg",
+      "distance256": 107
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "chocolisto-choco",
+      "chocolisto-straw",
+      "cacao-black"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170402.jpg",
+    "file": "IMG_20261009_170402.jpg",
+    "sha256": "9401ee203229d9145e4974e5027f6282e3bb2c3dad9e27b3bc538e468ed72111",
+    "bytes": 3856643,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "da48fac8dcc84f40cc48cc68c96ce327c3b4c794c69cd798cf186b587f487fa8",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164918_1.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "chocolisto-choco",
+      "cacao-black",
+      "cacao-brown"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170404.jpg",
+    "file": "IMG_20261009_170404.jpg",
+    "sha256": "2b15e390f65851cfb2c76ec86227d0d145bf77d609c2a175259279921f396c1a",
+    "bytes": 3920366,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "e8ee258cc804a8871323a6a353e119e1193158b4b9cc18da3e623cfc3ce0f820",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165853_1.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "te-limon",
+      "te-manzanilla",
+      "te-hierbabuena"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170406_1.jpg",
+    "file": "IMG_20261009_170406_1.jpg",
+    "sha256": "941995ca77addd61aaebfc45afaa029b00b9de1470520e1bc57f03ea7bd52c7d",
+    "bytes": 4051471,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "138b8c0bdd53cb51e279078193809bc4b1c7b9c6f946ee06e7c6dacfda594cbc",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165148.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "te-manzanilla-jengibre",
+      "te-manzanilla-arandano",
+      "vima-albondigas-lata"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170410_1.jpg",
+    "file": "IMG_20261009_170410_1.jpg",
+    "sha256": "904ff0269916640b5c41b2c4a7f83e5294e0e6e4c488790c500cdf94e319a885",
+    "bytes": 3253319,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "aa09e207910fb0e0c7c8de31fa037e1d66cbe61dc6ecc6faf1f0f1b3b39ebb8e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165059_1.jpg",
+      "distance256": 99
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vima-albondigas-lata",
+      "plumrose-lata",
+      "novo-lata"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170417.jpg",
+    "file": "IMG_20261009_170417.jpg",
+    "sha256": "e23067faa6266f2ee51743b7a1ff09df2502f9fbe18adffe9c8db415c06f48b1",
+    "bytes": 3452575,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "3a3378216d097539727928f31aa756bfcadfc8eef6ced60cdf0cdf00ff00fe00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165407.jpg",
+      "distance256": 97
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "peanut-cookies-18",
+      "trasto-rollos",
+      "candy-green-bottle"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170421.jpg",
+    "file": "IMG_20261009_170421.jpg",
+    "sha256": "a12b6c6d8ca0573fcd69adbd7948977522e182c2a8267d3f8cc8d43298be47f1",
+    "bytes": 2873472,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "9dc2e68987d981d381c301bb078d035903a91a859b8c8e85ce83ced5c715ef45",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165627_1.jpg",
+      "distance256": 102
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "britannia-biscafe",
+      "gourmet-double"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170428_1.jpg",
+    "file": "IMG_20261009_170428_1.jpg",
+    "sha256": "04dab180324e6c286883660a7c6fbb20cefc17ac8d2f7bc0a49db3b87996f648",
+    "bytes": 2777034,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "83cc12cf3d1f758e71e4f4e4b2dc33f4b8b1b8d618f9d9d959d44cd44d565156",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165144.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "gourmet-double"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170440_1.jpg",
+    "file": "IMG_20261009_170440_1.jpg",
+    "sha256": "b126b7f1c98ab9c230b29b8ce024af2c7e6749299a3780acf72c62bc5189e797",
+    "bytes": 2525468,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "04370237831f061f8225c225c2a5c2554d75090d094da2cca34cb320f260f370",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165214.jpg",
+      "distance256": 98
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "supremos-packet",
+      "ricoss-280"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170447_1.jpg",
+    "file": "IMG_20261009_170447_1.jpg",
+    "sha256": "3f5b592ca430473f83bc5e7e50e645381f7fd2622e99aef4e74fafe4b67e049d",
+    "bytes": 2936036,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "5e20f420fc30b424f8a6b807984290323039e033f9070b840c65864de0c9f45b",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165743_1.jpg",
+      "distance256": 108
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "fruit-straw-45"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170501.jpg",
+    "file": "IMG_20261009_170501.jpg",
+    "sha256": "391b8a9114d31109ec2f75aeef919c35309a91696f56a65d8d718221e81567bc",
+    "bytes": 3727587,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "3d363cb63437132783278a170e130647845b951393530b0b1b23158d846cc64c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164918_1.jpg",
+      "distance256": 105
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "supremos-packet",
+      "ricoss-280",
+      "trident-1350",
+      "extra-gum",
+      "five-gum"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170504.jpg",
+    "file": "IMG_20261009_170504.jpg",
+    "sha256": "879eaabaa46464654f0b4cb81a3bab55a3934771ab7d15e098b3a223142ede90",
+    "bytes": 3788902,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "6c9ec6b1527129d91e599a4d892c8a4dc249c68d8704c330c707c24acc4284da",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165214.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "trident-1350",
+      "extra-gum",
+      "five-gum"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170518.jpg",
+    "file": "IMG_20261009_170518.jpg",
+    "sha256": "48a180b458377fb44f8414658f7502453e9cfa27e7c0f817495247c18e2a5c48",
+    "bytes": 3056317,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "37073f071f470c1bf68a779865c46cc0bec0fe81df83ff82fe02fe00fe007e00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165642_1.jpg",
+      "distance256": 90
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "bauducco-wafer-straw",
+      "bauducco-wafer-choco"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170532.jpg",
+    "file": "IMG_20261009_170532.jpg",
+    "sha256": "b750d303e4448c4a822ab0633a49c974ac63029a6e2df45e805d3174c16d48c6",
+    "bytes": 3277572,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "93f7b005bcd13c503a307b983cc83d6430443e603e78784038501ec002c001f8",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165705_1.jpg",
+      "distance256": 102
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "bauducco-maria"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170540.jpg",
+    "file": "IMG_20261009_170540.jpg",
+    "sha256": "707d9b300eb4f75d6e3133042ab388aefbccb4e3205365528b013f2a0696ee1a",
+    "bytes": 3446102,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "5a5a635a2f7a31ca767ab63995a4ae9ff62ae23642b0c22e4f3c8024df04fff2",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165004.jpg",
+      "distance256": 109
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "berry-croco",
+      "morgin-coconut",
+      "quaker-fruitcream"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170543_1.jpg",
+    "file": "IMG_20261009_170543_1.jpg",
+    "sha256": "6698af3f00e9cad45849c59376d92f72a1e56f32dd9fe930486002138c63742e",
+    "bytes": 3139229,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "ef9be4d709d73459603861d9eddeecb0dc946d464c56cc529e50dc35e067fc60",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165203.jpg",
+      "distance256": 107
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "kitkat-minis",
+      "cocoa-pebbles-cup",
+      "honeybunches-cup",
+      "frostedflakes-cup"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170548.jpg",
+    "file": "IMG_20261009_170548.jpg",
+    "sha256": "1a06b5e7c11a6d9ca23f732ef18229cb9a79b69de5759ac66b83cdbf275b18b0",
+    "bytes": 4223268,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "8dd78f47314373dfe6396f2c648ce72cc929c96bef63f922bb27bba6bb00f800",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165004.jpg",
+      "distance256": 97
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "frostedflakes-cup",
+      "cheerios-cup",
+      "ricekrispies-mini",
+      "pops-mini",
+      "miniwheats-mini"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170550.jpg",
+    "file": "IMG_20261009_170550.jpg",
+    "sha256": "0d9ebfdd9b892b5cea972f87c291459f49114d3c34034150350bff7211abc947",
+    "bytes": 3992584,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "5a145a7c4b6b5ac018cb1866008e14aaa49accf6c4f6e0d600e649b64366421e",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165207.jpg",
+      "distance256": 105
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "carrs-assortment"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170554.jpg",
+    "file": "IMG_20261009_170554.jpg",
+    "sha256": "28b728f155232a9ca717dec2818764b2f2acca4053805221b69fc6fb0ce204e8",
+    "bytes": 4374408,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "47e44326e33365301d11a329f229d661f631973dd723f72ff425f039f008c009",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164918_1.jpg",
+      "distance256": 100
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "nerds-clusters",
+      "toblerone"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170556.jpg",
+    "file": "IMG_20261009_170556.jpg",
+    "sha256": "2f114bfebf849229666c65b115d3059dc26e3032d31a686fd9a28dfe9f09a165",
+    "bytes": 3554156,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "f08e950f9d2f9c36cf96178e6f4c8f088e0a6caef834678f73877204501e5416",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165856_1.jpg",
+      "distance256": 100
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "mms-sharebag",
+      "hersheys-nuggets",
+      "reeses-bar",
+      "reeses-pieces"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170600.jpg",
+    "file": "IMG_20261009_170600.jpg",
+    "sha256": "598e082855a5b1670b60a03d0d5a85a6cc416f0dcd4f196536651602fcf7139f",
+    "bytes": 3881968,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "3e5ad252c6c2f6c033d19913f36bf65b3e5b8e3bfe1ce45cf05e801e15b3daec",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165211.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "mms-caramel-bag",
+      "mms-honey-bag",
+      "mms-milk-jar",
+      "mms-peanut-jar"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170603.jpg",
+    "file": "IMG_20261009_170603.jpg",
+    "sha256": "8cf6d7d83c1a5be96477e1a00673fc10bd731684e9598088e5504970f2fcf700",
+    "bytes": 3834273,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "62a573a53f8d0d8134a5b7a9e735e735b735f6a54b8d19adc72dc3a1e371cb39",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165656.jpg",
+      "distance256": 108
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "mms-milk-jar",
+      "mms-peanut-jar"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170609.jpg",
+    "file": "IMG_20261009_170609.jpg",
+    "sha256": "2c9a63307236e730cd4e0e2908110793a9735dd02ab757560e50a506aeaac53e",
+    "bytes": 3860070,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "09ecc6ccc498de19ccb38ee7d2664b445b80dd296c317c9e6c49670fa307e44f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165123_1.jpg",
+      "distance256": 105
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "bentons-mint-cookies",
+      "bentons-original-cookies",
+      "bentons-hazelnut",
+      "bentons-keylime",
+      "bentons-lemon"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170614.jpg",
+    "file": "IMG_20261009_170614.jpg",
+    "sha256": "66e9b0387f9c6646a0b3990d94f133b0da794c097e3dba0d5b30f333ff930f76",
+    "bytes": 4303741,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "7948b4f064336ff9fb1919193d197ad9fad9fe06f68f938399c118e687e7986f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165203.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "bentons-keylime",
+      "bentons-coconut",
+      "members-cookie-thins"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170618.jpg",
+    "file": "IMG_20261009_170618.jpg",
+    "sha256": "893dac4b4bae280fc26c10b95118df2c65fd50166a2c656300a236ebc3ff2422",
+    "bytes": 4189232,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "37263f237b037cc4dcc9fe4bea4be499f5adf585b407f69b6c59195e089ecca7",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165321.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "members-cookie-thins",
+      "milano-double",
+      "oreo-snack"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170623.jpg",
+    "file": "IMG_20261009_170623.jpg",
+    "sha256": "df682b865644ff026ff19dd8b1e403505c2fe282682d70345b36385a69949ee7",
+    "bytes": 4381014,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "fcc17e45364392638e67de0f934f5336936692169e14198d29db89d03e6c0ce6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165019_1.jpg",
+      "distance256": 101
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "oreo-snack",
+      "oreo-choco-box",
+      "oreo-chocofill-box",
+      "oreo-roll"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170626.jpg",
+    "file": "IMG_20261009_170626.jpg",
+    "sha256": "731c5cfaa162a96221c303518546fc7cb23aadfaff74d1a04a68e94e66b2ca2e",
+    "bytes": 3679390,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "65c1478863883bce5fc8fa8dbd9cfaccc54af14ad942e1d292d3e2d3ea99729c",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165956.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "oreo-roll"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170629.jpg",
+    "file": "IMG_20261009_170629.jpg",
+    "sha256": "18b7a755a1cb4277cf61a9c38434530f98b546c468f1b24aea54acdc2f154120",
+    "bytes": 4289228,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "4d9b4cff67686700649374d5f495b493b4c5fe41de53f262f359f299f372e1d3",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165257.jpg",
+      "distance256": 105
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "chipsahoy",
+      "lotus-biscoff"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170633.jpg",
+    "file": "IMG_20261009_170633.jpg",
+    "sha256": "6f28d355ca61bedbdb63e7e769b7646da7d3dfaa101576b324c23af5b84e9fe9",
+    "bytes": 4030100,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "de60ca43c641c8501a403ac819cdbb831d3e65b8cf94ad80eb844a0f8f9d8c98",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165148.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "lemoncreme-cookie",
+      "vanillacreme-cookie",
+      "duplex-cookie",
+      "vanilla-sandwich"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170637.jpg",
+    "file": "IMG_20261009_170637.jpg",
+    "sha256": "bddb4fde594dd6f7c16959acb767aa8f36cc89813cc71332ef83698ff93d0247",
+    "bytes": 3788351,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "0e6a0f6e07aecb86c193f0537b11eb84eb8db79ccfb3635366d1e5913f91ef00",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165840.jpg",
+      "distance256": 103
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "oatmeal-cookie",
+      "chocochip-cookie",
+      "almond-windmill"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170640.jpg",
+    "file": "IMG_20261009_170640.jpg",
+    "sha256": "dfa91cc631d9dc90b4b54f61659f6e43d75e1d0c7ca95e4683a9a69cb525a02c",
+    "bytes": 3796073,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "199b9339173d493de10369413a553cc53dd19fcc9d4c99ccd364be64ce26ce06",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165200.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "oatmeal-cookie",
+      "chocochip-cookie"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170642.jpg",
+    "file": "IMG_20261009_170642.jpg",
+    "sha256": "6416a694551230a02fbfe434e42610545797932d2337ac57ba9bf107f7ceeeab",
+    "bytes": 4377895,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "6972e92268a7f6eb52897df119d433dc339ce3996b196b9007580eeb79eb61e9",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165959.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "fresko-butter",
+      "fresko-cappuccino",
+      "fresko-coffee"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170645.jpg",
+    "file": "IMG_20261009_170645.jpg",
+    "sha256": "429b44b9955d763c53633ec1912bdaab9a5c5348e340f23e09a58c4140c6a600",
+    "bytes": 4313172,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "a72a4984a5207e83f8248979bc63748c6c189c148e84ff08eec07f81bb20ab22",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165705_1.jpg",
+      "distance256": 100
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "kitkat-16",
+      "choco-variety14",
+      "cadbury-bar",
+      "simply-coconut-clusters"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170649.jpg",
+    "file": "IMG_20261009_170649.jpg",
+    "sha256": "d49233f8554c3c5121da978f2c238c5f8eecfddbbbbc34e9fd2c1c7b4922f6cc",
+    "bytes": 4975437,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "d4929a58dc50ec99ce1c767849e098c87985cb05cebd3660332499d9ccc95e89",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165337.jpg",
+      "distance256": 105
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "choco-variety14",
+      "cadbury-bar",
+      "simply-coconut-clusters",
+      "crepel-bar",
+      "todeschini-picapau"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170653.jpg",
+    "file": "IMG_20261009_170653.jpg",
+    "sha256": "76f6eb11b30fb4b5463da9bc36306f39d7105a817e03d1767c0765bae417b130",
+    "bytes": 4839634,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "6549ad405d91680744fefed28b538e43ac72e872ef3be73e3760376d265fe64f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165110_1.jpg",
+      "distance256": 104
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "todeschini-picapau"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170704_1.jpg",
+    "file": "IMG_20261009_170704_1.jpg",
+    "sha256": "125f16806b76912570597fbabb5ed660d3bc9ec28670c6e64f4817ebec1a3942",
+    "bytes": 3187305,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "f566fd26b7079787e727c767f227f307f507c507ad06f187d3875ac158c8cf08",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165916.jpg",
+      "distance256": 102
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vima-ensaladilla"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170715.jpg",
+    "file": "IMG_20261009_170715.jpg",
+    "sha256": "573b6f21b193075841862d5d54bbc8d922d6c1fffa8e7f17b1e0c35ea0fdc27e",
+    "bytes": 3392735,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "338d3b8d03cc430e7f0e7b8b598e6b8a599e7b0f3b2f3b0f7f8f5f8ff1877307",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165045.jpg",
+      "distance256": 95
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vima-ensaladilla",
+      "vima-maiz-frozen"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170826_1.jpg",
+    "file": "IMG_20261009_170826_1.jpg",
+    "sha256": "f6cd76fd31673c64de50b47293afe6425bf8150d040da4207a58c82e007b6211",
+    "bytes": 3301258,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "30ee37e235f034b51726166c94669ec69cc69e469e628e609c6498d918c299c2",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165138.jpg",
+      "distance256": 98
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vima-maiz-frozen"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170831.jpg",
+    "file": "IMG_20261009_170831.jpg",
+    "sha256": "6f7a57bc436877588ad58f0a0e7e67a7974513320da306675218531253a64cfd",
+    "bytes": 3083518,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "e609e703e602e622e6726432f64cfa4cda88f80070007800ec451c3649e2e5e2",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164921.jpg",
+      "distance256": 96
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vima-maiz-frozen"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170834_1.jpg",
+    "file": "IMG_20261009_170834_1.jpg",
+    "sha256": "f85714316faf38535a179bd2fa4f27bd37b1bcc2a3023aff90862f62a080945d",
+    "bytes": 3362574,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "ccc3cc92dc92ce03ce8aee05fb03f202cf14c757c746cc8ace13f646f216cd66",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165203.jpg",
+      "distance256": 97
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vima-maiz-frozen",
+      "dor-coles"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170838.jpg",
+    "file": "IMG_20261009_170838.jpg",
+    "sha256": "c9437dcf6c930c1835cc5e7827c8b349cf69f9b46b7bf4f59962ef4ae8f94125",
+    "bytes": 3602960,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "ff06b994b325bb29b115992fdd17dc07dc01dc8bcd9ec9bfd827dc27de44cc04",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165913.jpg",
+      "distance256": 102
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "dor-coles"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170846.jpg",
+    "file": "IMG_20261009_170846.jpg",
+    "sha256": "f5ceb6bff44dca3488c7064c12d6ae1987fcc98edb32c97182a9ab351016501d",
+    "bytes": 3302146,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "e15871532dc3c7e9cf618fc38dc3afe3ebcbaf89cc1bcccfeb0fbe0fb18628e6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165856_1.jpg",
+      "distance256": 102
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "cvale-nuggets"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170848.jpg",
+    "file": "IMG_20261009_170848.jpg",
+    "sha256": "d24e173924963129ead161e3253dc2b0f36ace8d1c842bc16784ea2fe0a585a3",
+    "bytes": 3148546,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "14c4d105d861d82159714971d1f171bb71da31f2325cdfddb073b064ccd034d2",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165055_1.jpg",
+      "distance256": 108
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "cvale-nuggets"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170851_1.jpg",
+    "file": "IMG_20261009_170851_1.jpg",
+    "sha256": "0bae1bc3936a85f0917f11408c492f6cb58386f9bb004dc7fbd4df033a22d192",
+    "bytes": 2907072,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "eec4ca62c67fe739e781f7c677d27701e622f326df00d9806c006401580058c6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165916.jpg",
+      "distance256": 95
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "eurofrits-papas"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170855.jpg",
+    "file": "IMG_20261009_170855.jpg",
+    "sha256": "72aea4dc4425b284aed58dc49695183b58e19b3e8d3e8c709d63ab97bdf24e55",
+    "bytes": 3552974,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "fc07c0139e839c839e039d039d039e239e139c029c188e909e02810aa17081d9",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165019_1.jpg",
+      "distance256": 94
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "eurofrits-papas"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170903_1.jpg",
+    "file": "IMG_20261009_170903_1.jpg",
+    "sha256": "a50bc8a13391d470a6b660f18c743a6216189818af6f6710b7323a4b2026463f",
+    "bytes": 3108898,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "cabecd4ec7aca7cfab8b331a0b3c466f464f676f8a3f86718e70867222fe39be",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165120.jpg",
+      "distance256": 112
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "driedapple",
+      "takis-fuego",
+      "kars-mix"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170906_1.jpg",
+    "file": "IMG_20261009_170906_1.jpg",
+    "sha256": "28b808011799e0289ab0d00cef698ce60fec88f6a9ed9bf537ba14e32acc227f",
+    "bytes": 3692737,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "e30ae305610584c5e4c3e047e065e065e483c21e83868386f34db34d0119091b",
+    "perceptualMatch": {
+      "file": "IMG_20261009_164921.jpg",
+      "distance256": 92
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "takis-fuego",
+      "kars-mix"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170909_1.jpg",
+    "file": "IMG_20261009_170909_1.jpg",
+    "sha256": "cedd16fe0b8b5bf01b7598dded652b389eac57dfdf86eba358f0bd14bbfc186d",
+    "bytes": 3293723,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "d3e7a9e772c0d5e9b1ccf0dc63d827c4a4dca4dc94c49365032f679fe71f413f",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165144.jpg",
+      "distance256": 110
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "driedapple",
+      "takis-fuego"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170911_1.jpg",
+    "file": "IMG_20261009_170911_1.jpg",
+    "sha256": "cf15f969302917bdf2bad5ccd876afbd91c6facbb35afdc4da81503300d9d954",
+    "bytes": 3144452,
+    "dimensions": [
+      3120,
+      4160
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "79be7988e9aef0bcf2597263821be274d25ed25ef2dcf2fb979a8f8f8fc3a7fc",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165313.jpg",
+      "distance256": 106
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "driedapple",
+      "thatsit-crunch"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170930.jpg",
+    "file": "IMG_20261009_170930.jpg",
+    "sha256": "e49afe584233a5ff8e693f2cf566e961488921b8cc3a77b2a0b3eeb942801870",
+    "bytes": 2901986,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "06578e168ce206803649d60cd60ace0c4a14ca148ed48cd0fc85f604ec00dc03",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165916.jpg",
+      "distance256": 96
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "juve-solo-vida",
+      "gran-juve-camps"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170941.jpg",
+    "file": "IMG_20261009_170941.jpg",
+    "sha256": "3406aa1b554bfa510c02f2160880cf022187fb829866e26fca7889846761ef11",
+    "bytes": 3329586,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "ad34d624747dbdfba35104d074d144c914e954eb54e954e954e864eaacee24a6",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165824_1.jpg",
+      "distance256": 97
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vallformosa-gala-white",
+      "vinaesmeralda-sparkling",
+      "misting-brut"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170943_1.jpg",
+    "file": "IMG_20261009_170943_1.jpg",
+    "sha256": "7913e15e256ffe31285598eb2c82405cd01a9c1996ddce75c7ddb7df7d5fd798",
+    "bytes": 3496339,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "65b255929590972576d966d964332a07a69b2c0b2c8b66db3ddb4cb344b34693",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165656.jpg",
+      "distance256": 100
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vallformosa-gala-white",
+      "vallformosa-gala-rose"
+    ],
+    "priorPendingIds": []
+  },
+  {
+    "zip": "colo2.zip",
+    "member": "colo2/IMG_20261009_170948_1.jpg",
+    "file": "IMG_20261009_170948_1.jpg",
+    "sha256": "8ef4aed8fec84d8e83551c62999e5fc362842e80498c13015d83c9a8135961ed",
+    "bytes": 3242380,
+    "dimensions": [
+      4160,
+      3120
+    ],
+    "status": "new-photo",
+    "reviewStatus": "visually-inspected-contact-sheet-and-selected-details",
+    "dhash256": "ad8b1e8f4637d4335e4fd2d2d25ad61dd657d255d65b96cad2cad6dad65a12ca",
+    "perceptualMatch": {
+      "file": "IMG_20261009_165106_1.jpg",
+      "distance256": 102
+    },
+    "publishedProductIds": [],
+    "candidateProductIds": [
+      "vallformosa-cava-rose",
+      "vallformosa-cava-brut",
+      "vallformosa-cava-ice"
+    ],
+    "priorPendingIds": []
   }
 ]

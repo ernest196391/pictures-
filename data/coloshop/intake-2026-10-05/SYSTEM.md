@@ -29,3 +29,8 @@
 ## Alcance de esta entrega
 
 Es una base de datos y especificación para continuar el sistema. No implementa todavía el importador de escritorio, venta por peso, inventario físico ni panel de corrección. Los CSV/JSON están listos para usar como insumos de esos módulos. La tienda publicada conserva su catálogo anterior.
+
+
+## Cierre de los cuatro ZIP
+
+Importación idempotente por SHA256 y nombre, con coincidencia perceptual para reencodificaciones. Guardar relación foto-producto y evidencia separada del precio. Bloquear publicación de familias sin separar y coincidencias posibles; confirmar unidad de venta (sobre, bolsa, caja, kilogramo) y presentación. Mantener precios compartidos o borrosos como candidatos, nunca como precio fijo. Separar auditoría, aprobación de imagen y publicación. Para comprobar fotos faltantes en la PC se necesita un listado de esa carpeta;297 archivos recibidos no prueban cobertura de una carpeta no accesible.
