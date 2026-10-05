@@ -2,68 +2,58 @@
   {
     "batch": "queue-001",
     "products": [
-      "wonderful-vinegar",
       "albondigas-cerdo",
       "almond-windmill",
-      "amanhecer-whitepepper",
-      "apti-basil",
-      "arroz-alfinete",
       "arroz-blanco-bolsa",
       "badia-adobo",
       "badia-lemon",
       "badia-mojo",
       "badia-naranja",
-      "bauducco-maria",
-      "bauducco-wafer-straw",
       "bentons-hazelnut",
       "bentons-keylime",
       "bentons-original-cookies",
       "berry-croco",
-      "bettergoods-granola",
       "bolitas-queso",
-      "bravo-jamon-barra"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-002",
-    "products": [
+      "bravo-jamon-barra",
       "bravo-jamon-cocido",
       "bravo-jamon-york",
       "bravo-mortadela",
       "bravo-pasta-boca",
       "britannia-biscafe",
       "cacao-black",
-      "cacao-brown",
-      "cadbury-bar",
-      "caramel-syrup",
-      "carbonell-balsamico",
-      "carmencita-paella",
-      "carrs-assortment",
-      "cello-variety",
-      "chefscupboard-buterry",
-      "chipsahoy",
-      "choco-variety14",
-      "chocochip-cookie",
-      "chocolisto-choco",
-      "chocolisto-straw",
-      "coffee-dark-bag"
+      "cacao-brown"
     ],
     "status": "planned"
   },
   {
-    "batch": "queue-003",
+    "batch": "queue-002",
     "products": [
+      "cadbury-bar",
+      "caramel-syrup",
+      "carbonell-balsamico",
+      "carrs-assortment",
+      "cello-variety",
+      "chefscupboard-buterry",
+      "choco-variety14",
+      "chocochip-cookie",
+      "chocolisto-choco",
+      "chocolisto-straw",
+      "coffee-dark-bag",
       "coffee-mate-bolsa",
       "coffee-mcdaniels",
       "coffee-sebraz-250",
       "coffee-whitener",
       "colacao-original",
       "colacao-turbo",
-      "colonna-ranch",
       "cookies-bulk",
       "crepel-bar",
-      "crispy-jalapeno",
+      "crispy-jalapeno"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-003",
+    "products": [
       "cvale-nuggets",
       "danos-original",
       "dor-coles",
@@ -73,13 +63,7 @@
       "fresko-butter",
       "fresko-cappuccino",
       "fresko-coffee",
-      "gourmet-double"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-004",
-    "products": [
+      "gourmet-double",
       "gourmet-vinagre",
       "gv-bacon-bits",
       "gv-protein-granola",
@@ -89,7 +73,13 @@
       "hersheys-syrup",
       "hormel-bacon",
       "italian-dressing",
-      "jojos-almond",
+      "jojos-almond"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-004",
+    "products": [
       "kens-ranch",
       "kitano-basil",
       "kitkat-16",
@@ -99,13 +89,7 @@
       "lotus-biscoff",
       "maggi-sazon",
       "maicena-450",
-      "mantias-parmesan"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-005",
-    "products": [
+      "mantias-parmesan",
       "marchi-salt",
       "mccormick-montrealchicken",
       "mccormick-montrealsteak",
@@ -115,7 +99,13 @@
       "members-redpepper",
       "members-thyme",
       "mermelada-amarilla",
-      "milano-double",
+      "milano-double"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-005",
+    "products": [
       "milideas-vinagre",
       "mms-honey-bag",
       "mms-peanut-jar",
@@ -125,13 +115,7 @@
       "nescafe-small",
       "nescafe-tasters",
       "nesquik-choco-bag",
-      "nesquik-choco-tin"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-006",
-    "products": [
+      "nesquik-choco-tin",
       "nesquik-straw-tin",
       "nestia-plantain",
       "oreo-choco-box",
@@ -141,7 +125,13 @@
       "organic-coconut-flour",
       "pate-bandeja",
       "peanut-cookies-18",
-      "president-camembert",
+      "president-camembert"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-006",
+    "products": [
       "ragu-garlic",
       "raviolis",
       "reeses-bar",
@@ -151,14 +141,7 @@
       "santa-lasagna",
       "simply-coconut-oil",
       "simply-flax",
-      "simply-quinoa"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-007",
-    "products": [
-      "supreme-black-pepper",
+      "simply-quinoa",
       "takis-fuego",
       "te-manzanilla-jengibre",
       "thatsit-crunch",
@@ -168,7 +151,13 @@
       "trader-vanilla",
       "trident-1350",
       "trigo-bolsa-1kg",
-      "trigo-gloria",
+      "trigo-gloria"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-007",
+    "products": [
       "tuscan-caesar",
       "vanilla-sandwich",
       "varveio-balsamico",
@@ -177,13 +166,7 @@
       "vima-maiz-frozen",
       "vima-vino-vinagre",
       "vinagre-blanco",
-      "wapa-butifarra"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-008",
-    "products": [
+      "wapa-butifarra",
       "wapa-chorizo",
       "welchs-grape",
       "white-bulk",
@@ -194,7 +177,13 @@
       "armageddon",
       "ballantines",
       "beefeater",
-      "carafiestas",
+      "carafiestas"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-008",
+    "products": [
       "celeste-verdejo",
       "ciroc",
       "cristal-botella",
@@ -203,13 +192,7 @@
       "glenlivet-founders",
       "gordons",
       "gran-juve-camps",
-      "havana-3"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-009",
-    "products": [
+      "havana-3",
       "havana-especial",
       "havana-maestros",
       "havana-profundo",
@@ -220,7 +203,13 @@
       "jagermeister-700",
       "jameson",
       "jodhpur-londondry",
-      "jodhpur-mandore",
+      "jodhpur-mandore"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-009",
+    "products": [
       "jodhpur-reserve",
       "jodhpur-spicy",
       "juve-solo-vida",
@@ -229,13 +218,7 @@
       "jw-redlabel",
       "legendario",
       "molinari",
-      "offley-white"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-010",
-    "products": [
+      "offley-white",
       "olmeca-reposado",
       "pacto-navio",
       "planta-santa",
@@ -246,7 +229,13 @@
       "santacarolina-rose",
       "santacarolina-sauvignon",
       "santiago-11",
-      "santiago-12",
+      "santiago-12"
+    ],
+    "status": "planned"
+  },
+  {
+    "batch": "queue-010",
+    "products": [
       "santiago-8",
       "santiago-anejo",
       "santiago-blanca",
@@ -255,13 +244,7 @@
       "suau-15",
       "suau-8",
       "sunny-tamarind",
-      "tanqueray"
-    ],
-    "status": "planned"
-  },
-  {
-    "batch": "queue-011",
-    "products": [
+      "tanqueray",
       "taoro-guayaba",
       "unlaguer-330",
       "vallformosa-cava-brut",
@@ -271,23 +254,18 @@
       "vina-esmeralda",
       "vinasol",
       "water-blue",
-      "davia-passata",
       "novo-lata",
-      "ourhouse-tomato",
-      "plumrose-lata",
-      "prego-traditional",
-      "tagliamonte-pomodoro",
-      "tomate-triturado",
-      "vima-albondigas-lata",
-      "biena-edamame",
-      "kirkland-almonds",
-      "kirkland-cashews"
+      "plumrose-lata"
     ],
     "status": "planned"
   },
   {
-    "batch": "queue-012",
+    "batch": "queue-011",
     "products": [
+      "tomate-triturado",
+      "vima-albondigas-lata",
+      "biena-edamame",
+      "kirkland-almonds",
       "kirkland-keto-mix",
       "kirkland-salted-mixed",
       "kirkland-trail-28",
@@ -302,17 +280,13 @@
       "southern-pistachios-unsalted",
       "southern-pumpkin",
       "wonderful-chocolate",
-      "wonderful-dill",
-      "wonderful-lightly",
-      "wonderful-pepper-shell",
       "wonderful-roasted-227",
-      "wonderful-sweetchili",
       "roinat-puppy"
     ],
     "status": "planned"
   },
   {
-    "batch": "queue-013",
+    "batch": "queue-012",
     "products": [
       "millville-oats-honey",
       "southern-dry-roasted",
@@ -338,7 +312,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-014",
+    "batch": "queue-013",
     "products": [
       "bravo-bacon-bloque",
       "bravo-salami",
@@ -364,7 +338,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-015",
+    "batch": "queue-014",
     "products": [
       "delcampo-garbanzos",
       "duplex-cookie",
@@ -390,7 +364,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-016",
+    "batch": "queue-015",
     "products": [
       "hot-sauce",
       "italpasta-fettuccine",
@@ -416,7 +390,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-017",
+    "batch": "queue-016",
     "products": [
       "oli-uva",
       "pampa-fruit-spread",
@@ -442,7 +416,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-018",
+    "batch": "queue-017",
     "products": [
       "spanish-rice",
       "splenda-small",
@@ -468,7 +442,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-019",
+    "batch": "queue-018",
     "products": [
       "actoner-mint",
       "alident-kids",
@@ -494,7 +468,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-020",
+    "batch": "queue-019",
     "products": [
       "magali-ambar",
       "magali-coco",
@@ -520,7 +494,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-021",
+    "batch": "queue-020",
     "products": [
       "ultra-deluxe-floral",
       "viking-active",
@@ -546,7 +520,7 @@
     "status": "planned"
   },
   {
-    "batch": "queue-022",
+    "batch": "queue-021",
     "products": [
       "water-whitecap",
       "sonatural-pesto",

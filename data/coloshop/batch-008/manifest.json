@@ -1,0 +1,16 @@
+{
+  "batch": "008",
+  "published": true,
+  "stage": "published",
+  "products": 20,
+  "approvedImages": 20,
+  "generationCalls": 21,
+  "remainingReviewRecords": 413,
+  "originalSourceBlock": null,
+  "verification": {
+    "tests": "20 passed",
+    "build": "passed",
+    "production": "READY; live catalog 173 products; Wonderful images loaded; Dill Pickle cart subtotal 17000 CUP verified"
+  },
+  "deploymentId": "dpl_5kjxbo2qS4HGbAB8gXYyZs45s98L"
+}
