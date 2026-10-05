@@ -1,9 +1,5 @@
-# Continuación del catálogo
+# Revisión del dueño
 
-183 productos publicados. 403 registros pendientes incluyen familias, variantes y posibles coincidencias; no equivalen a 403 productos finales.
+477 productos publicados en 10 categorías. Las 297 fotos de los 4 ZIP están recuperadas y revisadas. No quedan lotes de fotos por procesar.
 
-Los cuatro archivos originales están recuperados y sus 297 fotografías se verificaron mediante SHA256. Las referencias persistentes y el procedimiento de recuperación están en data/coloshop/source-archives.json. No pedir que se vuelvan a subir ni regenerar imágenes aprobadas.
-
-Lote 009: 10 productos publicados, despliegue dpl_CTkpBz2LmsFW4fN5FV1aidMRudGp. Verificados catálogo público de 183 productos, productos Badia, imágenes y subtotal de carrito.
-
-Continuar lotes de 20 con precio directo, identidad exacta y unidad de venta visible; conservar precios ambiguos para revisión.
+La cola contiene 105 observaciones que necesitan confirmar identidad, presentación o precio por unidad. No representan necesariamente 105 productos distintos. Se organizan en 6 lotes de revisión; no se publican hasta resolver esos datos. 4 duplicados fueron resueltos.
